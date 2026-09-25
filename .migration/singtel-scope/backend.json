@@ -1,0 +1,300 @@
+{
+ "captured": "2026-09-25T01:13:42.238Z",
+ "sampledPages": 30,
+ "firstPartyDomain": "singtel.com",
+ "totalServices": 13,
+ "categories": [
+  {
+   "category": "Advertising",
+   "count": 3
+  },
+  {
+   "category": "First-party platform",
+   "count": 2
+  },
+  {
+   "category": "Analytics",
+   "count": 1
+  },
+  {
+   "category": "Chat / messaging",
+   "count": 1
+  },
+  {
+   "category": "First-party forms",
+   "count": 1
+  },
+  {
+   "category": "Advertising / native",
+   "count": 1
+  },
+  {
+   "category": "First-party identity",
+   "count": 1
+  },
+  {
+   "category": "First-party telemetry",
+   "count": 1
+  },
+  {
+   "category": "Session replay / analytics",
+   "count": 1
+  },
+  {
+   "category": "Security / bot",
+   "count": 1
+  }
+ ],
+ "services": [
+  {
+   "name": "Www: Other first-party API",
+   "category": "First-party platform",
+   "note": "Uncategorised same-domain API call",
+   "hosts": [
+    "www.singtel.com",
+    "onepass.singtel.com",
+    "cdn.aws.singtel.com"
+   ],
+   "hostCount": 3,
+   "endpoints": [
+    "POST www.singtel.com/Well-vp-thou-by-it-wing-There-Theft-beth-you-cro",
+    "POST www.singtel.com/rb_:id",
+    "POST onepass.singtel.com/hile-Thould-to-be-King-Hearder-those-thing-Peach",
+    "GET cdn.aws.singtel.com/brt/uxf/:id/businesswidget/repository/common/view/template/generalWarn"
+   ],
+   "pages": 30,
+   "coverage": "100%"
+  },
+  {
+   "name": "Google Analytics (GA4)",
+   "category": "Analytics",
+   "note": "GA4 collect beacons",
+   "hosts": [
+    "analytics.google.com",
+    "www.google.com",
+    "www.google-analytics.com"
+   ],
+   "hostCount": 3,
+   "endpoints": [
+    "POST analytics.google.com/g/collect",
+    "POST www.google.com/g/collect",
+    "POST www.google-analytics.com/j/collect",
+    "POST www.google-analytics.com/g/collect"
+   ],
+   "pages": 30,
+   "coverage": "100%"
+  },
+  {
+   "name": "Google Ads / DoubleClick",
+   "category": "Advertising",
+   "note": "Conversion beacons",
+   "hosts": [
+    "ad.doubleclick.net",
+    "www.google.com",
+    "www.googleadservices.com",
+    "googleads.g.doubleclick.net"
+   ],
+   "hostCount": 4,
+   "endpoints": [
+    "POST ad.doubleclick.net/ccm/s/collect",
+    "POST ad.doubleclick.net/activity;src=:n;type=st-ctr;cat=omd-f:n;rcb=5;ord=:id;npa=0;auiddc=:id.",
+    "GET www.google.com/gmp/conversion/_dc_unique_id=:id;_dc_ptd=ChAI8JTT1QYQneWU0r6L4MAKEh8AlQZ2nc",
+    "GET www.googleadservices.com/pagead/conversion/:id",
+    "POST googleads.g.doubleclick.net/pagead/viewthroughconversion/:id",
+    "GET www.google.com/pagead/1p-user-list/:id",
+    "POST ad.doubleclick.net/activity;src=:n;type=st-ctr;cat=omd-f04o;rcb=17;ord=:id;npa=0;auiddc=:i",
+    "POST ad.doubleclick.net/activity;src=:n;type=st-ctr;cat=omd-f:n;rcb=17;ord=:id;npa=0;auiddc=:id"
+   ],
+   "pages": 24,
+   "coverage": "80%"
+  },
+  {
+   "name": "LinkedIn Ads",
+   "category": "Advertising",
+   "note": "",
+   "hosts": [
+    "px.ads.linkedin.com"
+   ],
+   "hostCount": 1,
+   "endpoints": [
+    "POST px.ads.linkedin.com/wa"
+   ],
+   "pages": 21,
+   "coverage": "70%"
+  },
+  {
+   "name": "LivePerson",
+   "category": "Chat / messaging",
+   "note": "",
+   "hosts": [
+    "accdn.lpsnmedia.net"
+   ],
+   "hostCount": 1,
+   "endpoints": [
+    "GET accdn.lpsnmedia.net/api/account/:id/configuration/setting/accountproperties",
+    "GET accdn.lpsnmedia.net/api/account/:id/configuration/le-campaigns/zones",
+    "GET accdn.lpsnmedia.net/api/account/:id/configuration/le-campaigns/campaigns/:id/engagements/:",
+    "GET accdn.lpsnmedia.net/api/account/:id/configuration/engagement-window/window-confs/:id",
+    "GET accdn.lpsnmedia.net/api/account/:n/configuration/setting/accountproperties",
+    "GET accdn.lpsnmedia.net/api/account/:n/configuration/le-campaigns/zones",
+    "GET accdn.lpsnmedia.net/api/account/:n/configuration/le-campaigns/campaigns/:id/engagements/:i",
+    "GET accdn.lpsnmedia.net/api/account/:n/configuration/engagement-window/window-confs/:id"
+   ],
+   "pages": 20,
+   "coverage": "67%"
+  },
+  {
+   "name": "Reddit Conversions",
+   "category": "Advertising",
+   "note": "",
+   "hosts": [
+    "alb.reddit.com"
+   ],
+   "hostCount": 1,
+   "endpoints": [
+    "POST alb.reddit.com/rp"
+   ],
+   "pages": 13,
+   "coverage": "43%"
+  },
+  {
+   "name": "Www: Content / App API",
+   "category": "First-party platform",
+   "note": "App / content back-end",
+   "hosts": [
+    "api.singtel.com"
+   ],
+   "hostCount": 1,
+   "endpoints": [
+    "GET api.singtel.com/api/sg/v1/mcssapi/rp-webapp-9-common/application/client/configuration",
+    "GET api.singtel.com/api/sg/v1/mcssapi/rp-webapp-9-common/reference-data/choice/STANDARD%3ASALU",
+    "GET api.singtel.com/api/sg/v1/mcssapi/rp-webapp-9-common/reference-data/choice/STANDARD%3AGEND",
+    "GET api.singtel.com/api/sg/v1/mcssapi/rp-webapp-9-common/onepass/headers"
+   ],
+   "pages": 7,
+   "coverage": "23%"
+  },
+  {
+   "name": "Www: Forms / Lead API",
+   "category": "First-party forms",
+   "note": "Form submission / lead capture",
+   "hosts": [
+    "api.singtel.com"
+   ],
+   "hostCount": 1,
+   "endpoints": [
+    "GET api.singtel.com/api/sg/v1/mcssapi/rp-webapp-9-common/user/information"
+   ],
+   "pages": 7,
+   "coverage": "23%"
+  },
+  {
+   "name": "Taboola",
+   "category": "Advertising / native",
+   "note": "",
+   "hosts": [
+    "trc-events.taboola.com",
+    "trc.taboola.com"
+   ],
+   "hostCount": 2,
+   "endpoints": [
+    "GET trc-events.taboola.com/:n/log/3/unip",
+    "GET trc.taboola.com/:n/log/3/unip"
+   ],
+   "pages": 3,
+   "coverage": "10%"
+  },
+  {
+   "name": "Www: Identity / Auth API",
+   "category": "First-party identity",
+   "note": "Sign-in / session / visitor-id services",
+   "hosts": [
+    "api.singtel.com",
+    "cdn.aws.singtel.com"
+   ],
+   "hostCount": 2,
+   "endpoints": [
+    "POST api.singtel.com/api/sg/v1/oauth/token",
+    "GET cdn.aws.singtel.com/brt/uxf/:id/businesswidget/repository/common/view/template/unauthentic"
+   ],
+   "pages": 2,
+   "coverage": "7%"
+  },
+  {
+   "name": "Www: Logging API",
+   "category": "First-party telemetry",
+   "note": "Client log / error ingestion",
+   "hosts": [
+    "cdn.aws.singtel.com",
+    "api.singtel.com"
+   ],
+   "hostCount": 2,
+   "endpoints": [
+    "GET cdn.aws.singtel.com/brt/uxf/:id/businesswidget/repository/common/view/template/generalErro",
+    "POST api.singtel.com/api/sg/v1/online-eshop/user/logout"
+   ],
+   "pages": 2,
+   "coverage": "7%"
+  },
+  {
+   "name": "Digital-experience analytics",
+   "category": "Session replay / analytics",
+   "note": "",
+   "hosts": [
+    "t.clarity.ms"
+   ],
+   "hostCount": 1,
+   "endpoints": [
+    "POST t.clarity.ms/collect"
+   ],
+   "pages": 2,
+   "coverage": "7%"
+  },
+  {
+   "name": "Bot / security",
+   "category": "Security / bot",
+   "note": "",
+   "hosts": [
+    "www.google.com"
+   ],
+   "hostCount": 1,
+   "endpoints": [
+    "POST www.google.com/recaptcha/api2/reload"
+   ],
+   "pages": 1,
+   "coverage": "3%"
+  }
+ ],
+ "otherHosts": [
+  {
+   "host": "pixel.quantserve.com",
+   "pages": 22,
+   "sample": "GET pixel.quantserve.com/cs"
+  },
+  {
+   "host": "www.google.com",
+   "pages": 21,
+   "sample": "POST www.google.com/ccm/collect"
+  },
+  {
+   "host": "s.yimg.com",
+   "pages": 21,
+   "sample": "GET s.yimg.com/wi/config/:n.json"
+  },
+  {
+   "host": "tw-0fde0867b14c4d8e9131519b5349f6f2.ecs.us-west-2.on.aws",
+   "pages": 21,
+   "sample": "POST tw-0fde0867b14c4d8e9131519b5349f6f2.ecs.us-west-2.on.aws/events"
+  },
+  {
+   "host": "api.trafficguard.ai",
+   "pages": 21,
+   "sample": "POST api.trafficguard.ai/tg-g:id/api/v4/client-side/validate/event"
+  },
+  {
+   "host": "www.googletagmanager.com",
+   "pages": 3,
+   "sample": "POST www.googletagmanager.com/td"
+  }
+ ]
+}

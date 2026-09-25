@@ -1,0 +1,211 @@
+▶ catalog: /workspace/current/.migration/singtel-scope
+▶ site: https://www.singtel.com/
+▶ [1/12] urls-all.json exists — skip crawl
+▶ [3/12] render + fingerprint (resumable)
+Render set: 62, already done: 0, todo: 62
+  [w3] 20/62 done (ok=20 fail=0) last=https://singtel.com/business/products-services/5g/journey.html
+  [w0] 40/62 done (ok=38 fail=0) last=https://www.singtel.com/business/products-services/communication-colla
+  [w3] 60/62 done (ok=56 fail=0) last=https://www.singtel.com/personal/terms
+DONE rendering. ok=62 fail=0 total_processed=62
+▶ [4/12] cluster layouts + detect front-end integrations
+Rendered pages clustered: 62
+Distinct layout signatures: 24
+
+=== Layout templates (est. full-population pages) ===
+   24 pp  rendered= 24   minimal-page     (empty)                                        |  personal(11) business(10) (home)(2)
+    5 pp  rendered=  5   article-text     text>text>columns>text>text>text>text          |  business(5)
+    3 pp  rendered=  3   embed-page       iframe-embed                                   |  business(3)
+    3 pp  rendered=  3   card-grid        columns>cards>cards>columns>text>text>text>car |  contact-us(3)
+    3 pp  rendered=  3   article-text     text                                           |  business(3)
+    2 pp  rendered=  2   card-grid        list>text>cards>text>cards>cards>list          |  about-us(2)
+    2 pp  rendered=  2   carousel-page    list>carousel>cards>cards>text>table>table>lis |  about-us(2)
+    2 pp  rendered=  2   form-page        list>text>form>text>list                       |  about-us(2)
+    2 pp  rendered=  2   breadcrumb-page  list>breadcrumbs>text>text>text>list           |  about-us(2)
+    2 pp  rendered=  2   card-grid        list>breadcrumbs>text>cards>text>list          |  about-us(2)
+    1 pp  rendered=  1   card-grid        list>cards>list                                |  about-us(1)
+    1 pp  rendered=  1   section-nav-list list>text                                      |  personal(1)
+    1 pp  rendered=  1   data-table       table>text>text                                |  roaming(1)
+    1 pp  rendered=  1   columns          columns>text>text>text>text>text               |  business(1)
+    1 pp  rendered=  1   embed-page       columns>text>iframe-embed>columns>text>text    |  business(1)
+    1 pp  rendered=  1   form-page        text>form>text>text>text>text>carousel         |  about-us(1)
+    1 pp  rendered=  1   data-table       table                                          |  content(1)
+    1 pp  rendered=  1   form-page        form                                           |  contact-us(1)
+    1 pp  rendered=  1   card-grid        cards                                          |  enterprise-mobile-terms-and-conditions(1)
+    1 pp  rendered=  1   article-text     text>text>text>text>text>text>text>text        |  personal(1)
+    1 pp  rendered=  1   section-nav-list list>text>text                                 |  personal(1)
+    1 pp  rendered=  1   nav              nav>text                                       |  personal(1)
+    1 pp  rendered=  1   article-text     text>text>text                                 |  personal(1)
+    1 pp  rendered=  1   data-table       table>table                                    |  terms-general-enterprise(1)
+
+=== Third-party integrations detected ===
+  270 Google Tag Manager
+  148 Snapchat Pixel
+   96 Meta (Facebook) Pixel
+   86 TikTok Pixel
+   85 LivePerson
+   79 Taboola
+   76 Google Ads/DoubleClick
+   57 Microsoft/Bing Ads (UET)
+   45 YouTube embed
+   37 Google Analytics
+   37 Other third-party: secure.quantserve.com
+   32 Other third-party: s.yimg.com
+   32 Twitter/X Pixel
+   25 Other third-party: tgtag.io
+   17 ZoomInfo
+   14 Reddit Pixel
+   14 Other third-party: analytics.ahrefs.com
+    2 Other third-party: performancemanager10.successfactors.com
+    2 Other third-party: scripts.clarity.ms
+    2 Other third-party: www.clarity.ms
+    1 Other third-party: dokumfe7mps0i.cloudfront.net
+    1 CDN/JS libs
+    1 Other third-party: www.google.com
+    1 Other third-party: rmk-map-10.jobs2web.com
+
+=== Global objects ===
+  61 dataLayer
+  60 google_tag_manager
+  37 ga
+  32 fbq
+  21 YT
+   3 gtag
+▶ [5/12] capture block instances (resumable)
+Render set 62, pages already captured 0, todo 62
+  [w4] 20/62 pages (blocks captured=37) https://singtel.com/business/products-services/5g/journey.ht
+  [w3] 40/62 pages (blocks captured=98) https://www.singtel.com/business/products-services/communica
+  [w0] 60/62 pages (blocks captured=121) https://www.singtel.com/personal/terms
+DONE. pages=62 blocks=125
+▶ [6/12] consolidate block variants
+Total block instances: 125
+Total variants: 33
+
+=== Base type -> variants / instances ===
+  52 inst    6 variants   unknown
+  26 inst    4 variants   text
+  10 inst    4 variants   cards
+   8 inst    4 variants   columns
+   8 inst    4 variants   form
+   5 inst    2 variants   table
+   4 inst    3 variants   accordion
+   4 inst    1 variants   breadcrumbs
+   4 inst    2 variants   iframe-embed
+   3 inst    2 variants   carousel
+   1 inst    1 variants   tabs
+
+=== Top 20 variants ===
+  18 x   unknown       pages= 11   div|div1|img,hd,aN,iN
+  15 x   text          pages= 14   div|div1|aN,iN
+  15 x   unknown       pages= 11   div|div1|img,lst,aN,iN
+  11 x   unknown       pages= 11   div|div1|img,lst,frm,aN,iN
+   8 x   text          pages=  7   div|div1|hd,aN,iN
+   5 x   unknown       pages=  5   div|div1|img,lst,hd,aN,iN
+   4 x   breadcrumbs   pages=  4   div|div1|aN,iN
+   4 x   cards         pages=  4   div|div1|img,aN,iN
+   4 x   form          pages=  4   div|div1|img,lst,frm,hd,aN,iN
+   4 x   table         pages=  2   div|div1|img,tbl,aN,iN
+   3 x   cards         pages=  3   div|div1|img,lst,aN,iN
+   3 x   columns       pages=  2   div|div1|img,hd,aN,iN
+   3 x   columns       pages=  1   div|div3|aN,iN
+   2 x   accordion     pages=  2   div|div1|img,lst,frm,hd,aN,iN
+   2 x   cards         pages=  2   div|div1|aN,iN
+   2 x   carousel      pages=  2   div|div1|hd,aN,iN
+   2 x   form          pages=  2   div|div1|img,frm,aN,iN
+   2 x   iframe-embed  pages=  2   div|div1|img,ifr,hd,aN,iN
+   2 x   iframe-embed  pages=  2   div|div1|ifr,hd,aN,iN
+   2 x   text          pages=  2   div|div1|lst,hd,aN,iN
+▶ [7/12] capture template screenshots
+✓ t00_minimal-page.jpg  (498KB)  https://singtel.com/business/products-services/communication
+✓ t01_article-text.jpg  (787KB)  https://singtel.com/business
+✓ t02_embed-page.jpg  (772KB)  https://singtel.com/business/campaign/cubiclelife
+✓ t03_card-grid.jpg  (224KB)  https://singtel.com/contact-us
+✓ t04_article-text.jpg  (500KB)  https://singtel.com/business/products-services/5g/journey.ht
+✓ t05_card-grid.jpg  (554KB)  https://www.singtel.com/about-us/sustainability.html
+✓ t06_carousel-page.jpg  (243KB)  https://singtel.com/about-us
+✓ t07_form-page.jpg  (307KB)  https://www.singtel.com/about-us/media-centre
+✓ t08_breadcrumb-page.jpg  (375KB)  https://www.singtel.com/about-us/media-centre/news-releases/
+✓ t11_section-nav-list.jpg  (261KB)  https://singtel.com/personal/products-services/lifestyle-ser
+✓ t12_data-table.jpg  (1301KB)  https://singtel.com/roaming
+✓ t13_columns.jpg  (826KB)  https://www.singtel.com/business/articles/sme/Defending-agai
+✓ t14_embed-page.jpg  (579KB)  https://singtel.com/business/articles/embracing-new-technolo
+✓ t15_form-page.jpg  (346KB)  https://www.singtel.com/about-us/careers
+✓ t16_data-table.jpg  (432KB)  https://www.singtel.com/content/singtel/en/personal/products
+✓ t20_section-nav-list.jpg  (983KB)  https://www.singtel.com/personal/my-account/rewards/gxs-cred
+✓ t21_nav.jpg  (170KB)  https://www.singtel.com/personal/support/recontract-eligibil
+DONE shots: 17/17
+▶ [8/12] build methodology diagrams
+diagram: cards-diagram.jpg ← A block that IS a standard type (Cards)
+diagram: unknown-diagram.jpg ← A block that is NOT a standard type (Unknown)
+done
+▶ [9/12] compute URL-coverage categorisation
+inspection.json: 24 template groups | full: 9 sampled: 10 excluded: 5
+pages — inspected: 60 skipped: 1393 non-200: 113 of 1453 urls
+
+=== Template groups (by size) ===
+  G00   433  sampled   /business/{section}/{slug}        Business sub-pages
+  G01   341  sampled   /business/{section}/{page}/{path…}  Business deep pages
+  G02   305  sampled   /personal/{section}/{page}/{path…}  Personal deep pages
+  G03   121  sampled   /business/{section}/{page}        Business sub-pages
+  G04    68  excluded  /{page}/{slug}                    Root-level product & marketing pages
+  G05    48  sampled   /{page}                           Root-level product & marketing pages
+  G06    30  sampled   /personal/{section}/{page}        Personal sub-pages
+  G07    21  sampled   /business/{section}               Business section pages
+  G08    18  sampled   /about-us/{section}/{page}/{path…}  About-us deep pages
+  G09    14  excluded  /{page}/{section}                 Root-level product & marketing pages
+  G10    11  sampled   /personal/{section}               Personal section pages
+  G11    10  sampled   /about-us/{section}               About-us section pages
+  G12     6  excluded  /{page}/{section}/{slug}          Root-level product & marketing pages
+  G13     5  excluded  /{page}/{id}/{slug}               Root-level product & marketing pages
+  G14     4  full      /business/{section}/{id}/{path…}  Business deep pages
+  G15     3  full      /contact-us                       Contact-us — landing
+  G16     3  full      /business                         Business — landing
+  G17     3  full      /personal                         Personal — landing
+  G18     3  full      /about-us                         About-us — landing
+  G19     2  excluded  /                                 Homepage & root
+  G20     1  full      /contact-us/{section}             Contact-us section pages
+  G21     1  full      /about-us/{section}/{page}        About-us sub-pages
+  G22     1  full      /personal/{section}/{slug}        Personal sub-pages
+  G23     1  full      /{page}/{section}/{page}/{path…}  Root-level product & marketing pages
+▶ [10/12] capture backend API calls (sample=60, resumable)
+Backend sample 30, already done 0, todo 30
+  10/30 (ok=10 empty-fail=0)
+  20/30 (ok=20 empty-fail=0)
+  30/30 (ok=30 empty-fail=0)
+DONE backend capture. pages=30 ok=30
+▶ [10b] consolidate backend integrations -> backend.json
+Sampled pages: 30 | first-party domain: singtel.com
+Probable backend integrations: 13 | unclassified hosts: 6
+
+=== By category ===
+  3 Advertising
+  2 First-party platform
+  1 Analytics
+  1 Chat / messaging
+  1 First-party forms
+  1 Advertising / native
+  1 First-party identity
+  1 First-party telemetry
+  1 Session replay / analytics
+  1 Security / bot
+
+=== Services (by page coverage) ===
+ 30pg  First-party platform        Www: Other first-party API
+ 30pg  Analytics                   Google Analytics (GA4)
+ 24pg  Advertising                 Google Ads / DoubleClick
+ 21pg  Advertising                 LinkedIn Ads
+ 20pg  Chat / messaging            LivePerson
+ 13pg  Advertising                 Reddit Conversions
+  7pg  First-party platform        Www: Content / App API
+  7pg  First-party forms           Www: Forms / Lead API
+  3pg  Advertising / native        Taboola
+  2pg  First-party identity        Www: Identity / Auth API
+  2pg  First-party telemetry       Www: Logging API
+  2pg  Session replay / analytics  Digital-experience analytics
+  1pg  Security / bot              Bot / security
+▶ [11/12] compute supplementary data
+compute-data: live pages 1340 | structure groups 35 | docs 3 | url groups 31 | layout heatmap rows 11 | block heatmap rows 11 | integrations 24
+▶ [12/12] build dashboard
+written: /workspace/current/.migration/reports/singtel-com-site-analysis-dashboard.html 16.06 MB
+templates: 11 galleries: Cards:4, Columns:4, Carousel:2, Accordion:3, Tabs:1, Table:2, Form:4, Embed:2, Breadcrumbs:1, Text:4, Unknown / Custom:6
+IMAGES: 33 TEMPLATE_SHOTS: 11
+✅ done.

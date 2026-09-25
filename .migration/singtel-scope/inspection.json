@@ -1,0 +1,293 @@
+{
+ "captured": "2026-09-25T01:13:41.499Z",
+ "locales": [],
+ "sections": [
+  "personal",
+  "contact-us",
+  "business",
+  "about-us"
+ ],
+ "selInspect": {
+  "totalGroups": 24,
+  "totalLive": 1340,
+  "totalUrls": 1453,
+  "selectedTotal": 62,
+  "skippedTotal": 1391,
+  "non200Total": 113,
+  "nonRrendered": 22,
+  "nonRtotal": 22,
+  "fullGroups": 10,
+  "rRendered": 40,
+  "rTotal": 1338,
+  "rGroups": 10,
+  "exclTotal": 93,
+  "exclGroups": 4,
+  "nonEnExcluded": 93
+ },
+ "rows": [
+  {
+   "groupId": "G00",
+   "template": "/business/{section}/{slug}",
+   "label": "Business sub-pages",
+   "total": 433,
+   "selected": 4,
+   "skipped": 429,
+   "non200": 0,
+   "category": "sampled",
+   "example": "/business/products-services/software-defined-connectivity"
+  },
+  {
+   "groupId": "G01",
+   "template": "/business/{section}/{page}/{path…}",
+   "label": "Business deep pages",
+   "total": 341,
+   "selected": 4,
+   "skipped": 337,
+   "non200": 2,
+   "category": "sampled",
+   "example": "/business/info/apple/iphone"
+  },
+  {
+   "groupId": "G02",
+   "template": "/personal/{section}/{page}/{path…}",
+   "label": "Personal deep pages",
+   "total": 305,
+   "selected": 4,
+   "skipped": 301,
+   "non200": 6,
+   "category": "sampled",
+   "example": "/personal/products-services/broadband/fibre-broadband-plans"
+  },
+  {
+   "groupId": "G03",
+   "template": "/business/{section}/{page}",
+   "label": "Business sub-pages",
+   "total": 121,
+   "selected": 4,
+   "skipped": 117,
+   "non200": 0,
+   "category": "sampled",
+   "example": "/business/why-singtel-business/global-services"
+  },
+  {
+   "groupId": "G04",
+   "template": "/{page}/{slug}",
+   "label": "Root-level product & marketing pages",
+   "total": 68,
+   "selected": 0,
+   "skipped": 68,
+   "non200": 68,
+   "category": "excluded",
+   "example": "/our-reach/singapore-dc-kim-chuan-2"
+  },
+  {
+   "groupId": "G05",
+   "template": "/{page}",
+   "label": "Root-level product & marketing pages",
+   "total": 48,
+   "selected": 4,
+   "skipped": 44,
+   "non200": 7,
+   "category": "sampled",
+   "example": "/data-protection"
+  },
+  {
+   "groupId": "G06",
+   "template": "/personal/{section}/{page}",
+   "label": "Personal sub-pages",
+   "total": 30,
+   "selected": 4,
+   "skipped": 26,
+   "non200": 1,
+   "category": "sampled",
+   "example": "/personal/support/self-serve-kiosks"
+  },
+  {
+   "groupId": "G07",
+   "template": "/business/{section}",
+   "label": "Business section pages",
+   "total": 21,
+   "selected": 4,
+   "skipped": 17,
+   "non200": 0,
+   "category": "sampled",
+   "example": "/business/products-services"
+  },
+  {
+   "groupId": "G08",
+   "template": "/about-us/{section}/{page}/{path…}",
+   "label": "About-us deep pages",
+   "total": 18,
+   "selected": 4,
+   "skipped": 14,
+   "non200": 0,
+   "category": "sampled",
+   "example": "/about-us/media-centre/news-releases/singtel-digita-infraco-reai-and-weka"
+  },
+  {
+   "groupId": "G09",
+   "template": "/{page}/{section}",
+   "label": "Root-level product & marketing pages",
+   "total": 14,
+   "selected": 0,
+   "skipped": 14,
+   "non200": 14,
+   "category": "excluded",
+   "example": "/our-reach/our-reach"
+  },
+  {
+   "groupId": "G10",
+   "template": "/personal/{section}",
+   "label": "Personal section pages",
+   "total": 11,
+   "selected": 4,
+   "skipped": 7,
+   "non200": 0,
+   "category": "sampled",
+   "example": "/personal/terms"
+  },
+  {
+   "groupId": "G11",
+   "template": "/about-us/{section}",
+   "label": "About-us section pages",
+   "total": 10,
+   "selected": 4,
+   "skipped": 6,
+   "non200": 4,
+   "category": "sampled",
+   "example": "/about-us/sustainability.html"
+  },
+  {
+   "groupId": "G12",
+   "template": "/{page}/{section}/{slug}",
+   "label": "Root-level product & marketing pages",
+   "total": 6,
+   "selected": 0,
+   "skipped": 6,
+   "non200": 6,
+   "category": "excluded",
+   "example": "/go/Technology/4559400"
+  },
+  {
+   "groupId": "G13",
+   "template": "/{page}/{id}/{slug}",
+   "label": "Root-level product & marketing pages",
+   "total": 5,
+   "selected": 0,
+   "skipped": 5,
+   "non200": 5,
+   "category": "excluded",
+   "example": "/go/Retail-and-Customer-Service/4559200"
+  },
+  {
+   "groupId": "G14",
+   "template": "/business/{section}/{id}/{path…}",
+   "label": "Business deep pages",
+   "total": 4,
+   "selected": 4,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/business/products-services/communication-collaboration/unified-communications/teams-uc-connector"
+  },
+  {
+   "groupId": "G15",
+   "template": "/contact-us",
+   "label": "Contact-us — landing",
+   "total": 3,
+   "selected": 3,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/contact-us"
+  },
+  {
+   "groupId": "G16",
+   "template": "/business",
+   "label": "Business — landing",
+   "total": 3,
+   "selected": 3,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/business"
+  },
+  {
+   "groupId": "G17",
+   "template": "/personal",
+   "label": "Personal — landing",
+   "total": 3,
+   "selected": 3,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/personal"
+  },
+  {
+   "groupId": "G18",
+   "template": "/about-us",
+   "label": "About-us — landing",
+   "total": 3,
+   "selected": 3,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/about-us"
+  },
+  {
+   "groupId": "G19",
+   "template": "/",
+   "label": "Homepage & root",
+   "total": 2,
+   "selected": 2,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": ""
+  },
+  {
+   "groupId": "G20",
+   "template": "/contact-us/{section}",
+   "label": "Contact-us section pages",
+   "total": 1,
+   "selected": 1,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/contact-us/form"
+  },
+  {
+   "groupId": "G21",
+   "template": "/about-us/{section}/{page}",
+   "label": "About-us sub-pages",
+   "total": 1,
+   "selected": 1,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/about-us/media-centre/news-releases.html"
+  },
+  {
+   "groupId": "G22",
+   "template": "/personal/{section}/{slug}",
+   "label": "Personal sub-pages",
+   "total": 1,
+   "selected": 1,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/personal/promotions/always-more-for-you"
+  },
+  {
+   "groupId": "G23",
+   "template": "/{page}/{section}/{page}/{path…}",
+   "label": "Root-level product & marketing pages",
+   "total": 1,
+   "selected": 1,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/content/singtel/en/personal/products-services/mobile/add-ons/swop.html"
+  }
+ ]
+}

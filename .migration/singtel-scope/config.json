@@ -1,0 +1,19 @@
+{
+  "siteUrl": "https://www.singtel.com/",
+  "siteOrigin": "https://www.singtel.com",
+  "site": "singtel.com",
+  "scope": "Entire domain — all sections/subpages",
+  "eyebrow": "Singtel · Site Analysis",
+  "heroTitle": "Structural analysis of singtel.com",
+  "heroSub": "",
+  "brandLine": "singtel.com<br>Migration Console",
+  "accountName": "Singtel",
+  "locale": "en (single)",
+  "discovery": "full breadth-first crawl",
+  "cjk": false,
+
+  "catalogFolder": "/workspace/current/.migration/singtel-scope",
+  "reportsDir": "/workspace/current/.migration/reports",
+  "templateHtml": "/workspace/current/.claude/skills/site-analysis-dashboard/templates/dashboard-template.html",
+  "outFile": ""
+}

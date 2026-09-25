@@ -1,0 +1,976 @@
+{
+ "captured": "2026-09-25T01:12:20.951Z",
+ "totalInstances": 168,
+ "totalVariants": 41,
+ "baseSummary": [
+  {
+   "base": "unknown",
+   "variants": 5,
+   "instances": 52
+  },
+  {
+   "base": "text",
+   "variants": 7,
+   "instances": 44
+  },
+  {
+   "base": "cards",
+   "variants": 6,
+   "instances": 18
+  },
+  {
+   "base": "columns",
+   "variants": 5,
+   "instances": 11
+  },
+  {
+   "base": "form",
+   "variants": 4,
+   "instances": 10
+  },
+  {
+   "base": "hero",
+   "variants": 1,
+   "instances": 10
+  },
+  {
+   "base": "table",
+   "variants": 3,
+   "instances": 6
+  },
+  {
+   "base": "breadcrumbs",
+   "variants": 1,
+   "instances": 5
+  },
+  {
+   "base": "accordion",
+   "variants": 4,
+   "instances": 4
+  },
+  {
+   "base": "iframe-embed",
+   "variants": 2,
+   "instances": 4
+  },
+  {
+   "base": "carousel",
+   "variants": 2,
+   "instances": 3
+  },
+  {
+   "base": "tabs",
+   "variants": 1,
+   "instances": 1
+  }
+ ],
+ "variants": [
+  {
+   "base": "accordion",
+   "key": "accordion::div|div1|img,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "accordion_99a6bfe80f9d.jpg",
+   "repUrl": "http://singtel.com/personal/products-services/lifestyle-services/ai-pass/faqs",
+   "samples": [
+    {
+     "url": "http://singtel.com/personal/products-services/lifestyle-services/ai-pass/faqs",
+     "file": "accordion_99a6bfe80f9d.jpg"
+    }
+   ],
+   "topLabel": "Singtel AI Pass"
+  },
+  {
+   "base": "accordion",
+   "key": "accordion::div|div1|img,lst,frm,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "accordion_36ab2b557318.jpg",
+   "repUrl": "https://singtel.com/contact-us",
+   "samples": [
+    {
+     "url": "https://singtel.com/contact-us",
+     "file": "accordion_36ab2b557318.jpg"
+    }
+   ],
+   "topLabel": "How can we help?"
+  },
+  {
+   "base": "accordion",
+   "key": "accordion::div|div1|img,lst,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "accordion_6c47a3782f57.jpg",
+   "repUrl": "https://www.singtel.com/business/why-singtel-business/sustainability",
+   "samples": [
+    {
+     "url": "https://www.singtel.com/business/why-singtel-business/sustainability",
+     "file": "accordion_6c47a3782f57.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "accordion",
+   "key": "accordion::div|div3|hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "accordion_35fdb863d964.jpg",
+   "repUrl": "https://www.singtel.com/personal/broadband/fibre",
+   "samples": [
+    {
+     "url": "https://www.singtel.com/personal/broadband/fibre",
+     "file": "accordion_35fdb863d964.jpg"
+    }
+   ],
+   "topLabel": "FAQs"
+  },
+  {
+   "base": "breadcrumbs",
+   "key": "breadcrumbs::div|div1|aN,iN",
+   "instances": 5,
+   "pagesFound": 5,
+   "repFile": "breadcrumbs_2860abf2d7a7.jpg",
+   "repUrl": "https://www.singtel.com/business/why-singtel-business/sustainability",
+   "samples": [
+    {
+     "url": "https://www.singtel.com/about-us/media-centre/news-releases/-singtel-announces-private-preview-of-microsoft-azure-public-mec",
+     "file": "breadcrumbs_3b9204a40ac8.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/about-us/media-centre/news-releases/singtel-launches-app-based-network-slicing-on-iphone-and-ipad-for-enhanced-enterprise-connectivity",
+     "file": "breadcrumbs_e63e690ee4e4.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/about-us/media-centre/news-releases/bridge-alliance-and-singtel-partner-to-launch-regional-telco-api-exchange-powered-by-singtel-paragon-platform",
+     "file": "breadcrumbs_4b0a4e69339e.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/about-us/media-centre/news-releases/singtel-unveils-paragon-industry-first-all-in-one-platform-for-5g-network-edge-computing-and-services-orchestration",
+     "file": "breadcrumbs_338293f4bc55.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/business/why-singtel-business/sustainability",
+     "file": "breadcrumbs_2860abf2d7a7.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "cards",
+   "key": "cards::div|div1|img,aN,iN",
+   "instances": 5,
+   "pagesFound": 5,
+   "repFile": "cards_d79fe34f5b8c.jpg",
+   "repUrl": "https://www.singtel.com/about-us/media-centre/news-releases/singtel-unveils-paragon-industry-first-all-in-one-platform-for-5g-network-edge-computing-and-services-orchestration",
+   "samples": [
+    {
+     "url": "http://www.singtel.com/about-us",
+     "file": "cards_126ecfd980d9.jpg"
+    },
+    {
+     "url": "https://singtel.com/about-us",
+     "file": "cards_31e0d6f1b7a1.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/about-us",
+     "file": "cards_ab9698894d92.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/about-us/media-centre/news-releases/singtel-unveils-paragon-industry-first-all-in-one-platform-for-5g-network-edge-computing-and-services-orchestration",
+     "file": "cards_d79fe34f5b8c.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/business/solutions/infrastructure-solutions/enterprise-wide-outsourcing",
+     "file": "cards_bd812130ff88.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "cards",
+   "key": "cards::div|div1|img,lst,aN,iN",
+   "instances": 4,
+   "pagesFound": 4,
+   "repFile": "cards_71bb803859c7.jpg",
+   "repUrl": "http://www.singtel.com/about-us",
+   "samples": [
+    {
+     "url": "http://www.singtel.com/about-us",
+     "file": "cards_71bb803859c7.jpg"
+    },
+    {
+     "url": "http://www.singtel.com/about-us/sustainability.html",
+     "file": "cards_bb20bc57681a.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/about-us",
+     "file": "cards_e4c76e353021.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/about-us/sustainability.html",
+     "file": "cards_af3de4ad23d9.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "cards",
+   "key": "cards::div|div1|aN,iN",
+   "instances": 4,
+   "pagesFound": 4,
+   "repFile": "cards_794cb746157d.jpg",
+   "repUrl": "https://www.singtel.com/about-us/media-centre/news-releases/bridge-alliance-and-singtel-partner-to-launch-regional-telco-api-exchange-powered-by-singtel-paragon-platform",
+   "samples": [
+    {
+     "url": "http://www.singtel.com/about-us/sustainability.html",
+     "file": "cards_bda1b936723e.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/about-us/media-centre/news-releases/bridge-alliance-and-singtel-partner-to-launch-regional-telco-api-exchange-powered-by-singtel-paragon-platform",
+     "file": "cards_794cb746157d.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/about-us/sustainability.html",
+     "file": "cards_4f51b01c00ea.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/business/products-services/5g/partners/devices",
+     "file": "cards_ae17746ba427.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "cards",
+   "key": "cards::div|div1|hd,aN,iN",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "cards_bfaaa6d190ee.jpg",
+   "repUrl": "https://www.singtel.com/business/why-singtel-business/sustainability",
+   "samples": [
+    {
+     "url": "http://www.singtel.com/about-us/sustainability.html",
+     "file": "cards_91009d627f3a.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/about-us/sustainability.html",
+     "file": "cards_82a21bb043f1.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/business/why-singtel-business/sustainability",
+     "file": "cards_bfaaa6d190ee.jpg"
+    }
+   ],
+   "topLabel": "Singtel Touching Lives Fund"
+  },
+  {
+   "base": "cards",
+   "key": "cards::div|div1|lst,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "cards_26320a894993.jpg",
+   "repUrl": "https://singtel.com/data-protection",
+   "samples": [
+    {
+     "url": "https://singtel.com/data-protection",
+     "file": "cards_26320a894993.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "cards",
+   "key": "cards::div|div1|img,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "cards_dc736fb0765b.jpg",
+   "repUrl": "https://www.singtel.com/business/products-services/5g/partners/devices",
+   "samples": [
+    {
+     "url": "https://www.singtel.com/business/products-services/5g/partners/devices",
+     "file": "cards_dc736fb0765b.jpg"
+    }
+   ],
+   "topLabel": "Axis Communications"
+  },
+  {
+   "base": "carousel",
+   "key": "carousel::div|div1|hd,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "carousel_60568f6b4f89.jpg",
+   "repUrl": "https://www.singtel.com/about-us",
+   "samples": [
+    {
+     "url": "http://www.singtel.com/about-us",
+     "file": "carousel_87d7faa89d42.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/about-us",
+     "file": "carousel_60568f6b4f89.jpg"
+    }
+   ],
+   "topLabel": "A new growth plan to deliver enhanced customer experiences a"
+  },
+  {
+   "base": "carousel",
+   "key": "carousel::div|div2.h21|lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "carousel_ab9e33e12471.jpg",
+   "repUrl": "https://www.singtel.com/about-us/careers",
+   "samples": [
+    {
+     "url": "https://www.singtel.com/about-us/careers",
+     "file": "carousel_ab9e33e12471.jpg"
+    }
+   ],
+   "topLabel": "Singtel Group Companies"
+  },
+  {
+   "base": "columns",
+   "key": "columns::div|div1|img,hd,aN,iN",
+   "instances": 3,
+   "pagesFound": 2,
+   "repFile": "columns_faa7642ef129.jpg",
+   "repUrl": "https://singtel.com/business/articles/embracing-new-technology-to-spearhead-industry-transformation.html",
+   "samples": [
+    {
+     "url": "http://www.singtel.com/business/articles/sme/Defending-against-scams-5-basic-steps-for-SMBs",
+     "file": "columns_e0be3c6a5d9d.jpg"
+    },
+    {
+     "url": "https://singtel.com/business/articles/embracing-new-technology-to-spearhead-industry-transformation.html",
+     "file": "columns_00723bfadbef.jpg"
+    },
+    {
+     "url": "https://singtel.com/business/articles/embracing-new-technology-to-spearhead-industry-transformation.html",
+     "file": "columns_faa7642ef129.jpg"
+    }
+   ],
+   "topLabel": "Defending against scams: 5 basic steps for SMBs"
+  },
+  {
+   "base": "columns",
+   "key": "columns::div|div1|img,aN,iN",
+   "instances": 3,
+   "pagesFound": 2,
+   "repFile": "columns_7cdfb40a9ff5.jpg",
+   "repUrl": "https://www.singtel.com/business/products-services/5g/partners/devices",
+   "samples": [
+    {
+     "url": "http://www.singtel.com/business/products-services/communication-collaboration/unified-communications/teams-uc-connector",
+     "file": "columns_f2976f35a651.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/business/products-services/5g/partners/devices",
+     "file": "columns_7cdfb40a9ff5.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/business/products-services/5g/partners/devices",
+     "file": "columns_816152b39446.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "columns",
+   "key": "columns::div|div3|aN,iN",
+   "instances": 3,
+   "pagesFound": 1,
+   "repFile": "columns_f72cc1b73333.jpg",
+   "repUrl": "https://www.singtel.com/about-us/careers",
+   "samples": [
+    {
+     "url": "https://www.singtel.com/about-us/careers",
+     "file": "columns_0919032071d6.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/about-us/careers",
+     "file": "columns_f72cc1b73333.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/about-us/careers",
+     "file": "columns_47a4c88a2ac8.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "columns",
+   "key": "columns::div|div1|img,frm,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "columns_ed9bcce8be73.jpg",
+   "repUrl": "https://www.singtel.com/contact-us/form",
+   "samples": [
+    {
+     "url": "https://www.singtel.com/contact-us/form",
+     "file": "columns_ed9bcce8be73.jpg"
+    }
+   ],
+   "topLabel": "How can we help?"
+  },
+  {
+   "base": "columns",
+   "key": "columns::div|div2|img,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "columns_89ef63bf9619.jpg",
+   "repUrl": "https://www.singtel.com/personal/broadband/fibre",
+   "samples": [
+    {
+     "url": "https://www.singtel.com/personal/broadband/fibre",
+     "file": "columns_89ef63bf9619.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "form",
+   "key": "form::div|div1|img,lst,frm,hd,aN,iN",
+   "instances": 6,
+   "pagesFound": 6,
+   "repFile": "form_4932156e09a0.jpg",
+   "repUrl": "https://singtel.com/data-protection",
+   "samples": [
+    {
+     "url": "https://singtel.com/data-protection",
+     "file": "form_4932156e09a0.jpg"
+    },
+    {
+     "url": "https://singtel.com/contact-us",
+     "file": "form_72a3d2b371be.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/contact-us/form",
+     "file": "form_ecd2ec0783ec.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/personal/products-services/more/singtelcircle-bb/ekyc",
+     "file": "form_c130f428d977.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/personal/support/self-serve-kiosks",
+     "file": "form_e39470d6cc22.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/terms-general-enterprise",
+     "file": "form_95f18c8dd5d8.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "form",
+   "key": "form::div|div1|img,frm,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "form_d7365a660c4e.jpg",
+   "repUrl": "https://www.singtel.com/about-us/media-centre",
+   "samples": [
+    {
+     "url": "https://www.singtel.com/about-us/media-centre",
+     "file": "form_d7365a660c4e.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/about-us/media-centre/news-releases.html",
+     "file": "form_76ebeffee434.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "form",
+   "key": "form::div|div1|frm,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "form_44c092faa560.jpg",
+   "repUrl": "https://www.singtel.com/about-us/careers",
+   "samples": [
+    {
+     "url": "https://www.singtel.com/about-us/careers",
+     "file": "form_44c092faa560.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "form",
+   "key": "form::div|div1|frm,ifr,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "form_f5b89c3c6488.jpg",
+   "repUrl": "https://www.singtel.com/contact-us/form",
+   "samples": [
+    {
+     "url": "https://www.singtel.com/contact-us/form",
+     "file": "form_f5b89c3c6488.jpg"
+    }
+   ],
+   "topLabel": "Your feedback"
+  },
+  {
+   "base": "hero",
+   "key": "hero::div||aN,iN",
+   "instances": 10,
+   "pagesFound": 10,
+   "repFile": "hero_6c763f81f74e.jpg",
+   "repUrl": "https://www.singtel.com/personal/entertainment",
+   "samples": [
+    {
+     "url": "http://www.singtel.com/",
+     "file": "hero_f62f4c89c4ea.jpg"
+    },
+    {
+     "url": "http://www.singtel.com/business/articles/3-steps-to-master-real-time-ai-with-a-5G-ecosystem",
+     "file": "hero_a7d16920f674.jpg"
+    },
+    {
+     "url": "https://singtel.com/business/products-services/communication-collaboration/unified-communications/teams-uc-connector",
+     "file": "hero_726e21122a9d.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/",
+     "file": "hero_cc8a3e3ff333.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/business/articles/european-automotive-company",
+     "file": "hero_e1d5ac98c892.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/business/products-services/communication-collaboration/unified-communications/bizvoice",
+     "file": "hero_49d9ebb29a7f.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "iframe-embed",
+   "key": "iframe-embed::div|div1|img,ifr,hd,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "iframe-embed_7f42284ea981.jpg",
+   "repUrl": "http://www.singtel.com/business/campaign/cubiclelife",
+   "samples": [
+    {
+     "url": "http://www.singtel.com/business/campaign/cubiclelife",
+     "file": "iframe-embed_7f42284ea981.jpg"
+    },
+    {
+     "url": "https://singtel.com/business/campaign/cubiclelife",
+     "file": "iframe-embed_e573b60b4c93.jpg"
+    }
+   ],
+   "topLabel": "CUBICLΣ LIFE - Episode 1"
+  },
+  {
+   "base": "iframe-embed",
+   "key": "iframe-embed::div|div1|ifr,hd,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "iframe-embed_ddcab2597c55.jpg",
+   "repUrl": "https://www.singtel.com/business/campaign/quantumsafenetwork.html",
+   "samples": [
+    {
+     "url": "https://singtel.com/business/articles/embracing-new-technology-to-spearhead-industry-transformation.html",
+     "file": "iframe-embed_61852b9b6ec2.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/business/campaign/quantumsafenetwork.html",
+     "file": "iframe-embed_ddcab2597c55.jpg"
+    }
+   ],
+   "topLabel": "Embracing new technology to spearhead industry transformatio"
+  },
+  {
+   "base": "table",
+   "key": "table::div|div1|img,tbl,aN,iN",
+   "instances": 4,
+   "pagesFound": 2,
+   "repFile": "table_442e857dc336.jpg",
+   "repUrl": "http://www.singtel.com/about-us",
+   "samples": [
+    {
+     "url": "http://www.singtel.com/about-us",
+     "file": "table_442e857dc336.jpg"
+    },
+    {
+     "url": "http://www.singtel.com/about-us",
+     "file": "table_84545e48ae6f.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/about-us",
+     "file": "table_d3ab72a7cf8f.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/about-us",
+     "file": "table_1cc4627f860b.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "table",
+   "key": "table::div|div1|img,tbl,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "table_77f5e31cdd91.jpg",
+   "repUrl": "https://www.singtel.com/content/singtel/en/personal/products-services/mobile/add-ons/swop.html",
+   "samples": [
+    {
+     "url": "https://www.singtel.com/content/singtel/en/personal/products-services/mobile/add-ons/swop.html",
+     "file": "table_77f5e31cdd91.jpg"
+    }
+   ],
+   "topLabel": "Enjoy peace of mind with MobileSwop."
+  },
+  {
+   "base": "table",
+   "key": "table::div|div1|img,tbl,frm,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "table_865f3e98d406.jpg",
+   "repUrl": "https://www.singtel.com/personal/support/self-serve-kiosks",
+   "samples": [
+    {
+     "url": "https://www.singtel.com/personal/support/self-serve-kiosks",
+     "file": "table_865f3e98d406.jpg"
+    }
+   ],
+   "topLabel": "How can we help?"
+  },
+  {
+   "base": "tabs",
+   "key": "tabs::div|div1|img,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "tabs_57f88e5f90e3.jpg",
+   "repUrl": "https://www.singtel.com/personal/promotions/always-more-for-you",
+   "samples": [
+    {
+     "url": "https://www.singtel.com/personal/promotions/always-more-for-you",
+     "file": "tabs_57f88e5f90e3.jpg"
+    }
+   ],
+   "topLabel": "Discover our latest promotions"
+  },
+  {
+   "base": "text",
+   "key": "text::div|div1|aN,iN",
+   "instances": 25,
+   "pagesFound": 20,
+   "repFile": "text_16b63ee7fb99.jpg",
+   "repUrl": "https://www.singtel.com/about-us/media-centre/news-releases/-singtel-announces-private-preview-of-microsoft-azure-public-mec",
+   "samples": [
+    {
+     "url": "http://www.singtel.com/about-us",
+     "file": "text_46dcea1212f8.jpg"
+    },
+    {
+     "url": "http://singtel.com/roaming",
+     "file": "text_008704ac04cf.jpg"
+    },
+    {
+     "url": "http://www.singtel.com/business/enterprise",
+     "file": "text_7e243f20cd55.jpg"
+    },
+    {
+     "url": "http://www.singtel.com/contact-us",
+     "file": "text_cf525ac44d3c.jpg"
+    },
+    {
+     "url": "http://www.singtel.com/personal",
+     "file": "text_9cc5ac17cfa7.jpg"
+    },
+    {
+     "url": "https://singtel.com/business/articles/embracing-new-technology-to-spearhead-industry-transformation.html",
+     "file": "text_cb4272db43cf.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|div1|hd,aN,iN",
+   "instances": 9,
+   "pagesFound": 8,
+   "repFile": "text_a8daf3bd491e.jpg",
+   "repUrl": "http://www.singtel.com/business/articles/sme/Defending-against-scams-5-basic-steps-for-SMBs",
+   "samples": [
+    {
+     "url": "http://www.singtel.com/business/articles/sme/Defending-against-scams-5-basic-steps-for-SMBs",
+     "file": "text_a8daf3bd491e.jpg"
+    },
+    {
+     "url": "http://www.singtel.com/business/articles/sme/Defending-against-scams-5-basic-steps-for-SMBs",
+     "file": "text_1a928a42bc08.jpg"
+    },
+    {
+     "url": "https://singtel.com/business/articles/embracing-new-technology-to-spearhead-industry-transformation.html",
+     "file": "text_55e07e02ca3e.jpg"
+    },
+    {
+     "url": "https://singtel.com/data-protection",
+     "file": "text_469cb2b0712e.jpg"
+    },
+    {
+     "url": "https://singtel.com/business/why-singtel-business",
+     "file": "text_7653306f29b6.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/about-us/careers",
+     "file": "text_53594cb9919f.jpg"
+    }
+   ],
+   "topLabel": "Singtel Singapore"
+  },
+  {
+   "base": "text",
+   "key": "text::div|p1|aN,iN",
+   "instances": 5,
+   "pagesFound": 5,
+   "repFile": "text_60722807457d.jpg",
+   "repUrl": "http://www.singtel.com/",
+   "samples": [
+    {
+     "url": "http://www.singtel.com/",
+     "file": "text_60722807457d.jpg"
+    },
+    {
+     "url": "http://www.singtel.com/business/articles/3-steps-to-master-real-time-ai-with-a-5G-ecosystem",
+     "file": "text_34b6d788c6c8.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/",
+     "file": "text_52ee5e160696.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/business/articles/european-automotive-company",
+     "file": "text_2aedec37044e.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/personal",
+     "file": "text_9dad04030e64.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|div1|lst,hd,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "text_64a0c0cdabc6.jpg",
+   "repUrl": "https://www.singtel.com/personal/my-account/rewards/gxs-credit-card/terms-and-conditions",
+   "samples": [
+    {
+     "url": "https://www.singtel.com/personal/broadband/fibre",
+     "file": "text_826a34e99352.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/personal/my-account/rewards/gxs-credit-card/terms-and-conditions",
+     "file": "text_64a0c0cdabc6.jpg"
+    }
+   ],
+   "topLabel": "Bundle your broadband with entertainment and lifestyle essen"
+  },
+  {
+   "base": "text",
+   "key": "text::div|div1.hr1|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_76a33f7f6c90.jpg",
+   "repUrl": "http://www.singtel.com/business/products-services/communication-collaboration/unified-communications/teams-uc-connector",
+   "samples": [
+    {
+     "url": "http://www.singtel.com/business/products-services/communication-collaboration/unified-communications/teams-uc-connector",
+     "file": "text_76a33f7f6c90.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|p2|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_2871147f917b.jpg",
+   "repUrl": "https://www.singtel.com/business/products-services/communication-collaboration/unified-communications/bizvoice",
+   "samples": [
+    {
+     "url": "https://www.singtel.com/business/products-services/communication-collaboration/unified-communications/bizvoice",
+     "file": "text_2871147f917b.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|div1|lst,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_bbeef13fcf2d.jpg",
+   "repUrl": "https://www.singtel.com/personal/my-account/rewards/gxs-credit-card/terms-and-conditions",
+   "samples": [
+    {
+     "url": "https://www.singtel.com/personal/my-account/rewards/gxs-credit-card/terms-and-conditions",
+     "file": "text_bbeef13fcf2d.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div1|img,hd,aN,iN",
+   "instances": 18,
+   "pagesFound": 11,
+   "repFile": "unknown_65f52877d6f5.jpg",
+   "repUrl": "https://singtel.com/business/why-singtel-business",
+   "samples": [
+    {
+     "url": "http://www.singtel.com/business",
+     "file": "unknown_617ebe9e94dd.jpg"
+    },
+    {
+     "url": "http://www.singtel.com/business/articles/sme/Defending-against-scams-5-basic-steps-for-SMBs",
+     "file": "unknown_902cd14c0f0a.jpg"
+    },
+    {
+     "url": "http://www.singtel.com/business/articles/sme/Defending-against-scams-5-basic-steps-for-SMBs",
+     "file": "unknown_724b20fdb7ba.jpg"
+    },
+    {
+     "url": "http://www.singtel.com/business/articles/sme/Defending-against-scams-5-basic-steps-for-SMBs",
+     "file": "unknown_bed1fde4c468.jpg"
+    },
+    {
+     "url": "http://www.singtel.com/business/enterprise",
+     "file": "unknown_35270537247b.jpg"
+    },
+    {
+     "url": "https://singtel.com/business/products-services/5g/journey.html",
+     "file": "unknown_018cde567790.jpg"
+    }
+   ],
+   "topLabel": "Singtel Business"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div1|img,lst,aN,iN",
+   "instances": 16,
+   "pagesFound": 12,
+   "repFile": "unknown_7115aa7a5301.jpg",
+   "repUrl": "https://www.singtel.com/about-us/media-centre/news-releases/-singtel-announces-private-preview-of-microsoft-azure-public-mec",
+   "samples": [
+    {
+     "url": "http://www.singtel.com/about-us",
+     "file": "unknown_6c59330d79d2.jpg"
+    },
+    {
+     "url": "http://www.singtel.com/about-us/sustainability.html",
+     "file": "unknown_66d0410494b8.jpg"
+    },
+    {
+     "url": "https://singtel.com/about-us",
+     "file": "unknown_0ebf4c8e90b4.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/about-us",
+     "file": "unknown_eb03893fb3fb.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/about-us/media-centre",
+     "file": "unknown_7c04a2a1f6c2.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/about-us/media-centre/news-releases/-singtel-announces-private-preview-of-microsoft-azure-public-mec",
+     "file": "unknown_7115aa7a5301.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div1|img,lst,frm,aN,iN",
+   "instances": 12,
+   "pagesFound": 12,
+   "repFile": "unknown_a38eff823620.jpg",
+   "repUrl": "http://www.singtel.com/about-us",
+   "samples": [
+    {
+     "url": "http://www.singtel.com/about-us",
+     "file": "unknown_a38eff823620.jpg"
+    },
+    {
+     "url": "http://www.singtel.com/about-us/sustainability.html",
+     "file": "unknown_407e3eaaeba8.jpg"
+    },
+    {
+     "url": "https://singtel.com/about-us",
+     "file": "unknown_6c9aa835ce1e.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/about-us",
+     "file": "unknown_485e0f016299.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/about-us/media-centre",
+     "file": "unknown_22e197842490.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/about-us/media-centre/news-releases/-singtel-announces-private-preview-of-microsoft-azure-public-mec",
+     "file": "unknown_0263e0a771f5.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div1|img,lst,hd,aN,iN",
+   "instances": 5,
+   "pagesFound": 5,
+   "repFile": "unknown_db37237250f5.jpg",
+   "repUrl": "https://www.singtel.com/personal/broadband/fibre",
+   "samples": [
+    {
+     "url": "https://www.singtel.com/about-us/media-centre/news-releases/-singtel-announces-private-preview-of-microsoft-azure-public-mec",
+     "file": "unknown_ed0f07484d82.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/about-us/media-centre/news-releases/singtel-launches-app-based-network-slicing-on-iphone-and-ipad-for-enhanced-enterprise-connectivity",
+     "file": "unknown_1fe62eb8b937.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/about-us/media-centre/news-releases/bridge-alliance-and-singtel-partner-to-launch-regional-telco-api-exchange-powered-by-singtel-paragon-platform",
+     "file": "unknown_ca56b562458b.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/about-us/media-centre/news-releases/singtel-unveils-paragon-industry-first-all-in-one-platform-for-5g-network-edge-computing-and-services-orchestration",
+     "file": "unknown_d9e6bf34e3bd.jpg"
+    },
+    {
+     "url": "https://www.singtel.com/personal/broadband/fibre",
+     "file": "unknown_db37237250f5.jpg"
+    }
+   ],
+   "topLabel": "27 Feb 2023"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|article1|img,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_652000ce0367.jpg",
+   "repUrl": "https://www.singtel.com/personal/broadband/fibre",
+   "samples": [
+    {
+     "url": "https://www.singtel.com/personal/broadband/fibre",
+     "file": "unknown_652000ce0367.jpg"
+    }
+   ],
+   "topLabel": "Why Singtel Broadband?"
+  }
+ ]
+}

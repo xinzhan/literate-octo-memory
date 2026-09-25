@@ -1,0 +1,192 @@
+{
+ "captured": "2026-09-25T01:00:23.102Z",
+ "shots": [
+  {
+   "idx": 0,
+   "name": "minimal-page",
+   "family": "empty",
+   "signature": "(empty)",
+   "estPop": 24,
+   "url": "https://singtel.com/business/products-services/communication-collaboration/unified-communications/teams-uc-connector",
+   "file": "t00_minimal-page.jpg",
+   "captured": true,
+   "bytes": 510075
+  },
+  {
+   "idx": 1,
+   "name": "article-text",
+   "family": "text",
+   "signature": "text>text>columns>text>text>text>text",
+   "estPop": 5,
+   "url": "https://singtel.com/business",
+   "file": "t01_article-text.jpg",
+   "captured": true,
+   "bytes": 805439
+  },
+  {
+   "idx": 2,
+   "name": "embed-page",
+   "family": "embed",
+   "signature": "iframe-embed",
+   "estPop": 3,
+   "url": "https://singtel.com/business/campaign/cubiclelife",
+   "file": "t02_embed-page.jpg",
+   "captured": true,
+   "bytes": 790833
+  },
+  {
+   "idx": 3,
+   "name": "card-grid",
+   "family": "cards",
+   "signature": "columns>cards>cards>columns>text>text>text>cards",
+   "estPop": 3,
+   "url": "https://singtel.com/contact-us",
+   "file": "t03_card-grid.jpg",
+   "captured": true,
+   "bytes": 228914
+  },
+  {
+   "idx": 4,
+   "name": "article-text",
+   "family": "text",
+   "signature": "text",
+   "estPop": 3,
+   "url": "https://singtel.com/business/products-services/5g/journey.html",
+   "file": "t04_article-text.jpg",
+   "captured": true,
+   "bytes": 512016
+  },
+  {
+   "idx": 5,
+   "name": "card-grid",
+   "family": "cards",
+   "signature": "list>text>cards>text>cards>cards>list",
+   "estPop": 2,
+   "url": "https://www.singtel.com/about-us/sustainability.html",
+   "file": "t05_card-grid.jpg",
+   "captured": true,
+   "bytes": 567470
+  },
+  {
+   "idx": 6,
+   "name": "carousel-page",
+   "family": "carousel",
+   "signature": "list>carousel>cards>cards>text>table>table>list",
+   "estPop": 2,
+   "url": "https://singtel.com/about-us",
+   "file": "t06_carousel-page.jpg",
+   "captured": true,
+   "bytes": 248633
+  },
+  {
+   "idx": 7,
+   "name": "form-page",
+   "family": "form",
+   "signature": "list>text>form>text>list",
+   "estPop": 2,
+   "url": "https://www.singtel.com/about-us/media-centre",
+   "file": "t07_form-page.jpg",
+   "captured": true,
+   "bytes": 314819
+  },
+  {
+   "idx": 8,
+   "name": "breadcrumb-page",
+   "family": "breadcrumbed",
+   "signature": "list>breadcrumbs>text>text>text>list",
+   "estPop": 2,
+   "url": "https://www.singtel.com/about-us/media-centre/news-releases/-singtel-announces-private-preview-of-microsoft-azure-public-mec",
+   "file": "t08_breadcrumb-page.jpg",
+   "captured": true,
+   "bytes": 384289
+  },
+  {
+   "idx": 11,
+   "name": "section-nav-list",
+   "family": "list",
+   "signature": "list>text",
+   "estPop": 1,
+   "url": "https://singtel.com/personal/products-services/lifestyle-services/ai-pass/faqs",
+   "file": "t11_section-nav-list.jpg",
+   "captured": true,
+   "bytes": 267165
+  },
+  {
+   "idx": 12,
+   "name": "data-table",
+   "family": "table",
+   "signature": "table>text>text",
+   "estPop": 1,
+   "url": "https://singtel.com/roaming",
+   "file": "t12_data-table.jpg",
+   "captured": true,
+   "bytes": 1331820
+  },
+  {
+   "idx": 13,
+   "name": "columns",
+   "family": "columns",
+   "signature": "columns>text>text>text>text>text",
+   "estPop": 1,
+   "url": "https://www.singtel.com/business/articles/sme/Defending-against-scams-5-basic-steps-for-SMBs",
+   "file": "t13_columns.jpg",
+   "captured": true,
+   "bytes": 845614
+  },
+  {
+   "idx": 14,
+   "name": "embed-page",
+   "family": "embed",
+   "signature": "columns>text>iframe-embed>columns>text>text",
+   "estPop": 1,
+   "url": "https://singtel.com/business/articles/embracing-new-technology-to-spearhead-industry-transformation.html",
+   "file": "t14_embed-page.jpg",
+   "captured": true,
+   "bytes": 592866
+  },
+  {
+   "idx": 15,
+   "name": "form-page",
+   "family": "form",
+   "signature": "text>form>text>text>text>text>carousel",
+   "estPop": 1,
+   "url": "https://www.singtel.com/about-us/careers",
+   "file": "t15_form-page.jpg",
+   "captured": true,
+   "bytes": 354187
+  },
+  {
+   "idx": 16,
+   "name": "data-table",
+   "family": "table",
+   "signature": "table",
+   "estPop": 1,
+   "url": "https://www.singtel.com/content/singtel/en/personal/products-services/mobile/add-ons/swop.html",
+   "file": "t16_data-table.jpg",
+   "captured": true,
+   "bytes": 442808
+  },
+  {
+   "idx": 20,
+   "name": "section-nav-list",
+   "family": "list",
+   "signature": "list>text>text",
+   "estPop": 1,
+   "url": "https://www.singtel.com/personal/my-account/rewards/gxs-credit-card/terms-and-conditions",
+   "file": "t20_section-nav-list.jpg",
+   "captured": true,
+   "bytes": 1007000
+  },
+  {
+   "idx": 21,
+   "name": "nav",
+   "family": "nav",
+   "signature": "nav>text",
+   "estPop": 1,
+   "url": "https://www.singtel.com/personal/support/recontract-eligibility/msta",
+   "file": "t21_nav.jpg",
+   "captured": true,
+   "bytes": 173702
+  }
+ ]
+}

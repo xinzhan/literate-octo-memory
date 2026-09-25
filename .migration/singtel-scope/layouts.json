@@ -1,0 +1,791 @@
+{
+ "captured": "2026-09-25T01:09:56.720Z",
+ "renderedPages": 62,
+ "distinctSignatures": 30,
+ "templates": [
+  {
+   "signature": "hero>text>text",
+   "family": "hero",
+   "rendered": 12,
+   "estPop": 12,
+   "urls": [
+    "http://www.singtel.com/",
+    "http://www.singtel.com/business/articles/3-steps-to-master-real-time-ai-with-a-5G-ecosystem",
+    "http://www.singtel.com/business/products-services/communication-collaboration/unified-communications/teams-uc-connector",
+    "http://www.singtel.com/personal",
+    "https://singtel.com/business/products-services/communication-collaboration/unified-communications/teams-uc-connector",
+    "https://www.singtel.com/",
+    "https://singtel.com/personal",
+    "https://www.singtel.com/business/articles/european-automotive-company"
+   ],
+   "sections": {
+    "(home)": 2,
+    "business": 5,
+    "personal": 5
+   },
+   "locales": {
+    "root": 12
+   },
+   "blockCountMode": {
+    "3": 12
+   },
+   "topSections": [
+    "business(5)",
+    "personal(5)",
+    "(home)(2)"
+   ],
+   "topLocales": [
+    "root:12"
+   ],
+   "name": "hero-page"
+  },
+  {
+   "signature": "text",
+   "family": "text",
+   "rendered": 6,
+   "estPop": 6,
+   "urls": [
+    "https://singtel.com/business/products-services/5g/journey.html",
+    "https://singtel.com/business/why-singtel-business",
+    "https://www.singtel.com/business/solutions/infrastructure-solutions/enterprise-wide-outsourcing",
+    "https://www.singtel.com/business/support/support-voice-collaboration",
+    "https://www.singtel.com/business/why-singtel-business",
+    "https://www.singtel.com/personal/products-services/more/singtelcircle-bb/ekyc"
+   ],
+   "sections": {
+    "business": 5,
+    "personal": 1
+   },
+   "locales": {
+    "root": 6
+   },
+   "blockCountMode": {
+    "1": 6
+   },
+   "topSections": [
+    "business(5)",
+    "personal(1)"
+   ],
+   "topLocales": [
+    "root:6"
+   ],
+   "name": "article-text"
+  },
+  {
+   "signature": "text>text>columns>text>text>text>text",
+   "family": "text",
+   "rendered": 5,
+   "estPop": 5,
+   "urls": [
+    "http://www.singtel.com/business",
+    "http://www.singtel.com/business/enterprise",
+    "https://singtel.com/business",
+    "https://singtel.com/business/enterprise",
+    "https://www.singtel.com/business"
+   ],
+   "sections": {
+    "business": 5
+   },
+   "locales": {
+    "root": 5
+   },
+   "blockCountMode": {
+    "7": 5
+   },
+   "topSections": [
+    "business(5)"
+   ],
+   "topLocales": [
+    "root:5"
+   ],
+   "name": "article-text"
+  },
+  {
+   "signature": "(empty)",
+   "family": "empty",
+   "rendered": 5,
+   "estPop": 5,
+   "urls": [
+    "http://www.singtel.com/personal/my-account",
+    "https://www.singtel.com/personal/my-account-megamenu",
+    "https://www.singtel.com/personal/my-account-megamenu/bills",
+    "https://www.singtel.com/personal/terms",
+    "https://www.singtel.com/personal/terms/singtel-tv-terms"
+   ],
+   "sections": {
+    "personal": 5
+   },
+   "locales": {
+    "root": 5
+   },
+   "blockCountMode": {
+    "0": 5
+   },
+   "topSections": [
+    "personal(5)"
+   ],
+   "topLocales": [
+    "root:5"
+   ],
+   "name": "minimal-page"
+  },
+  {
+   "signature": "list>carousel>cards>cards>text>table>table>list",
+   "family": "carousel",
+   "rendered": 3,
+   "estPop": 3,
+   "urls": [
+    "http://www.singtel.com/about-us",
+    "https://singtel.com/about-us",
+    "https://www.singtel.com/about-us"
+   ],
+   "sections": {
+    "about-us": 3
+   },
+   "locales": {
+    "root": 3
+   },
+   "blockCountMode": {
+    "8": 3
+   },
+   "topSections": [
+    "about-us(3)"
+   ],
+   "topLocales": [
+    "root:3"
+   ],
+   "name": "carousel-page"
+  },
+  {
+   "signature": "iframe-embed",
+   "family": "embed",
+   "rendered": 3,
+   "estPop": 3,
+   "urls": [
+    "http://www.singtel.com/business/campaign/cubiclelife",
+    "https://singtel.com/business/campaign/cubiclelife",
+    "https://www.singtel.com/business/campaign/quantumsafenetwork.html"
+   ],
+   "sections": {
+    "business": 3
+   },
+   "locales": {
+    "root": 3
+   },
+   "blockCountMode": {
+    "1": 3
+   },
+   "topSections": [
+    "business(3)"
+   ],
+   "topLocales": [
+    "root:3"
+   ],
+   "name": "embed-page"
+  },
+  {
+   "signature": "list>text>cards>text>cards>cards>list",
+   "family": "cards",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "http://www.singtel.com/about-us/sustainability.html",
+    "https://www.singtel.com/about-us/sustainability.html"
+   ],
+   "sections": {
+    "about-us": 2
+   },
+   "locales": {
+    "root": 2
+   },
+   "blockCountMode": {
+    "7": 2
+   },
+   "topSections": [
+    "about-us(2)"
+   ],
+   "topLocales": [
+    "root:2"
+   ],
+   "name": "card-grid"
+  },
+  {
+   "signature": "nav>text",
+   "family": "nav",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://singtel.com/contact-us",
+    "https://www.singtel.com/contact-us"
+   ],
+   "sections": {
+    "contact-us": 2
+   },
+   "locales": {
+    "root": 2
+   },
+   "blockCountMode": {
+    "2": 2
+   },
+   "topSections": [
+    "contact-us(2)"
+   ],
+   "topLocales": [
+    "root:2"
+   ],
+   "name": "nav"
+  },
+  {
+   "signature": "list>breadcrumbs>text>text>text>list",
+   "family": "breadcrumbed",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://www.singtel.com/about-us/media-centre/news-releases/-singtel-announces-private-preview-of-microsoft-azure-public-mec",
+    "https://www.singtel.com/about-us/media-centre/news-releases/singtel-launches-app-based-network-slicing-on-iphone-and-ipad-for-enhanced-enterprise-connectivity"
+   ],
+   "sections": {
+    "about-us": 2
+   },
+   "locales": {
+    "root": 2
+   },
+   "blockCountMode": {
+    "6": 2
+   },
+   "topSections": [
+    "about-us(2)"
+   ],
+   "topLocales": [
+    "root:2"
+   ],
+   "name": "breadcrumb-page"
+  },
+  {
+   "signature": "list>breadcrumbs>text>cards>text>list",
+   "family": "cards",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://www.singtel.com/about-us/media-centre/news-releases/bridge-alliance-and-singtel-partner-to-launch-regional-telco-api-exchange-powered-by-singtel-paragon-platform",
+    "https://www.singtel.com/about-us/media-centre/news-releases/singtel-unveils-paragon-industry-first-all-in-one-platform-for-5g-network-edge-computing-and-services-orchestration"
+   ],
+   "sections": {
+    "about-us": 2
+   },
+   "locales": {
+    "root": 2
+   },
+   "blockCountMode": {
+    "6": 2
+   },
+   "topSections": [
+    "about-us(2)"
+   ],
+   "topLocales": [
+    "root:2"
+   ],
+   "name": "card-grid"
+  },
+  {
+   "signature": "list>text>text",
+   "family": "list",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "http://singtel.com/personal/products-services/lifestyle-services/ai-pass/faqs"
+   ],
+   "sections": {
+    "personal": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "3": 1
+   },
+   "topSections": [
+    "personal(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "section-nav-list"
+  },
+  {
+   "signature": "table>text>text",
+   "family": "table",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "http://singtel.com/roaming"
+   ],
+   "sections": {
+    "roaming": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "3": 1
+   },
+   "topSections": [
+    "roaming(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "data-table"
+  },
+  {
+   "signature": "columns>text>text>text>text>text",
+   "family": "columns",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "http://www.singtel.com/business/articles/sme/Defending-against-scams-5-basic-steps-for-SMBs"
+   ],
+   "sections": {
+    "business": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "6": 1
+   },
+   "topSections": [
+    "business(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "columns"
+  },
+  {
+   "signature": "columns>cards>cards>columns>text>text>text>cards",
+   "family": "cards",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "http://www.singtel.com/contact-us"
+   ],
+   "sections": {
+    "contact-us": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "8": 1
+   },
+   "topSections": [
+    "contact-us(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "card-grid"
+  },
+  {
+   "signature": "columns>text>iframe-embed>columns>text>text",
+   "family": "embed",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://singtel.com/business/articles/embracing-new-technology-to-spearhead-industry-transformation.html"
+   ],
+   "sections": {
+    "business": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "6": 1
+   },
+   "topSections": [
+    "business(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "embed-page"
+  },
+  {
+   "signature": "list",
+   "family": "list",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://singtel.com/data-protection"
+   ],
+   "sections": {
+    "data-protection": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "1": 1
+   },
+   "topSections": [
+    "data-protection(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "section-nav-list"
+  },
+  {
+   "signature": "text>form>text>text>text>text>carousel",
+   "family": "form",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.singtel.com/about-us/careers"
+   ],
+   "sections": {
+    "about-us": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "7": 1
+   },
+   "topSections": [
+    "about-us(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "form-page"
+  },
+  {
+   "signature": "list>text>form>text>list",
+   "family": "form",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.singtel.com/about-us/media-centre"
+   ],
+   "sections": {
+    "about-us": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "5": 1
+   },
+   "topSections": [
+    "about-us(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "form-page"
+  },
+  {
+   "signature": "list>text>form>list",
+   "family": "form",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.singtel.com/about-us/media-centre/news-releases.html"
+   ],
+   "sections": {
+    "about-us": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "4": 1
+   },
+   "topSections": [
+    "about-us(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "form-page"
+  },
+  {
+   "signature": "hero>text>text>text",
+   "family": "hero",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.singtel.com/business/products-services/communication-collaboration/unified-communications/bizvoice"
+   ],
+   "sections": {
+    "business": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "4": 1
+   },
+   "topSections": [
+    "business(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "hero-page"
+  },
+  {
+   "signature": "columns>cards>cards>columns",
+   "family": "cards",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.singtel.com/business/products-services/5g/partners/devices"
+   ],
+   "sections": {
+    "business": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "4": 1
+   },
+   "topSections": [
+    "business(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "card-grid"
+  },
+  {
+   "signature": "list>breadcrumbs>text>cards>accordion>list",
+   "family": "accordion",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.singtel.com/business/why-singtel-business/sustainability"
+   ],
+   "sections": {
+    "business": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "6": 1
+   },
+   "topSections": [
+    "business(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "accordion-page"
+  },
+  {
+   "signature": "table>text",
+   "family": "table",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.singtel.com/content/singtel/en/personal/products-services/mobile/add-ons/swop.html"
+   ],
+   "sections": {
+    "content": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "2": 1
+   },
+   "topSections": [
+    "content(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "data-table"
+  },
+  {
+   "signature": "form",
+   "family": "form",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.singtel.com/contact-us/form"
+   ],
+   "sections": {
+    "contact-us": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "1": 1
+   },
+   "topSections": [
+    "contact-us(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "form-page"
+  },
+  {
+   "signature": "text>text>text>text>text>text>text>text",
+   "family": "text",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.singtel.com/personal/broadband/fibre"
+   ],
+   "sections": {
+    "personal": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "8": 1
+   },
+   "topSections": [
+    "personal(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "article-text"
+  },
+  {
+   "signature": "cards",
+   "family": "cards",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.singtel.com/enterprise-mobile-terms-and-conditions"
+   ],
+   "sections": {
+    "enterprise-mobile-terms-and-conditions": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "1": 1
+   },
+   "topSections": [
+    "enterprise-mobile-terms-and-conditions(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "card-grid"
+  },
+  {
+   "signature": "list>text",
+   "family": "list",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.singtel.com/personal/my-account/rewards/gxs-credit-card/terms-and-conditions"
+   ],
+   "sections": {
+    "personal": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "2": 1
+   },
+   "topSections": [
+    "personal(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "section-nav-list"
+  },
+  {
+   "signature": "list>text>text>text",
+   "family": "list",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.singtel.com/personal/promotions/always-more-for-you"
+   ],
+   "sections": {
+    "personal": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "4": 1
+   },
+   "topSections": [
+    "personal(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "section-nav-list"
+  },
+  {
+   "signature": "table",
+   "family": "table",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.singtel.com/personal/support/self-serve-kiosks"
+   ],
+   "sections": {
+    "personal": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "1": 1
+   },
+   "topSections": [
+    "personal(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "data-table"
+  },
+  {
+   "signature": "table>table",
+   "family": "table",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.singtel.com/terms-general-enterprise"
+   ],
+   "sections": {
+    "terms-general-enterprise": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "2": 1
+   },
+   "topSections": [
+    "terms-general-enterprise(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "data-table"
+  }
+ ]
+}
