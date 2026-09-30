@@ -1,0 +1,2037 @@
+{
+ "captured": "2026-09-29T10:04:18.116Z",
+ "enthTree": {
+  "(home)": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "help": {
+   "pages": 6,
+   "subs": {
+    "my-requests": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "feedback": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "lost-and-found": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "royal-orchid-plus-services": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "service-request": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "flight-support": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "rop": {
+   "pages": 2,
+   "subs": {
+    "miles-calculator": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "spend-miles": {
+     "pages": 1,
+     "deeper": 1
+    }
+   }
+  },
+  "experience": {
+   "pages": 1,
+   "subs": {
+    "ground-services": {
+     "pages": 1,
+     "deeper": 1
+    }
+   }
+  },
+  "travel-information": {
+   "pages": 1,
+   "subs": {
+    "baggage": {
+     "pages": 1,
+     "deeper": 1
+    }
+   }
+  },
+  "plan-trip": {
+   "pages": 1,
+   "subs": {
+    "flight-schedule": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "book": {
+   "pages": 4,
+   "subs": {
+    "e-receipt": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "book-flight": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "my-trips": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "flight-status": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/redirect": {
+   "pages": 11,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "lost-and-found": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "sign-up": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "book-with-redemption": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "gift-miles": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "mileage-transfer": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "book-my-trips": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "e-receipt": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "feedback": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "miles-calculator": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "flight-upgrades-verify": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/more-services": {
+   "pages": 21,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "royal-orchid-holidays": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "online-excess-baggage": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "hotels": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "preferred-seats": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "airport-services": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "transportation": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "pre-select-meals": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "other-services": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "pre-order-duty-free": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "allianz": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "special-in-flight-meals": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "standby-upgrade": {
+     "pages": 8,
+     "deeper": 7
+    },
+    "insurance": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/in-flight-experience": {
+   "pages": 12,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "in-flight-cuisine": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "in-flight-duty-free": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "use-of-electronic-device": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "in-flight-entertainment": {
+     "pages": 2,
+     "deeper": 1
+    },
+    "in-flight-connectivity": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "e-library": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "experience-royal-first": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "experience-economy-premium-economy": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "experience-royal-silk": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "sample-in-flight-cuisine": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/special-assistance": {
+   "pages": 10,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "travel-with-pets": {
+     "pages": 3,
+     "deeper": 2
+    },
+    "unaccompanied-minors": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "advice-for-elderly-passenger": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "traveling-with-a-wheelchair": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "traveling-with-infants": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "advice-for-sick-passengers": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "health-andwell-being-onboard": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/baggage": {
+   "pages": 11,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "excess-baggage": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "restricted-baggage": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "bagdrop": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "special-baggage": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "damaged-baggage": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "delayed-baggage": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "carry-on-baggage": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "dangerous-goods": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "checked-baggage": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "test-dummy-wf": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/travel-document": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/travel-class": {
+   "pages": 5,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "premium-economy": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "royal-first": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "economy": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "royal-silk": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/book-flight": {
+   "pages": 2,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "full-service": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/check-in": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/reservation-ticketing-terms-and-conditions": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/conditions-of-contract": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/company-profile": {
+   "pages": 6,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "our-story": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "visionandmission": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "business-units-and-affiliates": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "timeline-and-history": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "thais-journey": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/condition-of-carriage": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/domestic-ceiling-fares": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/help": {
+   "pages": 5,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "faq": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "thai-worldwide-offices": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "flight-disruption": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "contact": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/terms-of-use": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/cookie-notice": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/privacy-notice": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/where-we-fly": {
+   "pages": 5,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "asia": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "thailand": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "europe": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "australia": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/check-in-counter-closing-time": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/offers-promotions": {
+   "pages": 213,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "special-offers": {
+     "pages": 94,
+     "deeper": 93
+    },
+    "partnerprivileges": {
+     "pages": 76,
+     "deeper": 75
+    },
+    "royal-orchid-plus": {
+     "pages": 42,
+     "deeper": 41
+    }
+   }
+  },
+  "content/boarding-pass": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/news-and-announcements": {
+   "pages": 50,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "thai-and-jim-thompson-introduce-exquisite-amenity-kits-for-royal-silk-class-a-match-as-smooth-as-silk": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "operational-performance-year-end-2024": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "new-bc-a320-event": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "ttg-award-2024": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "operational-performance-q2-2024": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "travel-and-leisure-2024": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "baggage-allowance-01apr2025": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "tg-boeing-joint": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "operational-performance-year-end-2023": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "destin-awards": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "operational-performance-q1-2024": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "fleet-growth": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "skytrax-awards-2024": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "new-dest-osl-mil": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "thai-announces-baggage-policy-for-economy-class": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "thai-announces-prohibition-of-power-bank-use-onboard": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "ticket-handling-procedures-for-flight-to-or-from-thailand": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "no-thais-lounge-service-at-the-new-terminal-sat": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "tdm-awards-2024": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "operational-performance-q3-2024": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "service-fee-travel-agents": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "thai-unveils-the-new-worlds-of-tomorrow": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "thai-reports-continued-strong-operational-performance-results-fo": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "thai-and-turkish-airlines-signed-joint-business-agreement": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "thai-to-resume-trading-on-the-stock-exchange-of-thailand-on-august-4": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "thai-airways-resumes-trading-on-the-stock-exchange-on-4-august": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "thai-reports-continued-strong-and-sustained-growth-in-q2-2025": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "declaration-form-for-international-flight-passengers": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "kti-transition-information": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "global-call-center_msm_moved": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "thai-wins-two-honors-at-tdm-travel-trade-excellence-awards-2025-thailand": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "piece-concept": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "thai-reports-third-quarter-2025-operating-results": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "jim-thompson-x-thai-airways-launch-2026-in-flight-collection": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "thai-welcomes-its-first-airbus-a321neo": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "thai-airways-unveils-airbus-a321neo": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "thai-reports-operational-performance-results-for-the-year-ended": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "thai-reports-operating-results-for-the-first-quarter-of-2026": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "thai-airways-celebrates-the-33rd-anniversary-of-royal-orchid-plus": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "thai-airways-cellars-in-the-sky-awards-2026": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "thai-launches-direct-flights-to-amsterdam": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "thai-airways-unveils-rop-the-new-chapter-begins": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "updated-baggage-procedure-for-connections-to-yangon-via-bangkok": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "global-call-center": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "thai-reports-operational-performance-results-q2-2026": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "thai-vitallife-bumrungrad-healthy-destinations-inflight-wellness": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "introducing-thai-airways-new-distribution-capability": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "thai-wins-2-demark-2026-awards-waste-to-wealth": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "thai-hosts-thai-talk": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/about-royal-orchid-plus": {
+   "pages": 10,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "royal-orchid-plus-program-conditions": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "award-conditions": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "award-nominees": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "service-fees": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "mileage-purchase": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "our-partners": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "mileage-accumulation-rules": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "gift-miles": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "temporary-system-unavailable": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/ground-services": {
+   "pages": 2,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "lounges": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/sustainable-development": {
+   "pages": 7,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "goal-and-achievements": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "esg-initiative": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "involvement": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "sdg-targets": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "sustainability-management-structure": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "materiality-topics": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/royal-orchid-plus-terms-and-conditions": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/terms-and-conditions": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/earn-miles": {
+   "pages": 52,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "star-alliance-airlines": {
+     "pages": 26,
+     "deeper": 25
+    },
+    "credit-card-partners": {
+     "pages": 19,
+     "deeper": 18
+    },
+    "car-rental-partners": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "hotelpartners": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "online-service-partners": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "lifestyle-promotion-partners": {
+     "pages": 2,
+     "deeper": 1
+    },
+    "thai": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/spend-miles": {
+   "pages": 8,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "rop-smart-miles-pay": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "non-air-awards": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "donation": {
+     "pages": 2,
+     "deeper": 1
+    },
+    "flight-upgrades": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "air-awards": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "rop-smart-miles-pay-lite": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/miles-management": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/mice": {
+   "pages": 2,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "mice-events": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/charter-flights": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/royal-orchid-plus": {
+   "pages": 7,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "royal-orchid-plus-news": {
+     "pages": 5,
+     "deeper": 4
+    },
+    "royal-orchid-plus-newsletter": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/status-and-benefits": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/search": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/privacy_policy_27may22": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/privacy_policy_2dec20": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/privacy_policy_17dec19": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/privacy_policy_21may18": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/privacy_policy_25oct24": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/privacy_policy_26dec24": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/historical_changed_of_privacy_notice": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/e-receipt": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/flight-status": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/flight-schedule": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/my-trips": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/newsletter-subscribe": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/newsletter-unsubscribe": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/book-flight-react": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/board-of-directors": {
+   "pages": 20,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "mr-lavaron-sangsnit": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "mr-yanyong-detpiratmongkol": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "dr-kulaya-tantitemit": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "mr-piyasvasti-amranand": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "mr-chansin-treenuchagron": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "air-chief-marshal-amnart-jeeramaneemai": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "police-general-phd-thatchai-pitaneelaboot": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "mr-chakree-bamrungwong": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "mr-naprakorn-thanasuvankasem": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "mr-sumrid-sumneing": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "mr-chai-eamsiri": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "mrs-chananyarak-phetcharat": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "mrs-charita-leelayudth": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "mr-yol-phokasub": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "mr-plakorn-wanglee": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "mr-rapee-sucharitakul": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "mr-vachara-tuntariyanond": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "dr-veerathai-santiprabhob": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "mr-vinit-visessuvanapoom": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/executive-management": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/the-plan-administrator": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/good-corporate-governance": {
+   "pages": 11,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "policies-documents-and-key-publications": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "communication-to-enhance-good-corporate-governance-compliance": {
+     "pages": 4,
+     "deeper": 3
+    },
+    "roles-and-responsibilities-of-the-company-secretary": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "complaints-and-whistleblowing": {
+     "pages": 3,
+     "deeper": 2
+    },
+    "corporate-governance-structure": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/healthcheck": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/airport-information": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/name-filling-instructions-onlinebookingonly": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/ticket-fee": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/passenger-rights": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/procurement-supplier": {
+   "pages": 3,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "tg-pride-doc-guide-register": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "tg-pride-doc-guide-access": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/star-alliance": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/our-fleet": {
+   "pages": 9,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "b777-300er": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "b777-200er": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "a350-900": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "b787-8": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "a330-300": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "a320-200": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "b787-9": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "a321neo": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/junior-sky-explorer": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/tg-ourhistory": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/historical-changed-of-privacy-notice": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/privacy-policy-17dec19": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/privacy-policy-21may18": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/privacy-policy-25oct24": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/privacy-policy-26dec24": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/privacy-policy-27may22": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/privacy-policy-2dec20": {
+   "pages": 1,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/corporate": {
+   "pages": 3,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "guest": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "corporate-benefits": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  },
+  "content/status": {
+   "pages": 2,
+   "subs": {
+    "(section landing)": {
+     "pages": 1,
+     "deeper": 0
+    },
+    "under-maintenance": {
+     "pages": 1,
+     "deeper": 0
+    }
+   }
+  }
+ },
+ "crossLocale": [
+  {
+   "locale": "it-it",
+   "pages": 425,
+   "sections": 77,
+   "sharedWithEnTh": 50,
+   "localOnly": [
+    "esperienza",
+    "informazioni-di-viaggio",
+    "prenota",
+    "pianifica",
+    "content/servizi-speciali",
+    "content/esperienza-a-bordo",
+    "content/assistenza-speciale",
+    "content/bagagli",
+    "content/documenti-di-viaggio",
+    "content/classi-di-viaggio",
+    "content/termini-e-condizioni-per-prenotazioni-e-biglietteria",
+    "content/condizioni-di-contratto",
+    "content/profilo-della-compagnia",
+    "content/condizioni-di-trasporto",
+    "content/condizioni-di-utilizzo",
+    "content/informativa-sui-cookies",
+    "content/informativa-sulla-protezione-dei-dati-personali",
+    "content/destinazioni",
+    "content/offerte-e-promozioni",
+    "content/novita-e-comunicazioni",
+    "content/servizi-a-terra",
+    "content/sostenibilita",
+    "content/informazioni-sugli-aeroporti",
+    "content/service-fees",
+    "content/dati-di-contatto-responsabile-protezione-dati",
+    "content/orario-voli-italia",
+    "content/diritti-del-passeggero"
+   ]
+  },
+  {
+   "locale": "fr-fr",
+   "pages": 422,
+   "sections": 81,
+   "sharedWithEnTh": 53,
+   "localOnly": [
+    "royal-orchid-plus",
+    "info-voyage",
+    "reservation",
+    "planifier",
+    "content/autres-services",
+    "content/experience-a-bord",
+    "content/assistance-passagers",
+    "content/bagages",
+    "content/documents-de-voyage",
+    "content/classes-de-voyage",
+    "content/reserver-vol",
+    "content/enregistrement",
+    "content/profil-de-la-compagnie",
+    "content/developpement-durable",
+    "content/nos-destinations",
+    "content/actualites-et-communiques",
+    "content/services-au-sol",
+    "content/informations-aeroport",
+    "content/service-fees",
+    "content/reservation-et-billetterie",
+    "content/conditions-du-contrat",
+    "content/contrat-de-transport",
+    "content/droit-des-passagers",
+    "content/conditions-dutilisation-du-site",
+    "content/protection-des-donnees-personnelles",
+    "content/dpo",
+    "content/informations-sur-les-cookies",
+    "content/offres-et-promotions"
+   ]
+  },
+  {
+   "locale": "de-de",
+   "pages": 419,
+   "sections": 76,
+   "sharedWithEnTh": 52,
+   "localOnly": [
+    "reiseerlebnis",
+    "info-und-service",
+    "planen",
+    "fluge-buchen",
+    "content/streckennetz",
+    "content/hinweise-zu-cookies",
+    "content/extra-services",
+    "content/service-an-bord",
+    "content/spezielle-anliegen",
+    "content/gepack",
+    "content/reisedokumente",
+    "content/reiseklassen",
+    "content/firmenprofil",
+    "content/nachhaltigkeit",
+    "content/angebote-und-promotions",
+    "content/news",
+    "content/service-am-flughafen",
+    "content/flughafen-informationen",
+    "content/service-fees",
+    "content/agb",
+    "content/impressum",
+    "content/datenschutzerklarung",
+    "content/passagierrechte",
+    "content/unsere-flotte"
+   ]
+  },
+  {
+   "locale": "en-kr",
+   "pages": 385,
+   "sections": 80,
+   "sharedWithEnTh": 64,
+   "localOnly": [
+    "content/privacy-policy",
+    "content/historical_changed_of_privacy_policy",
+    "content/service-fees",
+    "content/privacy_policy_30sep2024",
+    "content/privacy_policy_30jan2024",
+    "content/privacy_notice_27may22",
+    "content/privacy_notice_2dec20",
+    "content/privacy_notice_17dec19",
+    "content/privacy_notice_21may18",
+    "content/historical-changed-of-privacy-policy",
+    "content/privacy-notice-17dec19",
+    "content/privacy-notice-21may18",
+    "content/privacy-notice-27may22",
+    "content/privacy-notice-2dec20",
+    "content/privacy-policy-30jan2024",
+    "content/privacy-policy-30sep2024"
+   ]
+  },
+  {
+   "locale": "ko-kr",
+   "pages": 359,
+   "sections": 76,
+   "sharedWithEnTh": 70,
+   "localOnly": [
+    "content/service-fees",
+    "content/privacy_policy_30sep2024",
+    "content/privacy_policy_30jan2024",
+    "content/list-of-recipients-of-personal-data",
+    "content/privacy-policy-30jan2024",
+    "content/privacy-policy-30sep2024"
+   ]
+  },
+  {
+   "locale": "es-es",
+   "pages": 292,
+   "sections": 67,
+   "sharedWithEnTh": 63,
+   "localOnly": [
+    "content/economy",
+    "content/service-fees",
+    "content/e-form",
+    "content/voucherpurchase"
+   ]
+  },
+  {
+   "locale": "en-in",
+   "pages": 372,
+   "sections": 73,
+   "sharedWithEnTh": 69,
+   "localOnly": [
+    "content/royal-orchid-plus-news",
+    "content/economy",
+    "content/service-fees",
+    "content/e-form"
+   ]
+  },
+  {
+   "locale": "en-cn",
+   "pages": 293,
+   "sections": 74,
+   "sharedWithEnTh": 70,
+   "localOnly": [
+    "content/royal-orchid-plus-news",
+    "content/economy",
+    "content/service-fees",
+    "content/e-form"
+   ]
+  },
+  {
+   "locale": "en-gb",
+   "pages": 336,
+   "sections": 74,
+   "sharedWithEnTh": 70,
+   "localOnly": [
+    "content/royal-orchid-plus-news",
+    "content/economy",
+    "content/service-fees",
+    "content/e-form"
+   ]
+  },
+  {
+   "locale": "ja-jp",
+   "pages": 320,
+   "sections": 74,
+   "sharedWithEnTh": 70,
+   "localOnly": [
+    "content/service-fees",
+    "content/rsvn_tkt",
+    "content/condition-of-carriage1",
+    "content/rsvn-tkt"
+   ]
+  },
+  {
+   "locale": "tr-tr",
+   "pages": 319,
+   "sections": 74,
+   "sharedWithEnTh": 70,
+   "localOnly": [
+    "content/royal-orchid-plus-news",
+    "content/economy",
+    "content/service-fees",
+    "content/e-form"
+   ]
+  },
+  {
+   "locale": "en-ch",
+   "pages": 362,
+   "sections": 75,
+   "sharedWithEnTh": 71,
+   "localOnly": [
+    "content/royal-orchid-plus-news",
+    "content/economy",
+    "content/service-fees",
+    "content/e-form"
+   ]
+  },
+  {
+   "locale": "en-la",
+   "pages": 344,
+   "sections": 69,
+   "sharedWithEnTh": 66,
+   "localOnly": [
+    "content/sustainability",
+    "content/full-service",
+    "content/laos-test"
+   ]
+  },
+  {
+   "locale": "en-vn",
+   "pages": 381,
+   "sections": 72,
+   "sharedWithEnTh": 69,
+   "localOnly": [
+    "content/royal-orchid-plus-news",
+    "content/economy",
+    "content/service-fees"
+   ]
+  },
+  {
+   "locale": "vi-vn",
+   "pages": 355,
+   "sections": 72,
+   "sharedWithEnTh": 69,
+   "localOnly": [
+    "content/royal-orchid-plus-news",
+    "content/economy",
+    "content/service-fees"
+   ]
+  },
+  {
+   "locale": "en-au",
+   "pages": 359,
+   "sections": 69,
+   "sharedWithEnTh": 67,
+   "localOnly": [
+    "content/travel-agent",
+    "content/full-service"
+   ]
+  },
+  {
+   "locale": "en-dk",
+   "pages": 330,
+   "sections": 71,
+   "sharedWithEnTh": 69,
+   "localOnly": [
+    "content/service-fees",
+    "content/e-form"
+   ]
+  },
+  {
+   "locale": "en-no",
+   "pages": 251,
+   "sections": 71,
+   "sharedWithEnTh": 69,
+   "localOnly": [
+    "content/service-fees",
+    "content/e-form"
+   ]
+  },
+  {
+   "locale": "en-nz",
+   "pages": 340,
+   "sections": 71,
+   "sharedWithEnTh": 69,
+   "localOnly": [
+    "content/site-map",
+    "content/agent-advice-information"
+   ]
+  },
+  {
+   "locale": "en-pk",
+   "pages": 359,
+   "sections": 71,
+   "sharedWithEnTh": 69,
+   "localOnly": [
+    "content/service-fees",
+    "content/e-form"
+   ]
+  },
+  {
+   "locale": "en-se",
+   "pages": 331,
+   "sections": 72,
+   "sharedWithEnTh": 70,
+   "localOnly": [
+    "content/service-fees",
+    "content/e-form"
+   ]
+  },
+  {
+   "locale": "no-no",
+   "pages": 310,
+   "sections": 72,
+   "sharedWithEnTh": 70,
+   "localOnly": [
+    "content/service-fees",
+    "content/e-form"
+   ]
+  },
+  {
+   "locale": "sv-se",
+   "pages": 299,
+   "sections": 72,
+   "sharedWithEnTh": 70,
+   "localOnly": [
+    "content/service-fees",
+    "content/e-form"
+   ]
+  },
+  {
+   "locale": "zh-cn",
+   "pages": 325,
+   "sections": 57,
+   "sharedWithEnTh": 56,
+   "localOnly": [
+    "content/royal-orchid-plus-news"
+   ]
+  },
+  {
+   "locale": "en-nl",
+   "pages": 345,
+   "sections": 66,
+   "sharedWithEnTh": 65,
+   "localOnly": [
+    "content/service-fees"
+   ]
+  },
+  {
+   "locale": "en-hk",
+   "pages": 371,
+   "sections": 70,
+   "sharedWithEnTh": 69,
+   "localOnly": [
+    "content/service-fees"
+   ]
+  },
+  {
+   "locale": "en-jp",
+   "pages": 412,
+   "sections": 70,
+   "sharedWithEnTh": 69,
+   "localOnly": [
+    "content/service-fees"
+   ]
+  },
+  {
+   "locale": "en-lk",
+   "pages": 338,
+   "sections": 70,
+   "sharedWithEnTh": 69,
+   "localOnly": [
+    "content/site-map"
+   ]
+  },
+  {
+   "locale": "en-tw",
+   "pages": 361,
+   "sections": 70,
+   "sharedWithEnTh": 69,
+   "localOnly": [
+    "content/service-fees"
+   ]
+  },
+  {
+   "locale": "en-us",
+   "pages": 348,
+   "sections": 70,
+   "sharedWithEnTh": 69,
+   "localOnly": [
+    "content/us-regulations"
+   ]
+  },
+  {
+   "locale": "zh-hk",
+   "pages": 341,
+   "sections": 70,
+   "sharedWithEnTh": 69,
+   "localOnly": [
+    "content/service-fees"
+   ]
+  },
+  {
+   "locale": "en-be",
+   "pages": 309,
+   "sections": 71,
+   "sharedWithEnTh": 70,
+   "localOnly": [
+    "content/service-fees"
+   ]
+  },
+  {
+   "locale": "en-sg",
+   "pages": 368,
+   "sections": 71,
+   "sharedWithEnTh": 70,
+   "localOnly": [
+    "content/service-fees"
+   ]
+  },
+  {
+   "locale": "zh-tw",
+   "pages": 346,
+   "sections": 71,
+   "sharedWithEnTh": 70,
+   "localOnly": [
+    "content/service-fees"
+   ]
+  },
+  {
+   "locale": "th-th",
+   "pages": 556,
+   "sections": 72,
+   "sharedWithEnTh": 71,
+   "localOnly": [
+    "content/government"
+   ]
+  },
+  {
+   "locale": "en-th",
+   "pages": 551,
+   "sections": 80,
+   "sharedWithEnTh": 80,
+   "localOnly": []
+  },
+  {
+   "locale": "en-bd",
+   "pages": 354,
+   "sections": 69,
+   "sharedWithEnTh": 69,
+   "localOnly": []
+  },
+  {
+   "locale": "en-ca",
+   "pages": 342,
+   "sections": 69,
+   "sharedWithEnTh": 69,
+   "localOnly": []
+  },
+  {
+   "locale": "en-id",
+   "pages": 364,
+   "sections": 69,
+   "sharedWithEnTh": 69,
+   "localOnly": []
+  },
+  {
+   "locale": "en-kh",
+   "pages": 333,
+   "sections": 69,
+   "sharedWithEnTh": 69,
+   "localOnly": []
+  },
+  {
+   "locale": "en-mm",
+   "pages": 359,
+   "sections": 69,
+   "sharedWithEnTh": 69,
+   "localOnly": []
+  },
+  {
+   "locale": "en-my",
+   "pages": 359,
+   "sections": 69,
+   "sharedWithEnTh": 69,
+   "localOnly": []
+  },
+  {
+   "locale": "en-np",
+   "pages": 355,
+   "sections": 69,
+   "sharedWithEnTh": 69,
+   "localOnly": []
+  },
+  {
+   "locale": "en-ph",
+   "pages": 352,
+   "sections": 69,
+   "sharedWithEnTh": 69,
+   "localOnly": []
+  }
+ ],
+ "flightKinds": {
+  "hub": 55,
+  "destination": 4837,
+  "pair": 17442,
+  "origin": 900,
+  "html-sitemap-listing": 331,
+  "campaign-or-deal": 455,
+  "business-class-route": 760
+ }
+}

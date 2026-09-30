@@ -1,0 +1,10 @@
+▶ catalog: /workspace/current/.migration/thaiairways-scope
+▶ site: https://www.thaiairways.com/
+CJK font: NotoSansCJKjp-Regular.otf: "Noto Sans CJK JP" "Regular"
+▶ [1/12] urls-all.json exists — skip crawl
+▶ [3/12] render + fingerprint (resumable)
+Render set: 168, already done: 0, todo: 168
+  [w0] 20/168 done (ok=3 fail=17) last=https://www.thaiairways.com/en-th/content/travel-document/
+FATAL page.waitForTimeout: Target page, context or browser has been closed
+    at worker (/backups/xinzhan/literate-octo-memory/repo/.claude/skills/site-analysis-dashboard/scripts/render-pages.js:178:34)
+    at async /backups/xinzhan/literate-octo-memory/repo/.claude/skills/site-analysis-dashboard/scripts/render-pages.js:185:3
