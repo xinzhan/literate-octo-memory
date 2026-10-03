@@ -1,0 +1,9 @@
+{
+ "captured": "2026-10-03T15:02:51.954Z",
+ "strategy": "scope limited to /th-th/content/ (user request); every page rendered, section by section, one page at a time with delays",
+ "totalLivePages": 559,
+ "renderCount": 1,
+ "urls": [
+  "https://www.thaiairways.com/th-th/content/about-royal-orchid-plus/temporary-system-unavailable/"
+ ]
+}

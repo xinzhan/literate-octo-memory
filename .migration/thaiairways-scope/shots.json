@@ -1,5 +1,5 @@
 {
- "captured": "2026-10-03T07:59:47.818Z",
+ "captured": "2026-10-03T08:18:17.684Z",
  "shots": [
   {
    "idx": 0,
@@ -10,7 +10,7 @@
    "url": "https://www.thaiairways.com/th-th/content/baggage/excess-baggage/",
    "file": "t00_minimal-page.jpg",
    "captured": true,
-   "bytes": 1100997
+   "skipped": true
   },
   {
    "idx": 1,
@@ -21,7 +21,7 @@
    "url": "https://www.thaiairways.com/th-th/content/board-of-directors/",
    "file": "t01_article-text.jpg",
    "captured": true,
-   "bytes": 418562
+   "skipped": true
   },
   {
    "idx": 2,
@@ -32,7 +32,7 @@
    "url": "https://www.thaiairways.com/th-th/content/baggage/",
    "file": "t02_article-text.jpg",
    "captured": true,
-   "bytes": 332643
+   "skipped": true
   },
   {
    "idx": 5,
@@ -43,7 +43,7 @@
    "url": "https://www.thaiairways.com/th-th/content/check-in-counter-closing-time/",
    "file": "t05_columns.jpg",
    "captured": true,
-   "bytes": 154244
+   "skipped": true
   },
   {
    "idx": 9,
@@ -54,7 +54,7 @@
    "url": "https://www.thaiairways.com/th-th/content/about-royal-orchid-plus/mileage-purchase/",
    "file": "t09_data-table.jpg",
    "captured": true,
-   "bytes": 295911
+   "skipped": true
   },
   {
    "idx": 10,
@@ -65,7 +65,7 @@
    "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/operational-performance-q3-2024/",
    "file": "t10_media.jpg",
    "captured": true,
-   "bytes": 531406
+   "skipped": true
   },
   {
    "idx": 13,
@@ -76,7 +76,7 @@
    "url": "https://www.thaiairways.com/th-th/content/more-services/royal-orchid-holidays/",
    "file": "t13_media-article.jpg",
    "captured": true,
-   "bytes": 298765
+   "skipped": true
   },
   {
    "idx": 15,
@@ -87,7 +87,7 @@
    "url": "https://www.thaiairways.com/th-th/content/in-flight-experience/experience-economy-premium-economy/",
    "file": "t15_tabbed-page.jpg",
    "captured": true,
-   "bytes": 239392
+   "skipped": true
   },
   {
    "idx": 18,
@@ -98,7 +98,7 @@
    "url": "https://www.thaiairways.com/th-th/content/government/where-we-fly/",
    "file": "t18_card-grid.jpg",
    "captured": true,
-   "bytes": 139360
+   "skipped": true
   },
   {
    "idx": 19,
@@ -109,7 +109,7 @@
    "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/piece-concept/",
    "file": "t19_card-grid.jpg",
    "captured": true,
-   "bytes": 316366
+   "skipped": true
   },
   {
    "idx": 25,
@@ -120,7 +120,7 @@
    "url": "https://www.thaiairways.com/th-th/content/book-flight/",
    "file": "t25_form-page.jpg",
    "captured": true,
-   "bytes": 36131
+   "skipped": true
   },
   {
    "idx": 26,
@@ -131,7 +131,7 @@
    "url": "https://www.thaiairways.com/th-th/content/earn-miles/credit-card-partners/jcb/",
    "file": "t26_media-article.jpg",
    "captured": true,
-   "bytes": 36860
+   "skipped": true
   },
   {
    "idx": 28,
@@ -142,7 +142,7 @@
    "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/fly-to-korea-with-ktc/",
    "file": "t28_carousel-page.jpg",
    "captured": true,
-   "bytes": 36860
+   "skipped": true
   },
   {
    "idx": 29,
@@ -153,7 +153,7 @@
    "url": "https://www.thaiairways.com/th-th/content/airport-information/",
    "file": "t29_tabbed-page.jpg",
    "captured": true,
-   "bytes": 36860
+   "skipped": true
   },
   {
    "idx": 30,
@@ -164,7 +164,7 @@
    "url": "https://www.thaiairways.com/th-th/content/in-flight-experience/e-library/",
    "file": "t30_form-page.jpg",
    "captured": true,
-   "bytes": 36860
+   "skipped": true
   },
   {
    "idx": 31,
@@ -175,7 +175,7 @@
    "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/service-fee-travel-agents/",
    "file": "t31_data-table.jpg",
    "captured": true,
-   "bytes": 36860
+   "skipped": true
   },
   {
    "idx": 46,
@@ -186,7 +186,7 @@
    "url": "https://www.thaiairways.com/th-th/content/help/faq/",
    "file": "t46_accordion-page.jpg",
    "captured": true,
-   "bytes": 36860
+   "skipped": true
   },
   {
    "idx": 57,
@@ -197,7 +197,7 @@
    "url": "https://www.thaiairways.com/th-th/content/sustainable-development/esg-initiative/",
    "file": "t57_columns.jpg",
    "captured": true,
-   "bytes": 36860
+   "bytes": 203277
   },
   {
    "idx": 65,
@@ -208,7 +208,7 @@
    "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/RKTF2025-ROP/",
    "file": "t65_carousel-page.jpg",
    "captured": true,
-   "bytes": 376835
+   "skipped": true
   },
   {
    "idx": 77,
@@ -219,7 +219,7 @@
    "url": "https://www.thaiairways.com/th-th/content/procurement-supplier/tg-pride-doc-guide-access/",
    "file": "t77_media.jpg",
    "captured": true,
-   "bytes": 95082
+   "skipped": true
   }
  ]
 }

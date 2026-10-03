@@ -1,0 +1,165 @@
+{
+ "captured": "2026-10-02T10:17:31.169Z",
+ "sampledPages": 40,
+ "firstPartyDomain": "thaiairways.com",
+ "totalServices": 7,
+ "categories": [
+  {
+   "category": "First-party platform",
+   "count": 2
+  },
+  {
+   "category": "Advertising",
+   "count": 2
+  },
+  {
+   "category": "First-party forms",
+   "count": 1
+  },
+  {
+   "category": "Analytics",
+   "count": 1
+  },
+  {
+   "category": "Consent",
+   "count": 1
+  }
+ ],
+ "services": [
+  {
+   "name": "Www: Forms / Lead API",
+   "category": "First-party forms",
+   "note": "Form submission / lead capture",
+   "hosts": [
+    "www.thaiairways.com"
+   ],
+   "hostCount": 1,
+   "endpoints": [
+    "POST www.thaiairways.com/cdn-cgi/challenge-platform/h/b/precursor/:id/0.:id::id:Jru0-bPdP1nGeui"
+   ],
+   "pages": 40,
+   "coverage": "100%"
+  },
+  {
+   "name": "Google Analytics (GA4)",
+   "category": "Analytics",
+   "note": "GA4 collect beacons",
+   "hosts": [
+    "www.google-analytics.com",
+    "www.google.com"
+   ],
+   "hostCount": 2,
+   "endpoints": [
+    "POST www.google-analytics.com/g/collect",
+    "POST www.google.com/g/collect"
+   ],
+   "pages": 5,
+   "coverage": "13%"
+  },
+  {
+   "name": "Www: Content / App API",
+   "category": "First-party platform",
+   "note": "App / content back-end",
+   "hosts": [
+    "www.thaiairways.com"
+   ],
+   "hostCount": 1,
+   "endpoints": [
+    "GET www.thaiairways.com/content/thaiairways/th/thundefined",
+    "GET www.thaiairways.com/content/thaiairways/th/enundefined"
+   ],
+   "pages": 4,
+   "coverage": "10%"
+  },
+  {
+   "name": "Www: Other first-party API",
+   "category": "First-party platform",
+   "note": "Uncategorised same-domain API call",
+   "hosts": [
+    "www.thaiairways.com"
+   ],
+   "hostCount": 1,
+   "endpoints": [
+    "GET www.thaiairways.com/common/country/getAllRegionList"
+   ],
+   "pages": 4,
+   "coverage": "10%"
+  },
+  {
+   "name": "OneTrust/consent (3rd-party)",
+   "category": "Consent",
+   "note": "",
+   "hosts": [
+    "cdn-apac.onetrust.com"
+   ],
+   "hostCount": 1,
+   "endpoints": [
+    "GET cdn-apac.onetrust.com/consent/:id/:id.json",
+    "GET cdn-apac.onetrust.com/consent/:id/:id/th-th.json",
+    "GET cdn-apac.onetrust.com/scripttemplates/:n.2.0/assets/otFlat.json",
+    "GET cdn-apac.onetrust.com/scripttemplates/:n.2.0/assets/v2/otPcCenter.json",
+    "GET cdn-apac.onetrust.com/scripttemplates/:n.2.0/assets/otCommonStyles.css",
+    "GET cdn-apac.onetrust.com/logos/static/ot_guard_logo.svg"
+   ],
+   "pages": 3,
+   "coverage": "8%"
+  },
+  {
+   "name": "Google Ads / DoubleClick",
+   "category": "Advertising",
+   "note": "Conversion beacons",
+   "hosts": [
+    "pagead2.googlesyndication.com"
+   ],
+   "hostCount": 1,
+   "endpoints": [
+    "POST pagead2.googlesyndication.com/pagead/conversion/:id",
+    "POST pagead2.googlesyndication.com/measurement/conversion",
+    "POST pagead2.googlesyndication.com/ccm/collect"
+   ],
+   "pages": 3,
+   "coverage": "8%"
+  },
+  {
+   "name": "Meta Conversions",
+   "category": "Advertising",
+   "note": "",
+   "hosts": [
+    "connect.facebook.net"
+   ],
+   "hostCount": 1,
+   "endpoints": [
+    "GET connect.facebook.net/app_config/json/:id"
+   ],
+   "pages": 1,
+   "coverage": "3%"
+  }
+ ],
+ "otherHosts": [
+  {
+   "host": "www.thaiairways.comundefined",
+   "pages": 4,
+   "sample": "GET www.thaiairways.comundefined/"
+  },
+  {
+   "host": "v55685555553p73xd3m3n3n3i091568652.australia-3.evergage.com",
+   "pages": 3,
+   "sample": "GET v55685555553p73xd3m3n3n3i091568652.australia-3.evergage.com/api2/event/thaiairwaysprod"
+  },
+  {
+   "host": "sl-11a463aaedf44600a99367660fd6fa70.ecs.us-east-1.on.aws",
+   "pages": 3,
+   "sample": "POST sl-11a463aaedf44600a99367660fd6fa70.ecs.us-east-1.on.aws/events"
+  },
+  {
+   "host": "mpc-prod-24-s6uit34pua-uw.a.run.app",
+   "pages": 3,
+   "sample": "POST mpc-prod-24-s6uit34pua-uw.a.run.app/events"
+  },
+  {
+   "host": "mpc2-prod-28-is5qnl632q-ue.a.run.app",
+   "pages": 1,
+   "sample": "POST mpc2-prod-28-is5qnl632q-ue.a.run.app/events"
+  }
+ ]
+}
