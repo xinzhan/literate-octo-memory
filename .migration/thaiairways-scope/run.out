@@ -1,0 +1,30 @@
+07:28:41 ▶ start: 65 sub-sections under /th-th/content/
+07:28:41 [48/65] redirect — 11 pages
+07:32:31    ✖ render shows site-side Service Notice (not Cloudflare): /th-th/content/redirect/feedback/
+07:32:57    ✖ render shows site-side Service Notice (not Cloudflare): /th-th/content/redirect/miles-calculator/
+07:32:57    redirect: 10/11
+07:33:39    ✔ redirect done — render errors 3/11, block errors 0/11
+07:34:39 [50/65] royal-orchid-plus — 7 pages
+07:37:54    ✔ royal-orchid-plus done — render errors 0/7, block errors 0/7
+07:38:54 [53/65] special-assistance — 10 pages
+07:40:33    special-assistance: 10/10
+07:40:33    ✔ special-assistance done — render errors 0/10, block errors 0/10
+07:41:33 [54/65] spend-miles — 8 pages
+07:42:22    ✔ spend-miles done — render errors 0/8, block errors 0/8
+07:43:22 [56/65] status — 2 pages
+07:44:09    ✔ status done — render errors 0/2, block errors 0/2
+07:45:09 [57/65] status-and-benefits — 1 pages
+07:45:59    ✔ status-and-benefits done — render errors 0/1, block errors 0/1
+07:46:59 [58/65] sustainable-development — 7 pages
+07:48:33    ✔ sustainable-development done — render errors 0/7, block errors 0/7
+07:49:33 [65/65] where-we-fly — 5 pages
+07:52:52    ✔ where-we-fly done — render errors 0/5, block errors 0/5
+07:53:52 ▶ all sections rendered — running remaining dashboard stages
+07:53:52 ▶ [4] cluster layouts + front-end integrations
+07:53:53 ▶ [6] consolidate block variants
+07:53:53 ▶ [7] template screenshots
+07:59:47 ▶ [8] methodology diagrams
+07:59:50 ▶ [9] URL coverage
+07:59:50 ▶ [11] supplementary data
+07:59:50 ▶ [12] build dashboard
+07:59:55 ▶ pipeline finished

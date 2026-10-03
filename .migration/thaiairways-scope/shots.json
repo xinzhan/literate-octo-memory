@@ -1,0 +1,225 @@
+{
+ "captured": "2026-10-03T07:59:47.818Z",
+ "shots": [
+  {
+   "idx": 0,
+   "name": "minimal-page",
+   "family": "empty",
+   "signature": "(empty)",
+   "estPop": 103,
+   "url": "https://www.thaiairways.com/th-th/content/baggage/excess-baggage/",
+   "file": "t00_minimal-page.jpg",
+   "captured": true,
+   "bytes": 1100997
+  },
+  {
+   "idx": 1,
+   "name": "article-text",
+   "family": "text",
+   "signature": "text>text>text",
+   "estPop": 63,
+   "url": "https://www.thaiairways.com/th-th/content/board-of-directors/",
+   "file": "t01_article-text.jpg",
+   "captured": true,
+   "bytes": 418562
+  },
+  {
+   "idx": 2,
+   "name": "article-text",
+   "family": "text",
+   "signature": "text>text",
+   "estPop": 50,
+   "url": "https://www.thaiairways.com/th-th/content/baggage/",
+   "file": "t02_article-text.jpg",
+   "captured": true,
+   "bytes": 332643
+  },
+  {
+   "idx": 5,
+   "name": "columns",
+   "family": "columns",
+   "signature": "columns>text",
+   "estPop": 23,
+   "url": "https://www.thaiairways.com/th-th/content/check-in-counter-closing-time/",
+   "file": "t05_columns.jpg",
+   "captured": true,
+   "bytes": 154244
+  },
+  {
+   "idx": 9,
+   "name": "data-table",
+   "family": "table",
+   "signature": "table",
+   "estPop": 13,
+   "url": "https://www.thaiairways.com/th-th/content/about-royal-orchid-plus/mileage-purchase/",
+   "file": "t09_data-table.jpg",
+   "captured": true,
+   "bytes": 295911
+  },
+  {
+   "idx": 10,
+   "name": "media",
+   "family": "media",
+   "signature": "media",
+   "estPop": 12,
+   "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/operational-performance-q3-2024/",
+   "file": "t10_media.jpg",
+   "captured": true,
+   "bytes": 531406
+  },
+  {
+   "idx": 13,
+   "name": "media-article",
+   "family": "media+text",
+   "signature": "text>media",
+   "estPop": 9,
+   "url": "https://www.thaiairways.com/th-th/content/more-services/royal-orchid-holidays/",
+   "file": "t13_media-article.jpg",
+   "captured": true,
+   "bytes": 298765
+  },
+  {
+   "idx": 15,
+   "name": "tabbed-page",
+   "family": "tabs",
+   "signature": "text>tabs",
+   "estPop": 8,
+   "url": "https://www.thaiairways.com/th-th/content/in-flight-experience/experience-economy-premium-economy/",
+   "file": "t15_tabbed-page.jpg",
+   "captured": true,
+   "bytes": 239392
+  },
+  {
+   "idx": 18,
+   "name": "card-grid",
+   "family": "cards",
+   "signature": "cards>cards>cards>cards",
+   "estPop": 4,
+   "url": "https://www.thaiairways.com/th-th/content/government/where-we-fly/",
+   "file": "t18_card-grid.jpg",
+   "captured": true,
+   "bytes": 139360
+  },
+  {
+   "idx": 19,
+   "name": "card-grid",
+   "family": "cards",
+   "signature": "text>text>cards",
+   "estPop": 4,
+   "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/piece-concept/",
+   "file": "t19_card-grid.jpg",
+   "captured": true,
+   "bytes": 316366
+  },
+  {
+   "idx": 25,
+   "name": "form-page",
+   "family": "form",
+   "signature": "nav>form",
+   "estPop": 3,
+   "url": "https://www.thaiairways.com/th-th/content/book-flight/",
+   "file": "t25_form-page.jpg",
+   "captured": true,
+   "bytes": 36131
+  },
+  {
+   "idx": 26,
+   "name": "media-article",
+   "family": "media+text",
+   "signature": "text>media>text>media",
+   "estPop": 3,
+   "url": "https://www.thaiairways.com/th-th/content/earn-miles/credit-card-partners/jcb/",
+   "file": "t26_media-article.jpg",
+   "captured": true,
+   "bytes": 36860
+  },
+  {
+   "idx": 28,
+   "name": "carousel-page",
+   "family": "carousel",
+   "signature": "text>carousel",
+   "estPop": 3,
+   "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/fly-to-korea-with-ktc/",
+   "file": "t28_carousel-page.jpg",
+   "captured": true,
+   "bytes": 36860
+  },
+  {
+   "idx": 29,
+   "name": "tabbed-page",
+   "family": "tabs",
+   "signature": "list>text>list>media>tabs",
+   "estPop": 2,
+   "url": "https://www.thaiairways.com/th-th/content/airport-information/",
+   "file": "t29_tabbed-page.jpg",
+   "captured": true,
+   "bytes": 36860
+  },
+  {
+   "idx": 30,
+   "name": "form-page",
+   "family": "form",
+   "signature": "form",
+   "estPop": 2,
+   "url": "https://www.thaiairways.com/th-th/content/in-flight-experience/e-library/",
+   "file": "t30_form-page.jpg",
+   "captured": true,
+   "bytes": 36860
+  },
+  {
+   "idx": 31,
+   "name": "data-table",
+   "family": "table",
+   "signature": "text>text>table",
+   "estPop": 2,
+   "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/service-fee-travel-agents/",
+   "file": "t31_data-table.jpg",
+   "captured": true,
+   "bytes": 36860
+  },
+  {
+   "idx": 46,
+   "name": "accordion-page",
+   "family": "accordion",
+   "signature": "accordion>accordion",
+   "estPop": 1,
+   "url": "https://www.thaiairways.com/th-th/content/help/faq/",
+   "file": "t46_accordion-page.jpg",
+   "captured": true,
+   "bytes": 36860
+  },
+  {
+   "idx": 57,
+   "name": "columns",
+   "family": "columns",
+   "signature": "columns>text>text",
+   "estPop": 1,
+   "url": "https://www.thaiairways.com/th-th/content/sustainable-development/esg-initiative/",
+   "file": "t57_columns.jpg",
+   "captured": true,
+   "bytes": 36860
+  },
+  {
+   "idx": 65,
+   "name": "carousel-page",
+   "family": "carousel",
+   "signature": "text>text>carousel>text>carousel",
+   "estPop": 1,
+   "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/RKTF2025-ROP/",
+   "file": "t65_carousel-page.jpg",
+   "captured": true,
+   "bytes": 376835
+  },
+  {
+   "idx": 77,
+   "name": "media",
+   "family": "media",
+   "signature": "media>media>media>media>media",
+   "estPop": 1,
+   "url": "https://www.thaiairways.com/th-th/content/procurement-supplier/tg-pride-doc-guide-access/",
+   "file": "t77_media.jpg",
+   "captured": true,
+   "bytes": 95082
+  }
+ ]
+}

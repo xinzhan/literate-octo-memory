@@ -1,0 +1,18 @@
+{
+  "siteUrl": "https://www.thaiairways.com/th-th/",
+  "siteOrigin": "https://www.thaiairways.com",
+  "site": "thaiairways.com",
+  "scope": "Supplied sitemap (tg-sitemap.xml) — th-th locale, 559 URLs",
+  "eyebrow": "Thai Airways · Site Analysis",
+  "heroTitle": "Structural analysis of thaiairways.com (th-th)",
+  "heroSub": "",
+  "brandLine": "thaiairways.com<br>Migration Console",
+  "accountName": "Thai Airways International",
+  "locale": "th-th (single locale in sitemap)",
+  "discovery": "supplied sitemap.xml (559 URLs, no crawl)",
+  "cjk": false,
+  "catalogFolder": "/backups/xinzhan/literate-octo-memory/repo/.migration/thaiairways-scope",
+  "reportsDir": "/backups/xinzhan/literate-octo-memory/repo/.migration/reports",
+  "templateHtml": "/backups/xinzhan/literate-octo-memory/repo/.claude/skills/site-analysis-dashboard/templates/dashboard-template.html",
+  "outFile": ""
+}

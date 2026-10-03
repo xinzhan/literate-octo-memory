@@ -1,0 +1,136 @@
+{
+ "captured": "2026-10-03T07:59:50.130Z",
+ "locales": [
+  "th-th"
+ ],
+ "sections": [],
+ "selInspect": {
+  "totalGroups": 10,
+  "totalLive": 559,
+  "totalUrls": 559,
+  "selectedTotal": 0,
+  "skippedTotal": 559,
+  "non200Total": 0,
+  "nonRrendered": 0,
+  "nonRtotal": 0,
+  "fullGroups": 0,
+  "rRendered": 0,
+  "rTotal": 0,
+  "rGroups": 0,
+  "exclTotal": 559,
+  "exclGroups": 10,
+  "nonEnExcluded": 559
+ },
+ "rows": [
+  {
+   "groupId": "G00",
+   "template": "/{locale}/{section}/{page}/{path…}/{path…}",
+   "label": "Locale deep pages",
+   "total": 256,
+   "selected": 0,
+   "skipped": 256,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/th-th/content/more-services/standby-upgrade/premium-economy-to-business-class"
+  },
+  {
+   "groupId": "G01",
+   "template": "/{locale}/{section}/{page}/{path…}",
+   "label": "Locale deep pages",
+   "total": 118,
+   "selected": 0,
+   "skipped": 118,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/th-th/experience/ground-services/gold-track"
+  },
+  {
+   "groupId": "G02",
+   "template": "/{locale}/{section}/{page}/{slug}",
+   "label": "Locale deep pages",
+   "total": 83,
+   "selected": 0,
+   "skipped": 83,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/th-th/content/more-services/pre-order-duty-free"
+  },
+  {
+   "groupId": "G03",
+   "template": "/{locale}/{section}/{page}",
+   "label": "Locale sub-pages",
+   "total": 56,
+   "selected": 0,
+   "skipped": 56,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/th-th/help/my-requests"
+  },
+  {
+   "groupId": "G04",
+   "template": "/{locale}/{section}/{slug}",
+   "label": "Locale sub-pages",
+   "total": 21,
+   "selected": 0,
+   "skipped": 21,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/th-th/help/royal-orchid-plus-services"
+  },
+  {
+   "groupId": "G05",
+   "template": "/{locale}/{section}/{id}/{slug}",
+   "label": "Locale deep pages",
+   "total": 8,
+   "selected": 0,
+   "skipped": 8,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/th-th/content/about-royal-orchid-plus/royal-orchid-plus-program-conditions"
+  },
+  {
+   "groupId": "G06",
+   "template": "/{locale}/{section}/{id}/{path…}",
+   "label": "Locale deep pages",
+   "total": 6,
+   "selected": 0,
+   "skipped": 6,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/th-th/content/about-royal-orchid-plus/award-conditions"
+  },
+  {
+   "groupId": "G07",
+   "template": "/{locale}/{section}/{page}/{id}/{path…}",
+   "label": "Locale deep pages",
+   "total": 5,
+   "selected": 0,
+   "skipped": 5,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/th-th/content/earn-miles/lifestyle-promotion-partners/miles-with-dining"
+  },
+  {
+   "groupId": "G08",
+   "template": "/{locale}/{section}/{id}/{id}/{path…}",
+   "label": "Locale deep pages",
+   "total": 5,
+   "selected": 0,
+   "skipped": 5,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/th-th/content/good-corporate-governance/communication-to-enhance-good-corporate-governance-compliance/personal-data-protection-section"
+  },
+  {
+   "groupId": "G09",
+   "template": "/{locale}",
+   "label": "Locale homepages",
+   "total": 1,
+   "selected": 0,
+   "skipped": 1,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/th-th"
+  }
+ ]
+}

@@ -1,0 +1,4864 @@
+{
+ "captured": "2026-10-03T07:53:53.193Z",
+ "totalInstances": 1680,
+ "totalVariants": 227,
+ "baseSummary": [
+  {
+   "base": "text",
+   "variants": 76,
+   "instances": 886
+  },
+  {
+   "base": "unknown",
+   "variants": 59,
+   "instances": 264
+  },
+  {
+   "base": "cards",
+   "variants": 19,
+   "instances": 143
+  },
+  {
+   "base": "columns",
+   "variants": 10,
+   "instances": 108
+  },
+  {
+   "base": "breadcrumbs",
+   "variants": 1,
+   "instances": 83
+  },
+  {
+   "base": "table",
+   "variants": 11,
+   "instances": 37
+  },
+  {
+   "base": "accordion",
+   "variants": 9,
+   "instances": 36
+  },
+  {
+   "base": "form",
+   "variants": 13,
+   "instances": 34
+  },
+  {
+   "base": "iframe-embed",
+   "variants": 4,
+   "instances": 34
+  },
+  {
+   "base": "media",
+   "variants": 10,
+   "instances": 26
+  },
+  {
+   "base": "tabs",
+   "variants": 11,
+   "instances": 20
+  },
+  {
+   "base": "carousel",
+   "variants": 2,
+   "instances": 6
+  },
+  {
+   "base": "video",
+   "variants": 1,
+   "instances": 2
+  },
+  {
+   "base": "list",
+   "variants": 1,
+   "instances": 1
+  }
+ ],
+ "variants": [
+  {
+   "base": "accordion",
+   "key": "accordion::div|div1.link1.script1|hd,aN,iN",
+   "instances": 17,
+   "pagesFound": 17,
+   "repFile": "accordion_8bef124c3eea.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/RKTF2026-KBANK/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/krungsri-synergy-may-aug-2026/",
+     "file": "accordion_b9f11e4a97f1.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/RKTF2026-TTB/",
+     "file": "accordion_b7d9bdbe28d6.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/RKTF2026-KBANK/",
+     "file": "accordion_8bef124c3eea.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/ttbbank-jun-sep-2025/",
+     "file": "accordion_f6a5a46bde5d.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/fly-to-korea-with-ktc/",
+     "file": "accordion_cc1cf936ad8c.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/co-promotion-with-thai-amex-platinum-credit-card/",
+     "file": "accordion_8c1f841a5f97.jpg"
+    }
+   ],
+   "topLabel": "*ข้อกำหนดและเงื่อนไข:"
+  },
+  {
+   "base": "accordion",
+   "key": "accordion::div|div1.link1.script1|lst,hd,aN,iN",
+   "instances": 10,
+   "pagesFound": 10,
+   "repFile": "accordion_51c3d9e34864.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/baggage/delayed-baggage/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/baggage/delayed-baggage/",
+     "file": "accordion_51c3d9e34864.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/kbank-installments-and-cashback-may-aug2026/",
+     "file": "accordion_ae143036f0dd.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/RKTF2026-KTC/",
+     "file": "accordion_1b2eb8dd05cd.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/ttbbank-jun-sep-2026/",
+     "file": "accordion_9654eca09d9e.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/ttbbank-feb-apr-2025/",
+     "file": "accordion_2a8b4f8e5ae2.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/aeon_2024/",
+     "file": "accordion_e84c57546703.jpg"
+    }
+   ],
+   "topLabel": "เงื่อนไขการรับเครดิตเงินคืน :"
+  },
+  {
+   "base": "accordion",
+   "key": "accordion::div|div1|hd,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "accordion_37480fadb151.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/condition-of-carriage/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/condition-of-carriage/",
+     "file": "accordion_37480fadb151.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/RKTF2026-KTC/",
+     "file": "accordion_ca6edbc10501.jpg"
+    }
+   ],
+   "topLabel": "ความหมายเฉพาะที่อยู่ในเงื่อนไข"
+  },
+  {
+   "base": "accordion",
+   "key": "accordion::div|div1|lst,hd,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "accordion_8902ecfa04f0.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/help/faq/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/reservation-issuance-refunds/",
+     "file": "accordion_a55195911824.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/help/faq/",
+     "file": "accordion_8902ecfa04f0.jpg"
+    }
+   ],
+   "topLabel": "1. ช่องทางการติดต่อทำสำรองที่นั่งทางอีเมล หรือโทรศัพท์"
+  },
+  {
+   "base": "accordion",
+   "key": "accordion::div|div1|img,tbl,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "accordion_d1726e572f37.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/help/faq/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/help/faq/",
+     "file": "accordion_d1726e572f37.jpg"
+    }
+   ],
+   "topLabel": "Preferred Seat คืออะไร?"
+  },
+  {
+   "base": "accordion",
+   "key": "accordion::div|div1.link1.script1|tbl,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "accordion_9f69f277776b.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/more-services/standby-upgrade/stand-by-upgrading-rate/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/more-services/standby-upgrade/stand-by-upgrading-rate/",
+     "file": "accordion_9f69f277776b.jpg"
+    }
+   ],
+   "topLabel": "ค่าธรรมเนียม/ ค่าใช้จ่ายสำหรับการอัปเกรดแบบ Stand-by Upgrade"
+  },
+  {
+   "base": "accordion",
+   "key": "accordion::div|div8|img,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "accordion_a527014ef663.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/sustainable-development/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/sustainable-development/",
+     "file": "accordion_a527014ef663.jpg"
+    }
+   ],
+   "topLabel": "การจัดการความยั่งยืน"
+  },
+  {
+   "base": "accordion",
+   "key": "accordion::div|div1.link1.script1|img,tbl,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "accordion_8e64c0a8ef3e.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/sustainable-development/goal-and-achievements/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/sustainable-development/goal-and-achievements/",
+     "file": "accordion_8e64c0a8ef3e.jpg"
+    }
+   ],
+   "topLabel": "การบริหารจัดการก๊าซเรือนกระจกขององค์กร"
+  },
+  {
+   "base": "accordion",
+   "key": "accordion::div|div1|tbl,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "accordion_b03628faa4de.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/sustainable-development/goal-and-achievements/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/sustainable-development/goal-and-achievements/",
+     "file": "accordion_b03628faa4de.jpg"
+    }
+   ],
+   "topLabel": "การปรับปรุงและพัฒนาฝูงบินของสายการบิน"
+  },
+  {
+   "base": "breadcrumbs",
+   "key": "breadcrumbs::div|nav1|lst,aN,iN",
+   "instances": 83,
+   "pagesFound": 83,
+   "repFile": "breadcrumbs_f675841f72f0.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/royal-orchid-plus/Celebrate-20th-ani-THAI-AMEX-20K-Bonus-Miles/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/about-royal-orchid-plus/mileage-purchase/",
+     "file": "breadcrumbs_5b22d4568e21.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/about-royal-orchid-plus/Gift-Miles/",
+     "file": "breadcrumbs_e32c7607fc9a.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/baggage/delayed-baggage/",
+     "file": "breadcrumbs_511f955d044f.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/credit-card-partners/aeon-royal-orchid-plus/",
+     "file": "breadcrumbs_cebf394223c0.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/credit-card-partners/sumitomo-mitsui/",
+     "file": "breadcrumbs_cffeaba53f99.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/credit-card-partners/uob-royal-orchid-plus-credit-card/",
+     "file": "breadcrumbs_1a56f2fa6ae3.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "cards",
+   "key": "cards::a|div2.h41|img,aN,iN",
+   "instances": 50,
+   "pagesFound": 7,
+   "repFile": "cards_0cb8afbc816c.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/more-services/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/book-flight/full-service/",
+     "file": "cards_ab076aa91259.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/book-flight/full-service/",
+     "file": "cards_69f198b85450.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/book-flight/full-service/",
+     "file": "cards_bc61886dc8af.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/more-services/",
+     "file": "cards_c396519cda1d.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/more-services/",
+     "file": "cards_a0bd0961f4e5.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/more-services/",
+     "file": "cards_d6deeab7d135.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "cards",
+   "key": "cards::div|div1.link1.script2|img,lst,aN,iN",
+   "instances": 29,
+   "pagesFound": 29,
+   "repFile": "cards_614a62c34002.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/earn-miles/credit-card-partners/sumitomo-mitsui/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/credit-card-partners/sumitomo-mitsui/",
+     "file": "cards_614a62c34002.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/credit-card-partners/uob-royal-orchid-plus-credit-card/",
+     "file": "cards_9c76f2a05feb.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/good-corporate-governance/communication-to-enhance-good-corporate-governance-compliance/good-corporate-governance-section/",
+     "file": "cards_fe8a5bb1ea7e.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/good-corporate-governance/communication-to-enhance-good-corporate-governance-compliance/complaints-and-whistleblowing-on-fraud-and-non-compliance/",
+     "file": "cards_5e76b493d1b1.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/ticket-issuance-refunds/",
+     "file": "cards_7e38cce28853.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/sample-letters-and-form/",
+     "file": "cards_a84188b11227.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "cards",
+   "key": "cards::a|div1.h41|img,aN,iN",
+   "instances": 18,
+   "pagesFound": 4,
+   "repFile": "cards_e2191f44fef1.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/company-profile/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/company-profile/",
+     "file": "cards_59f15bd0ec00.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/company-profile/",
+     "file": "cards_e2191f44fef1.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/company-profile/",
+     "file": "cards_622ef6a6c6c0.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/where-we-fly/",
+     "file": "cards_6095a6bff4a0.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/where-we-fly/",
+     "file": "cards_62c2ca073925.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/where-we-fly/",
+     "file": "cards_9806516ae179.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "cards",
+   "key": "cards::div|div1.link1.script1|img,aN,iN",
+   "instances": 12,
+   "pagesFound": 12,
+   "repFile": "cards_a30a36ec7011.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/thaiairwaysxsentosa/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/credit-card-partners/aeon-royal-orchid-plus/",
+     "file": "cards_ba5bd0281f6b.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/credit-card-partners/uob-royal-orchid-plus-credit-card/",
+     "file": "cards_a62a4d3a5307.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/in-flight-experience/",
+     "file": "cards_a9dd52992279.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/sample-letters-and-form/",
+     "file": "cards_b6d948883d57.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/thaiairwaysxsentosa/",
+     "file": "cards_a30a36ec7011.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/procurement-supplier/",
+     "file": "cards_d5f3532d15d7.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "cards",
+   "key": "cards::div|div2.link1.script1|img,aN,iN",
+   "instances": 5,
+   "pagesFound": 5,
+   "repFile": "cards_690356d22e60.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/good-corporate-governance/communication-to-enhance-good-corporate-governance-compliance/complaints-and-whistleblowing-on-fraud-and-non-compliance/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/good-corporate-governance/communication-to-enhance-good-corporate-governance-compliance/personal-data-protection-section/",
+     "file": "cards_a1fcdc0fb8c1.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/good-corporate-governance/communication-to-enhance-good-corporate-governance-compliance/good-corporate-governance-section/",
+     "file": "cards_0f00be762b53.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/good-corporate-governance/communication-to-enhance-good-corporate-governance-compliance/complaints-and-whistleblowing-on-fraud-and-non-compliance/",
+     "file": "cards_690356d22e60.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/procurement-supplier/tg-pride-doc-guide-register/",
+     "file": "cards_cd6c35d69201.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/procurement-supplier/tg-pride-doc-guide-access/",
+     "file": "cards_288e5d87d736.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "cards",
+   "key": "cards::div|div2|img,aN,iN",
+   "instances": 4,
+   "pagesFound": 3,
+   "repFile": "cards_127f4eae17af.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/in-flight-experience/use-of-electronic-device/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/boarding-pass/",
+     "file": "cards_377dbb058c9d.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/in-flight-experience/use-of-electronic-device/",
+     "file": "cards_127f4eae17af.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/procurement-supplier/tg-pride-doc-guide-access/",
+     "file": "cards_e8cdf43f0345.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/procurement-supplier/tg-pride-doc-guide-access/",
+     "file": "cards_7347035a29ae.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "cards",
+   "key": "cards::div|div1|img,aN,iN",
+   "instances": 4,
+   "pagesFound": 4,
+   "repFile": "cards_fdfbeab6e6c4.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/thaiairwaysxsentosa/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/credit-card-partners/aeon-royal-orchid-plus/",
+     "file": "cards_4fb5ab9fe312.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/credit-card-partners/uob-royal-orchid-plus-credit-card/",
+     "file": "cards_02f5c4a767d7.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/thaiairwaysxsentosa/",
+     "file": "cards_fdfbeab6e6c4.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/procurement-supplier/",
+     "file": "cards_cce04313da91.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "cards",
+   "key": "cards::a|div1.img1|img,aN,iN",
+   "instances": 3,
+   "pagesFound": 1,
+   "repFile": "cards_778eab13bda7.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/royal-orchid-plus/royal-orchid-plus-newsletter/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/royal-orchid-plus/royal-orchid-plus-newsletter/",
+     "file": "cards_778eab13bda7.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/royal-orchid-plus/royal-orchid-plus-newsletter/",
+     "file": "cards_208bfe83cb67.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/royal-orchid-plus/royal-orchid-plus-newsletter/",
+     "file": "cards_3a485999567f.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "cards",
+   "key": "cards::div|div1.link1.script1|img,hd,aN,iN",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "cards_5a74baa7c4ac.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/help/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/credit-card-partners/sumitomo-mitsui/",
+     "file": "cards_bde96c003634.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/in-flight-experience/",
+     "file": "cards_4f2980697442.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/help/",
+     "file": "cards_5a74baa7c4ac.jpg"
+    }
+   ],
+   "topLabel": "เข้าถึงทุกความสนุกบนเที่ยวบิน"
+  },
+  {
+   "base": "cards",
+   "key": "cards::div|div1.link1|img,aN,iN",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "cards_82f1befe6fce.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/more-services/transportation/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/more-services/hotels/",
+     "file": "cards_89bbe5629046.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/more-services/transportation/",
+     "file": "cards_82f1befe6fce.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/more-services/insurance/",
+     "file": "cards_2a2573f867c9.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "cards",
+   "key": "cards::div|div1|img,hd,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "cards_385158cd1a31.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/government/in-flight-experience/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/in-flight-experience/",
+     "file": "cards_385158cd1a31.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/status-and-benefits/",
+     "file": "cards_c6f28ad6646d.jpg"
+    }
+   ],
+   "topLabel": "เชื่อมต่อได้ทุกที่แม้อยู่บนฟ้า"
+  },
+  {
+   "base": "cards",
+   "key": "cards::div|div1.link1.script2|img,hd,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "cards_a48b26744631.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/help/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/help/",
+     "file": "cards_a48b26744631.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/more-services/other-services/",
+     "file": "cards_67ed15281d44.jpg"
+    }
+   ],
+   "topLabel": "คำถามที่พบบ่อย"
+  },
+  {
+   "base": "cards",
+   "key": "cards::div|div1.link1.script2|img,lst,hd,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "cards_8800aa952729.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/status-and-benefits/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/more-services/airport-services/",
+     "file": "cards_9ed4f248508b.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/status-and-benefits/",
+     "file": "cards_8800aa952729.jpg"
+    }
+   ],
+   "topLabel": "Airport Premium Service"
+  },
+  {
+   "base": "cards",
+   "key": "cards::div|aN|img,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "cards_a98919feb931.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/government/baggage/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/baggage/",
+     "file": "cards_a98919feb931.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "cards",
+   "key": "cards::div|div1.p60|img,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "cards_4238c60b6283.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/news-and-announcements/piece-concept/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/piece-concept/",
+     "file": "cards_4238c60b6283.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "cards",
+   "key": "cards::div|p24.ul1|img,lst,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "cards_55e6ae5c2e0a.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-airways-cellars-in-the-sky-awards-2026/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-airways-cellars-in-the-sky-awards-2026/",
+     "file": "cards_55e6ae5c2e0a.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "cards",
+   "key": "cards::div|div1.link1.script1|img,lst,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "cards_99c651edb702.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/procurement-supplier/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/procurement-supplier/",
+     "file": "cards_99c651edb702.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "cards",
+   "key": "cards::div|div2.link1.script1|img,lst,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "cards_a03a7225598d.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/royal-orchid-plus/royal-orchid-plus-news/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/royal-orchid-plus/royal-orchid-plus-news/",
+     "file": "cards_a03a7225598d.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "cards",
+   "key": "cards::div|div1.link1.script1|img,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "cards_b3446a767540.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/status-and-benefits/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/status-and-benefits/",
+     "file": "cards_b3446a767540.jpg"
+    }
+   ],
+   "topLabel": "สิทธิประโยชน์ของแต่ละสถานภาพสมาชิก"
+  },
+  {
+   "base": "carousel",
+   "key": "carousel::div|div1.link1.script1|img,aN,iN",
+   "instances": 5,
+   "pagesFound": 5,
+   "repFile": "carousel_e870627477c3.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/fly-to-korea-with-ktc/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/in-flight-experience/",
+     "file": "carousel_b03dbcc9ea3b.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/RKTF2025-ROP/",
+     "file": "carousel_e57f2f2cdcee.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/fly-to-korea-with-ktc/",
+     "file": "carousel_e870627477c3.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/fly-to-asia-and-europe-with-ktc-mc/",
+     "file": "carousel_2b0cc94e292c.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/fly-to-hong-kong-with-ktc/",
+     "file": "carousel_cf67360189bb.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "carousel",
+   "key": "carousel::div|div1.link1.script1|img,lst,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "carousel_ac562e97baf1.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/RKTF2025-ROP/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/RKTF2025-ROP/",
+     "file": "carousel_ac562e97baf1.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "columns",
+   "key": "columns::div|div1.link1.script1|img,aN,iN",
+   "instances": 38,
+   "pagesFound": 35,
+   "repFile": "columns_2f6aae41cb03.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/government/in-flight-experience/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/about-royal-orchid-plus/mileage-purchase/",
+     "file": "columns_487732008d58.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/baggage/delayed-baggage/",
+     "file": "columns_e59362c3b637.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/in-flight-experience/",
+     "file": "columns_2f6aae41cb03.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/junior-sky-explorer/",
+     "file": "columns_1e99839e1281.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/junior-sky-explorer/",
+     "file": "columns_d050586ba86b.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/RKTF2025-ROP/",
+     "file": "columns_2115dbf9b3f1.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "columns",
+   "key": "columns::div|div1.link1.script1|img,hd,aN,iN",
+   "instances": 32,
+   "pagesFound": 31,
+   "repFile": "columns_050ad6176763.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/more-services/online-excess-baggage/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/travel-class/royal-first/",
+     "file": "columns_c96073543708.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/about-royal-orchid-plus/mileage-purchase/",
+     "file": "columns_8baabbcd9a77.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/about-royal-orchid-plus/Gift-Miles/",
+     "file": "columns_ca4245ed2a16.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/baggage/delayed-baggage/",
+     "file": "columns_1fb66610cf27.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/star-alliance-airlines/austrian-airlines-group-os/",
+     "file": "columns_e411884f237c.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/star-alliance-airlines/ita-airways-az/",
+     "file": "columns_013d86277d95.jpg"
+    }
+   ],
+   "topLabel": "ROYAL FIRST"
+  },
+  {
+   "base": "columns",
+   "key": "columns::div|div3|img,lst,aN,iN",
+   "instances": 14,
+   "pagesFound": 14,
+   "repFile": "columns_4c8ca731cc1d.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/terms-of-use/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/good-corporate-governance/communication-to-enhance-good-corporate-governance-compliance/",
+     "file": "columns_64933fabef95.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/faqs/",
+     "file": "columns_b1dc73f55319.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/ground-services/",
+     "file": "columns_e377157dc0b6.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/ground-services/",
+     "file": "columns_01b5419d526f.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/help/thai-worldwide-offices/",
+     "file": "columns_40ba55de83ad.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-announces-prohibition-of-power-bank-use-onboard2/",
+     "file": "columns_f0d9bf5c1b6b.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "columns",
+   "key": "columns::div|div1|img,aN,iN",
+   "instances": 14,
+   "pagesFound": 4,
+   "repFile": "columns_6a3ab679baaa.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/junior-sky-explorer/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/junior-sky-explorer/",
+     "file": "columns_a9a6d13b3b92.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/junior-sky-explorer/",
+     "file": "columns_ef97a79cbd1c.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/junior-sky-explorer/",
+     "file": "columns_ee7b32433f75.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/junior-sky-explorer/",
+     "file": "columns_d48693b0f8ac.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/junior-sky-explorer/",
+     "file": "columns_6a3ab679baaa.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/junior-sky-explorer/",
+     "file": "columns_259a03fba006.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "columns",
+   "key": "columns::div|img1|img,aN,iN",
+   "instances": 4,
+   "pagesFound": 4,
+   "repFile": "columns_efdcea39b992.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/baggage/dangerous-goods/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/baggage/dangerous-goods/",
+     "file": "columns_efdcea39b992.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/more-services/pre-select-meals/",
+     "file": "columns_7212689cb003.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/special-assistance/traveling-with-a-wheelchair/",
+     "file": "columns_b9a76dbe00df.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/sustainable-development/esg-initiative/",
+     "file": "columns_77caaf957434.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "columns",
+   "key": "columns::div|div1.link1.script1|img,lst,hd,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "columns_7cc23be46034.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/RKTF2026-PUFF-PIE/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/RKTF2026-PUFF-PIE/",
+     "file": "columns_7cc23be46034.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/special-assistance/traveling-with-infants/",
+     "file": "columns_fc4c7cddedb2.jpg"
+    }
+   ],
+   "topLabel": "พัฟแอนด์พาย"
+  },
+  {
+   "base": "columns",
+   "key": "columns::div|img3|img,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "columns_6290c92d78cf.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-and-jim-thompson-introduce-exquisite-amenity-kits-for-royal-silk-class-a-match-as-smooth-as-silk/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-and-jim-thompson-introduce-exquisite-amenity-kits-for-royal-silk-class-a-match-as-smooth-as-silk/",
+     "file": "columns_6290c92d78cf.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "columns",
+   "key": "columns::div|div1|img,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "columns_e8f5e93da53b.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/RKTF2026-PUFF-PIE/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/RKTF2026-PUFF-PIE/",
+     "file": "columns_e8f5e93da53b.jpg"
+    }
+   ],
+   "topLabel": "สินค้าราคาพิเศษ"
+  },
+  {
+   "base": "columns",
+   "key": "columns::div|div1.link1|img,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "columns_00c066d71306.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/special-assistance/travel-with-pets/pets-as-checked-baggage-avih/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/special-assistance/travel-with-pets/pets-as-checked-baggage-avih/",
+     "file": "columns_00c066d71306.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "columns",
+   "key": "columns::div|div1|img,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "columns_0b4c7396cdbd.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/sustainable-development/goal-and-achievements/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/sustainable-development/goal-and-achievements/",
+     "file": "columns_0b4c7396cdbd.jpg"
+    }
+   ],
+   "topLabel": "เป้าหมายระยะยาว"
+  },
+  {
+   "base": "form",
+   "key": "form::div|div2.link1.metaN.script9.style1|frm,aN,iN",
+   "instances": 12,
+   "pagesFound": 12,
+   "repFile": "form_a1a58583b7ba.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/smooth-priceless-to-amsterdam-with-mastercard/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/smooth-priceless-to-amsterdam-with-mastercard/",
+     "file": "form_a1a58583b7ba.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/smooth-priceless-to-changsha-with-mastercard/",
+     "file": "form_f53d4e776745.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/krungsri-synergy-may-aug-2026/",
+     "file": "form_2f96844e9b27.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/ttbbank-jun-sep-2026/",
+     "file": "form_004a309d8e19.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/kbank-sep-dec2025/",
+     "file": "form_980b190c45af.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/krungsri-synergy-sep-oct-2025/",
+     "file": "form_759811e8a8f6.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "form",
+   "key": "form::div|div2.link1.metaN.script10.style1|frm,aN,iN",
+   "instances": 9,
+   "pagesFound": 9,
+   "repFile": "form_2154b3695571.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/kbank-installments-and-cashback-may-aug2026/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/kbank-installments-and-cashback-may-aug2026/",
+     "file": "form_2154b3695571.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/fly-to-korea-with-ktc/",
+     "file": "form_7ad9300d4f19.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/co-promotion-with-thai-amex-platinum-credit-card/",
+     "file": "form_3c8ea0e1b4cc.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/krungsri-consumer-installment-jul-dec-25/",
+     "file": "form_434703380241.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/krungsri-consumer-installment-and-cashback-feb-mar2026/",
+     "file": "form_266ee9d9dca5.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/fly-to-asia-and-europe-with-ktc-mc/",
+     "file": "form_4d9895e7fc99.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "form",
+   "key": "form::div|div1.link1.metaN.script9.style1|frm,aN,iN",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "form_f0295a57ad8a.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/save-with-mastercard-singapore/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/save-with-mastercard-singapore/",
+     "file": "form_f0295a57ad8a.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/smooth-priceless-to-asia-with-mastercard/",
+     "file": "form_25da7b9c95cb.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/ttbbank-jun-sep-2025/",
+     "file": "form_763269d53aae.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "form",
+   "key": "form::div|div2|lst,frm,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "form_8f454886ee75.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/in-flight-experience/e-library/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/in-flight-experience/e-library/",
+     "file": "form_8f454886ee75.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "form",
+   "key": "form::div|div2.form1.h41.p1|img,frm,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "form_7c2d4480f90d.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/spend-miles/donation/good-miles-for-a-good-cause/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/spend-miles/donation/good-miles-for-a-good-cause/",
+     "file": "form_7c2d4480f90d.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "form",
+   "key": "form::div|div1|frm,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "form_b675bb4c6bf0.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/book-flight/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/book-flight/",
+     "file": "form_b675bb4c6bf0.jpg"
+    }
+   ],
+   "topLabel": "ค้นหาและจองเที่ยวบินการบินไทย"
+  },
+  {
+   "base": "form",
+   "key": "form::div|div2.link1.metaN.script11.style1|frm,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "form_d69467046d9b.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/thaiairwaysxsentosa/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/thaiairwaysxsentosa/",
+     "file": "form_d69467046d9b.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "form",
+   "key": "form::div|div2.link1.metaN.script8.style1|frm,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "form_18ebce5fcc69.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/disney-adventure-campaign/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/disney-adventure-campaign/",
+     "file": "form_18ebce5fcc69.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "form",
+   "key": "form::div|div1.link1.metaN.script11.style1|frm,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "form_30fea4f30793.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/ttbbank-feb-apr-2025/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/ttbbank-feb-apr-2025/",
+     "file": "form_30fea4f30793.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "form",
+   "key": "form::div|div1.link1.metaN.script6.style1|frm,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "form_b43112ca41fb.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/aeon_2024/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/aeon_2024/",
+     "file": "form_b43112ca41fb.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "form",
+   "key": "form::div|div1.link1.metaN.script31.style1|frm,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "form_fd4253612658.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/fly-to-asia-europe-with-ktc-mc/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/fly-to-asia-europe-with-ktc-mc/",
+     "file": "form_fd4253612658.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "form",
+   "key": "form::div|button1.div2.h11|lst,frm,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "form_cc20387b96ab.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/redirect/book-my-trips/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/redirect/book-my-trips/",
+     "file": "form_cc20387b96ab.jpg"
+    }
+   ],
+   "topLabel": "การเดินทางของฉัน"
+  },
+  {
+   "base": "form",
+   "key": "form::div|div2|lst,frm,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "form_644760551a72.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/redirect/e-receipt/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/redirect/e-receipt/",
+     "file": "form_644760551a72.jpg"
+    }
+   ],
+   "topLabel": "ใบเสร็จรับเงินอิเล็กทรอนิกส์"
+  },
+  {
+   "base": "iframe-embed",
+   "key": "iframe-embed::div|div1.link1.script2|img,lst,ifr,aN,iN",
+   "instances": 31,
+   "pagesFound": 31,
+   "repFile": "iframe-embed_2d00dbb57d73.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/ttbbank-jun-sep-2025/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/credit-card-partners/aeon-royal-orchid-plus/",
+     "file": "iframe-embed_7d5dac4f6736.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/good-corporate-governance/communication-to-enhance-good-corporate-governance-compliance/personal-data-protection-section/",
+     "file": "iframe-embed_f109ede51625.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/in-flight-experience/",
+     "file": "iframe-embed_7ea0dc8c8ee8.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/help/",
+     "file": "iframe-embed_65233e8521eb.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/help/contact/",
+     "file": "iframe-embed_fa5bf8ceda33.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/thaiairwaysxsentosa/",
+     "file": "iframe-embed_3c5758637182.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "iframe-embed",
+   "key": "iframe-embed::div|div1.script7|lst,ifr,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "iframe-embed_5fcc82fc8ca5.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/news-and-announcements/fleet-growth/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/fleet-growth/",
+     "file": "iframe-embed_5fcc82fc8ca5.jpg"
+    }
+   ],
+   "topLabel": "การบินไทยเสริมแกร่งฝูงบินระยะยาว สร้างการเติบโตและผลกำไรอย่า"
+  },
+  {
+   "base": "iframe-embed",
+   "key": "iframe-embed::div|div1.script7|img,lst,ifr,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "iframe-embed_9a8c23022c61.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/news-and-announcements/operational-update/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/operational-update/",
+     "file": "iframe-embed_9a8c23022c61.jpg"
+    }
+   ],
+   "topLabel": "ประกาศอัปเดตตารางบิน"
+  },
+  {
+   "base": "iframe-embed",
+   "key": "iframe-embed::div|div1|lst,ifr,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "iframe-embed_6f66c2c67d4a.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/redirect/mileage-transfer/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/redirect/mileage-transfer/",
+     "file": "iframe-embed_6f66c2c67d4a.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "list",
+   "key": "list::div|div1|lst,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "list_685b9af3b2bb.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/government/airport-information/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/airport-information/",
+     "file": "list_685b9af3b2bb.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "media",
+   "key": "media::div|div1.h41|img,aN,iN",
+   "instances": 9,
+   "pagesFound": 1,
+   "repFile": "media_3e1feb6aa20c.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/good-corporate-governance/policies-documents-and-key-publications/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/good-corporate-governance/policies-documents-and-key-publications/",
+     "file": "media_536f77663e59.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/good-corporate-governance/policies-documents-and-key-publications/",
+     "file": "media_5bb7d54ad115.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/good-corporate-governance/policies-documents-and-key-publications/",
+     "file": "media_645bb9cc3e49.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/good-corporate-governance/policies-documents-and-key-publications/",
+     "file": "media_380a8b10f8da.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/good-corporate-governance/policies-documents-and-key-publications/",
+     "file": "media_b206f4a32f47.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/good-corporate-governance/policies-documents-and-key-publications/",
+     "file": "media_3e1feb6aa20c.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "media",
+   "key": "media::a|div1.img1|img,aN,iN",
+   "instances": 5,
+   "pagesFound": 2,
+   "repFile": "media_51596afd2ce3.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/royal-orchid-plus/royal-orchid-plus-newsletter/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/offers-Promotions/",
+     "file": "media_5b3a3859ae7b.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/offers-Promotions/",
+     "file": "media_afe8c658ba1f.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/offers-Promotions/",
+     "file": "media_21ab3f8bb07e.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/offers-Promotions/",
+     "file": "media_1dd49e68707d.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/royal-orchid-plus/royal-orchid-plus-newsletter/",
+     "file": "media_51596afd2ce3.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "media",
+   "key": "media::div|div1|img,hd,aN,iN",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "media_851c8d0ce83c.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/earn-miles/credit-card-partners/jcb/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/credit-card-partners/jcb/",
+     "file": "media_851c8d0ce83c.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/star-alliance-airlines/austrian-airlines-group-os/",
+     "file": "media_bf68f4e89187.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/star-alliance-airlines/ita-airways-az/",
+     "file": "media_a1b5739dbcf5.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "media",
+   "key": "media::div|div1|img,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "media_426957cfbbc0.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/boarding-pass/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/boarding-pass/",
+     "file": "media_426957cfbbc0.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/tg-ourhistory/",
+     "file": "media_bd7a13632e37.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "media",
+   "key": "media::div|img1|img,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "media_15e006fc00db.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/government/airport-information/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/airport-information/",
+     "file": "media_15e006fc00db.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/royal-orchid-plus/royal-orchid-plus-news/DestinAsian-RCA-2025/",
+     "file": "media_e7aae5661c76.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "media",
+   "key": "media::p|img1|img,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "media_506aa538623f.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/about-royal-orchid-plus/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/about-royal-orchid-plus/",
+     "file": "media_506aa538623f.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "media",
+   "key": "media::div|button1|img,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "media_686aa244d42f.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/government/offers-Promotions/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/offers-Promotions/",
+     "file": "media_686aa244d42f.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "media",
+   "key": "media::div|div1.script1|img,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "media_ba4307b0cbf3.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/news-and-announcements/operational-performance-q3-2024/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/operational-performance-q3-2024/",
+     "file": "media_ba4307b0cbf3.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "media",
+   "key": "media::div|div1.link1.script1|img,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "media_2029374fe638.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/earn-miles/credit-card-partners/jcb/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/credit-card-partners/jcb/",
+     "file": "media_2029374fe638.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "media",
+   "key": "media::p|strong1|img,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "media_d8cdd3c468a3.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/rise-to-gold/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/rise-to-gold/",
+     "file": "media_d8cdd3c468a3.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "table",
+   "key": "table::div|link1.section1|tbl,aN,iN",
+   "instances": 15,
+   "pagesFound": 15,
+   "repFile": "table_42e45f845643.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/kbank-installments-and-cashback-sep-dec2026/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/krungsri-synergy-may-aug-2026/",
+     "file": "table_f115e6cb2fd7.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/kbank-installments-and-cashback-may-aug2026/",
+     "file": "table_a8d5c223b7e8.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/ttbbank-jun-sep-2026/",
+     "file": "table_c10691d1b2e6.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/ttbbank-feb-apr-2025/",
+     "file": "table_17eac8f861e5.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/krungsri-airline-synergy-jan-apr-20251/",
+     "file": "table_129d892b6859.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/ttbbank-jun-sep-2025/",
+     "file": "table_52b75ffdf82d.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "table",
+   "key": "table::div|div1.link1.script1|tbl,aN,iN",
+   "instances": 10,
+   "pagesFound": 10,
+   "repFile": "table_f262ce40fee8.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/historical-changed-of-privacy-notice/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/historical-changed-of-privacy-notice/",
+     "file": "table_f262ce40fee8.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/about-royal-orchid-plus/mileage-purchase/",
+     "file": "table_37f6da70aa12.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/star-alliance-airlines/austrian-airlines-group-os/",
+     "file": "table_aa5fadd9993c.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/star-alliance-airlines/ita-airways-az/",
+     "file": "table_c6f697d678e1.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/contact/",
+     "file": "table_9372963d0226.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/help/contact/",
+     "file": "table_b216625ac0bb.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "table",
+   "key": "table::div|section1|tbl,lst,aN,iN",
+   "instances": 4,
+   "pagesFound": 4,
+   "repFile": "table_a88bf2050589.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/krungsri-synergy-sep-oct-2025/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/krungsri-synergy-may-aug-2026/",
+     "file": "table_87c79afcd096.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/krungsri-synergy-sep-oct-2025/",
+     "file": "table_a88bf2050589.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/krungsri-synergy-jan-apr-2026/",
+     "file": "table_f402da4371c4.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/krungsri-synergy-sep-dec-2026/",
+     "file": "table_2aa81e5bdae5.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "table",
+   "key": "table::div|ol1.p6.table1.ul4|tbl,lst,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "table_63f6480c02d8.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/news-and-announcements/service-fee-travel-agents/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/service-fee-travel-agents/",
+     "file": "table_63f6480c02d8.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "table",
+   "key": "table::div|p3.table1|tbl,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "table_72cff91730ee.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/news-and-announcements/global-call-center/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/global-call-center/",
+     "file": "table_72cff91730ee.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "table",
+   "key": "table::div|div4|tbl,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "table_c3ed73fbb007.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/government/ticket-issuance-refunds/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/ticket-issuance-refunds/",
+     "file": "table_c3ed73fbb007.jpg"
+    }
+   ],
+   "topLabel": "การคืนบัตรโดยสารราชการ"
+  },
+  {
+   "base": "table",
+   "key": "table::div|div1|tbl,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "table_2b9b4417749c.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/RKTF2026-UOB/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/RKTF2026-UOB/",
+     "file": "table_2b9b4417749c.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "table",
+   "key": "table::div|div1.link1.script1|tbl,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "table_bcaf086a300b.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/RKTF2026-KBANK/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/RKTF2026-KBANK/",
+     "file": "table_bcaf086a300b.jpg"
+    }
+   ],
+   "topLabel": "รายการใช้จ่ายเต็มจำนวน"
+  },
+  {
+   "base": "table",
+   "key": "table::div|div1|tbl,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "table_049159c0c271.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/RKTF2026-KBANK/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/RKTF2026-KBANK/",
+     "file": "table_049159c0c271.jpg"
+    }
+   ],
+   "topLabel": "รายการใช้จ่ายแบ่งชำระ"
+  },
+  {
+   "base": "table",
+   "key": "table::div|div1.link1.script1|tbl,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "table_551f92d978c3.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/msig2/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/msig2/",
+     "file": "table_551f92d978c3.jpg"
+    }
+   ],
+   "topLabel": "สิทธิพิเศษเฉพาะงาน \"รักคุณเท่าฟ้า ประจำปี 2569\""
+  },
+  {
+   "base": "table",
+   "key": "table::div|section1|tbl,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "table_e1303b478801.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/krungsri-airline-synergy-jan-apr-20251/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/krungsri-airline-synergy-jan-apr-20251/",
+     "file": "table_e1303b478801.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "tabs",
+   "key": "tabs::div|ol1|lst,aN,iN",
+   "instances": 5,
+   "pagesFound": 5,
+   "repFile": "tabs_1b3c2e82a9be.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/travel-class/royal-silk/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/in-flight-experience/experience-economy-premium-economy/",
+     "file": "tabs_accb077fe34d.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/in-flight-experience/in-flight-entertainment/all/",
+     "file": "tabs_c7bbaac64971.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/travel-class/royal-silk/",
+     "file": "tabs_1b3c2e82a9be.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/travel-class/premium-economy/",
+     "file": "tabs_8bd9b838f25e.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/travel-class/economy/",
+     "file": "tabs_01ca35535ccc.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "tabs",
+   "key": "tabs::div|div1|img,aN,iN",
+   "instances": 4,
+   "pagesFound": 4,
+   "repFile": "tabs_f8eb158f3279.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/in-flight-experience/experience-economy-premium-economy/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/in-flight-experience/experience-economy-premium-economy/",
+     "file": "tabs_f8eb158f3279.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/travel-class/royal-silk/",
+     "file": "tabs_7f5de513fd18.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/travel-class/premium-economy/",
+     "file": "tabs_12387f99b569.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/travel-class/economy/",
+     "file": "tabs_e25673f45530.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "tabs",
+   "key": "tabs::div|div2|lst,aN,iN",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "tabs_4a062aa1f285.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/government/offers-Promotions/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/news-and-announcements/",
+     "file": "tabs_4a87f8c4edde.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/offers-Promotions/",
+     "file": "tabs_4a062aa1f285.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/",
+     "file": "tabs_96a9b80fc2d9.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "tabs",
+   "key": "tabs::div|div1|img,lst,frm,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "tabs_600aac06788d.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/airport-information/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/airport-information/",
+     "file": "tabs_600aac06788d.jpg"
+    }
+   ],
+   "topLabel": "AIRPORT INFORMATION"
+  },
+  {
+   "base": "tabs",
+   "key": "tabs::div|div6|img,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "tabs_dd4acdcd61bc.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/government/airport-information/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/airport-information/",
+     "file": "tabs_dd4acdcd61bc.jpg"
+    }
+   ],
+   "topLabel": "CONTACT INFORMATION"
+  },
+  {
+   "base": "tabs",
+   "key": "tabs::div|div1|img,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "tabs_077473758eac.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/in-flight-experience/in-flight-entertainment/all/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/in-flight-experience/in-flight-entertainment/all/",
+     "file": "tabs_077473758eac.jpg"
+    }
+   ],
+   "topLabel": "No results found"
+  },
+  {
+   "base": "tabs",
+   "key": "tabs::div|div1.script1|img,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "tabs_d9bac72bba19.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/travel-class/royal-first/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/travel-class/royal-first/",
+     "file": "tabs_d9bac72bba19.jpg"
+    }
+   ],
+   "topLabel": "Royal First Seating"
+  },
+  {
+   "base": "tabs",
+   "key": "tabs::div|div1.script1|img,tbl,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "tabs_edbf66f8f86d.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/more-services/online-excess-baggage/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/more-services/online-excess-baggage/",
+     "file": "tabs_edbf66f8f86d.jpg"
+    }
+   ],
+   "topLabel": "บริการน้ำหนักสัมภาระเพิ่มเติม คืออะไร?"
+  },
+  {
+   "base": "tabs",
+   "key": "tabs::div|div1|lst,frm,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "tabs_334522df396e.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/mid-year-sales-2025/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/mid-year-sales-2025/",
+     "file": "tabs_334522df396e.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "tabs",
+   "key": "tabs::div|div1.link1.script1|lst,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "tabs_95ffa3ce85ce.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/special-assistance/travel-with-pets/pets-as-checked-baggage-avih/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/special-assistance/travel-with-pets/pets-as-checked-baggage-avih/",
+     "file": "tabs_95ffa3ce85ce.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "tabs",
+   "key": "tabs::div|div1|lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "tabs_3f332958f2d8.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/special-assistance/travel-with-pets/pets-as-checked-baggage-avih/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/special-assistance/travel-with-pets/pets-as-checked-baggage-avih/",
+     "file": "tabs_3f332958f2d8.jpg"
+    }
+   ],
+   "topLabel": "บริการการนำสัตว์เลี้ยงขึ้นเครื่อง แบบ CHECK BAGGAGE (AVIH)"
+  },
+  {
+   "base": "text",
+   "key": "text::p||aN,iN",
+   "instances": 352,
+   "pagesFound": 159,
+   "repFile": "text_8fa78d9b7814.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/about-royal-orchid-plus/mileage-accumulation-rules/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/about-royal-orchid-plus/",
+     "file": "text_a16c91be003d.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/about-royal-orchid-plus/",
+     "file": "text_8f969eba1d2e.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/about-royal-orchid-plus/royal-orchid-plus-program-conditions/",
+     "file": "text_f9671c657618.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/about-royal-orchid-plus/royal-orchid-plus-program-conditions/",
+     "file": "text_75d36b3f55b9.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/about-royal-orchid-plus/royal-orchid-plus-program-conditions/",
+     "file": "text_67d6b89d77d7.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/about-royal-orchid-plus/royal-orchid-plus-program-conditions/",
+     "file": "text_3f0df7ffee1c.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::ul|liN|aN,iN",
+   "instances": 51,
+   "pagesFound": 33,
+   "repFile": "text_805917d5bddd.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/RKTF2025-AEON/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/more-services/standby-upgrade/",
+     "file": "text_cb2fc578c23d.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/name-filling-instructions-onlinebookingonly/",
+     "file": "text_4a1b844e4eac.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/name-filling-instructions-onlinebookingonly/",
+     "file": "text_d2b8777bf8e3.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/introduce-new-premium-economy-class/",
+     "file": "text_47dd062cec75.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/fly-direct-to-amsterdam/",
+     "file": "text_ff609faeeee4.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/fly-direct-to-amsterdam/",
+     "file": "text_8b7b54b3dde0.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::ul|liN|lst,aN,iN",
+   "instances": 46,
+   "pagesFound": 24,
+   "repFile": "text_1213390f5dc2.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/board-of-directors/mrs-chananyarak-phetcharat/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/more-services/standby-upgrade/",
+     "file": "text_3a5366d0f8f9.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/privacy_policy_17DEC19/",
+     "file": "text_868a9a6cc18f.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/privacy_policy_17DEC19/",
+     "file": "text_1513df54f688.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/privacy_policy_17DEC19/",
+     "file": "text_fa8c48957c09.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/privacy_policy_17DEC19/",
+     "file": "text_9ffaf06b9a5c.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/privacy_policy_17DEC19/",
+     "file": "text_cf38e0d889a7.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::p|br1|aN,iN",
+   "instances": 43,
+   "pagesFound": 21,
+   "repFile": "text_c9dbe6aa76a8.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/privacy_policy_25OCT24/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/conditions-of-contract/",
+     "file": "text_e9934d0bdfc7.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/save-with-mastercard-ikea1/",
+     "file": "text_ab5655de1a96.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/privacy_policy_25OCT24/",
+     "file": "text_c9dbe6aa76a8.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/privacy_policy_25OCT24/",
+     "file": "text_d88892abdbe6.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/privacy_policy_25OCT24/",
+     "file": "text_e55dfa9443dd.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/privacy_policy_25OCT24/",
+     "file": "text_9249bbf7adee.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::p|strong1|aN,iN",
+   "instances": 41,
+   "pagesFound": 21,
+   "repFile": "text_063ddad97be4.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/privacy_policy_26DEC24/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/star-alliance-airlines/asiana-airlines-oz/",
+     "file": "text_11445d9a3367.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/introduce-new-premium-economy-class/",
+     "file": "text_95a111a84e36.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/uob-special-deal/",
+     "file": "text_9c3e47bcb426.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/uob-special-deal1/",
+     "file": "text_d1a2cd1707cf.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/passenger-rights/",
+     "file": "text_926756a9bc66.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/passenger-rights/",
+     "file": "text_d03fbf6d70f0.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::h2||aN,iN",
+   "instances": 36,
+   "pagesFound": 36,
+   "repFile": "text_7817296ed356.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/news-and-announcements/jim-thompson-x-thai-airways-launch-2026-in-flight-collection/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-airways-resumes-trading-on-the-stock-exchange-on-4-august/",
+     "file": "text_75a2050d43c3.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/ticket-handling-procedures-for-flight-to-or-from-thailand/",
+     "file": "text_3838f0975b3a.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-announces-baggage-policy-for-economy-class/",
+     "file": "text_b3d883b643dc.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-announces-prohibition-of-power-bank-use-onboard/",
+     "file": "text_d3af5e197118.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/tdm-awards-2024/",
+     "file": "text_d740881fb205.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/no-thais-lounge-service-at-the-new-terminal-sat/",
+     "file": "text_bc91260f3646.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|div1.link1.script1|hd,aN,iN",
+   "instances": 31,
+   "pagesFound": 31,
+   "repFile": "text_80d7fb75c958.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/royal-orchid-plus/Celebrate-20th-ani-THAI-AMEX-20K-Bonus-Miles/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/baggage/delayed-baggage/",
+     "file": "text_da62dc22875b.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/in-flight-experience/",
+     "file": "text_a663a5af3f08.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/more-services/airport-services/",
+     "file": "text_c3edcc2fb6d2.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/more-services/hotels/",
+     "file": "text_92e3612184ac.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/more-services/transportation/",
+     "file": "text_9107c2b3d412.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/more-services/other-services/",
+     "file": "text_f0e3bae6eb82.jpg"
+    }
+   ],
+   "topLabel": "โปรโมชั่นร่วมกับบัตรเครดิตในกลุ่มกรุงศรี คอนซูมเมอร์"
+  },
+  {
+   "base": "text",
+   "key": "text::a|div1.img1|img,aN,iN",
+   "instances": 30,
+   "pagesFound": 4,
+   "repFile": "text_02bed8d50ca7.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/news-and-announcements/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/news-and-announcements/",
+     "file": "text_12bc3b4308c6.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/news-and-announcements/",
+     "file": "text_dbf478648d45.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/news-and-announcements/",
+     "file": "text_f584fb72c0a2.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/news-and-announcements/",
+     "file": "text_1c99f439b6e6.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/news-and-announcements/",
+     "file": "text_8c5e2d557feb.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/news-and-announcements/",
+     "file": "text_21a73c477ac5.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|div1|aN,iN",
+   "instances": 29,
+   "pagesFound": 25,
+   "repFile": "text_679cd30226f5.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/company-profile/timeline-and-history/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/boarding-pass/",
+     "file": "text_276103b25c44.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/company-profile/timeline-and-history/",
+     "file": "text_679cd30226f5.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/about-royal-orchid-plus/mileage-purchase/",
+     "file": "text_936bb18d6fbf.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/junior-sky-explorer/",
+     "file": "text_1971ad98c876.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/RKTF2025-ROP/",
+     "file": "text_ddc325b8876c.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/save-with-mastercard-singapore/",
+     "file": "text_dd4a207faeeb.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::p|aN|aN,iN",
+   "instances": 24,
+   "pagesFound": 18,
+   "repFile": "text_1ae35fdbb78a.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/privacy_policy_17DEC19/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/about-royal-orchid-plus/royal-orchid-plus-program-conditions/",
+     "file": "text_bc155803c791.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/about-royal-orchid-plus/award-nominees/",
+     "file": "text_bec96f87a565.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/scb-apr-jun2025/",
+     "file": "text_c259d2726df7.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/ktc-fly-forever-2025/",
+     "file": "text_f1d2dcf64457.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/ttb-disney-and-tg-rop/",
+     "file": "text_fc976fe00df7.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/scb-jul-sep2025/",
+     "file": "text_804e542af1c4.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::p|br1.strong1|aN,iN",
+   "instances": 23,
+   "pagesFound": 12,
+   "repFile": "text_ad91c7fc0531.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/privacy_policy_25OCT24/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/RKTFFARE2025/",
+     "file": "text_92b61aa1b8ba.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/royal-orchid-plus/boarding-pass-campaign-theBicesterCollection/",
+     "file": "text_1769ccf4b9b1.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/privacy_policy_25OCT24/",
+     "file": "text_ad91c7fc0531.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/privacy_policy_25OCT24/",
+     "file": "text_7552c8d58699.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/privacy_policy_27MAY22/",
+     "file": "text_fbfcbcf12689.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/privacy_policy_27MAY22/",
+     "file": "text_b1fd922ff5e7.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|div1.link1.script1|aN,iN",
+   "instances": 21,
+   "pagesFound": 21,
+   "repFile": "text_48ebcd06301f.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/save-with-mastercard-singapore/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/about-royal-orchid-plus/mileage-purchase/",
+     "file": "text_d3519bcdc181.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/about-royal-orchid-plus/Gift-Miles/",
+     "file": "text_ce9076137d33.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/star-alliance-airlines/austrian-airlines-group-os/",
+     "file": "text_a1d73e69a0e6.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/star-alliance-airlines/ita-airways-az/",
+     "file": "text_678c7e2cefcc.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/help/",
+     "file": "text_f8976bd25b7a.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/save-with-mastercard-singapore/",
+     "file": "text_48ebcd06301f.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|div1|hd,aN,iN",
+   "instances": 15,
+   "pagesFound": 12,
+   "repFile": "text_f037f202af6c.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/fly-to-asia-europe-with-ktc-mc/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/airport-information/",
+     "file": "text_d96f3a4c08c4.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/in-flight-experience/use-of-electronic-device/",
+     "file": "text_22ff58cad0f5.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/credit-card-partners/jcb/",
+     "file": "text_23f768ade390.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/credit-card-partners/jcb/",
+     "file": "text_d50a51e2ae5c.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/junior-sky-explorer/",
+     "file": "text_04b523b90a05.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/RKTF2025-ROP/",
+     "file": "text_370015131aff.jpg"
+    }
+   ],
+   "topLabel": "ทำความรู้จักแก๊งเพื่อนซี้"
+  },
+  {
+   "base": "text",
+   "key": "text::h2|p1|aN,iN",
+   "instances": 14,
+   "pagesFound": 14,
+   "repFile": "text_96d1543ece80.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-vitallife-bumrungrad-healthy-destinations-inflight-wellness/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/global-call-center/",
+     "file": "text_8f236a237143.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-airways-unveils-airbus-A321neo/",
+     "file": "text_73ea5943e982.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-reports-operational-performance-results-for-the-year-ended/",
+     "file": "text_76ac11d43e68.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/annual-general-meeting-of-shareholders-2026/",
+     "file": "text_8d6dea19e1c0.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-reports-operating-results-for-the-first-quarter-of-2026/",
+     "file": "text_33a6cd7c902a.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-airways-celebrates-the-33rd-anniversary-of-royal-orchid-plus/",
+     "file": "text_1d018cb9a0c6.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|div1|lst,aN,iN",
+   "instances": 10,
+   "pagesFound": 10,
+   "repFile": "text_c8c26dddfb98.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/smooth-priceless-to-changsha-with-mastercard/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/credit-card-partners/aeon-royal-orchid-plus/",
+     "file": "text_0cf7baf99ca1.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/more-services/standby-upgrade/stand-by-upgrading-rate/",
+     "file": "text_368efb5b5bc7.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/disney-adventure-campaign/",
+     "file": "text_26703d65809b.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/smooth-priceless-to-amsterdam-with-mastercard/",
+     "file": "text_b4a923c929a4.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/smooth-priceless-to-changsha-with-mastercard/",
+     "file": "text_c8c26dddfb98.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/RKTF2026-KTC/",
+     "file": "text_f6b062f514c1.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::p|strong2|aN,iN",
+   "instances": 9,
+   "pagesFound": 8,
+   "repFile": "text_7d0fe5467075.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/privacy_policy_25OCT24/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/privacy_policy_25OCT24/",
+     "file": "text_7d0fe5467075.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/privacy-policy-25oct24/",
+     "file": "text_2062d1f3bea5.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/co-promotion-with-bangkok-bank-jun-aug26/",
+     "file": "text_fcf08a7baa66.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/scb-oct-dec2025/",
+     "file": "text_afd295aa78c3.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/scb-jan-mar-2026/",
+     "file": "text_9cd56a92a551.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/co-promotion-with-bangkok-bank/",
+     "file": "text_d24c3ed73ccc.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::ol|liN|aN,iN",
+   "instances": 6,
+   "pagesFound": 6,
+   "repFile": "text_361e997e5f3b.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/royal-orchid-plus/FC-BC-Bonus-Miles/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/more-services/standby-upgrade/premium-economy-to-business-class/",
+     "file": "text_5a5f4815b63c.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/more-services/standby-upgrade/business-to-first-class/",
+     "file": "text_56b1d797e1c8.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/more-services/standby-upgrade/economy-to-premium-economy-class/",
+     "file": "text_07bff0cf2c85.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/more-services/standby-upgrade/economy-to-business-class/",
+     "file": "text_89e3fd0cabdd.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/more-services/standby-upgrade/premium-economy-to-premium-economy-plus/",
+     "file": "text_0c92da1ea721.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/royal-orchid-plus/FC-BC-Bonus-Miles/",
+     "file": "text_361e997e5f3b.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::p|br2|aN,iN",
+   "instances": 5,
+   "pagesFound": 5,
+   "repFile": "text_56b629cca597.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/earn-miles/credit-card-partners/tmb-thanachart-ttb/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/about-royal-orchid-plus/award-conditions/",
+     "file": "text_300bfb5c26e4.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/credit-card-partners/tmb-thanachart-ttb/",
+     "file": "text_56b629cca597.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/save-with-mastercard-ikea1/",
+     "file": "text_bdea9727a06d.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/RKTFBOOKING2025/",
+     "file": "text_af55b70d36d0.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/save-with-mastercard-to-europe-and-australia/",
+     "file": "text_9d6f154ea751.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|p5|aN,iN",
+   "instances": 5,
+   "pagesFound": 5,
+   "repFile": "text_dc2fc618e2b3.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/news-and-announcements/operational-performance-year-end-2023/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-announces-baggage-policy-for-economy-class/",
+     "file": "text_7ffd05547a92.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/operational-performance-year-end-2023/",
+     "file": "text_dc2fc618e2b3.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/destin-awards/",
+     "file": "text_e3aae748acb7.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/ttg-award-2024/",
+     "file": "text_0bf5593b2446.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/annual-general-meeting-of-shareholders-2026/",
+     "file": "text_bdf42e8aef44.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|div1.h41|img,aN,iN",
+   "instances": 4,
+   "pagesFound": 1,
+   "repFile": "text_905548850e84.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/good-corporate-governance/policies-documents-and-key-publications/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/good-corporate-governance/policies-documents-and-key-publications/",
+     "file": "text_059e22360a40.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/good-corporate-governance/policies-documents-and-key-publications/",
+     "file": "text_905548850e84.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/good-corporate-governance/policies-documents-and-key-publications/",
+     "file": "text_a2d61da51e97.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/good-corporate-governance/policies-documents-and-key-publications/",
+     "file": "text_ff7d4e18e195.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|p2|aN,iN",
+   "instances": 4,
+   "pagesFound": 4,
+   "repFile": "text_3ab6da6f8766.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/news-and-announcements/skytrax-awards-2024/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-announces-prohibition-of-power-bank-use-onboard/",
+     "file": "text_cb96d6b1017a.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/tdm-awards-2024/",
+     "file": "text_45f63392b7fc.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/skytrax-awards-2024/",
+     "file": "text_3ab6da6f8766.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/special-assistance/traveling-with-a-wheelchair/",
+     "file": "text_9ba915f84379.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div||aN,iN",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "text_131359894b1b.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/domestic-ceiling-fares/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/check-in-counter-closing-time/",
+     "file": "text_995944d994fb.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/domestic-ceiling-fares/",
+     "file": "text_131359894b1b.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/royal-orchid-plus-terms-and-conditions/",
+     "file": "text_8e8b07debabb.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::tr|td2|lst,aN,iN",
+   "instances": 3,
+   "pagesFound": 1,
+   "repFile": "text_3c41c3d26094.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/good-corporate-governance/complaints-and-whistleblowing/contact-the-disciplinary-oversight-and-investigation-department/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/good-corporate-governance/complaints-and-whistleblowing/contact-the-disciplinary-oversight-and-investigation-department/",
+     "file": "text_2df3d9925cef.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/good-corporate-governance/complaints-and-whistleblowing/contact-the-disciplinary-oversight-and-investigation-department/",
+     "file": "text_3c41c3d26094.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/good-corporate-governance/complaints-and-whistleblowing/contact-the-disciplinary-oversight-and-investigation-department/",
+     "file": "text_334e76726bd5.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|p1|aN,iN",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "text_c20406ebf295.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/sustainable-development/esg-initiative/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/more-services/pre-select-meals/",
+     "file": "text_51546d752392.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/prohibition-power-bank-onboard/",
+     "file": "text_9ca5c4f84644.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/sustainable-development/esg-initiative/",
+     "file": "text_c20406ebf295.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|p13|aN,iN",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "text_27a3f09df837.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/news-and-announcements/operational-performance-year-end-2024/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/ticket-handling-procedures-for-flight-to-or-from-thailand/",
+     "file": "text_2917486b863b.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/operational-performance-year-end-2024/",
+     "file": "text_27a3f09df837.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-reports-continued-strong-and-sustained-growth-in-q2-2025/",
+     "file": "text_a2a93d6094ed.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|p9|aN,iN",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "text_6ef2ac2e889d.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/news-and-announcements/operational-performance-q1-2024/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/operational-performance-q1-2024/",
+     "file": "text_6ef2ac2e889d.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-and-jim-thompson-introduce-exquisite-amenity-kits-for-royal-silk-class-a-match-as-smooth-as-silk/",
+     "file": "text_325eff128f22.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-and-turkish-airlines-signed-joint-business-agreement/",
+     "file": "text_08517f690497.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|p7|aN,iN",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "text_675eb584c135.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-reports-operational-performance-results-for-the-year-ended/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/baggage-allowance-01apr2025/",
+     "file": "text_d87406c7a39f.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-reports-operational-performance-results-for-the-year-ended/",
+     "file": "text_675eb584c135.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-receives-ttg-travel-hall-of-fame-2026/",
+     "file": "text_64021f520424.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::table|tbody1.thead1|aN,iN",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "text_ef37cc79e68b.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/royal-orchid-plus/Complimentary-In-flight-Wi-Fi/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/royal-orchid-plus/AVIS-TG66Anni-airport-transfer/",
+     "file": "text_75029cd5c587.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/royal-orchid-plus/Complimentary-In-flight-Wi-Fi/",
+     "file": "text_ef37cc79e68b.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/royal-orchid-plus/Fly-THAI-Plus-Deals-Plus-Miles/",
+     "file": "text_dc075219799a.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::p|aN.strong1|aN,iN",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "text_9ddf59c1d4ae.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/privacy_policy_26DEC24/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/privacy_policy_26DEC24/",
+     "file": "text_9ddf59c1d4ae.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/privacy-policy-26dec24/",
+     "file": "text_ef739521876d.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/royal-orchid-plus/AVIS-TG66Aniversay/",
+     "file": "text_b66e81bb62eb.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|div1.img1|img,aN,iN",
+   "instances": 3,
+   "pagesFound": 1,
+   "repFile": "text_f10824ea852d.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/special-assistance/advice-for-elderly-passenger/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/special-assistance/advice-for-elderly-passenger/",
+     "file": "text_f10824ea852d.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/special-assistance/advice-for-elderly-passenger/",
+     "file": "text_e9e4321faf16.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/special-assistance/advice-for-elderly-passenger/",
+     "file": "text_49dbedccb7ce.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|p1.ul1|lst,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "text_6a19c71d11e9.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/baggage/dangerous-goods/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/baggage/dangerous-goods/",
+     "file": "text_6a19c71d11e9.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/in-flight-experience/use-of-electronic-device/",
+     "file": "text_7805a684d160.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|p6|aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "text_af9a7e200cde.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/news-and-announcements/operational-performance-q2-2024/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/new-dest-osl-mil/",
+     "file": "text_059d6884cc2b.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/operational-performance-q2-2024/",
+     "file": "text_af9a7e200cde.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|p3|aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "text_32ec76137b82.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/news-and-announcements/travel-and-leisure-2024/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/travel-and-leisure-2024/",
+     "file": "text_32ec76137b82.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/share-holder-meeting-20250418/",
+     "file": "text_e094b9ff5c41.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|p17|aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "text_347e56a26ee6.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-reports-continued-strong-operational-performance-results-fo/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-reports-continued-strong-operational-performance-results-fo/",
+     "file": "text_347e56a26ee6.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/puff-n-pie-carbon-neutral-coffee/",
+     "file": "text_e918bdbe1885.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|p11|aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "text_55d04a464487.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-to-resume-trading-on-the-stock-exchange-of-thailand-on-august-4/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/rehabilitation-of-thai-airways/",
+     "file": "text_29cc345623b7.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-to-resume-trading-on-the-stock-exchange-of-thailand-on-august-4/",
+     "file": "text_55d04a464487.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|div3.p2|aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "text_bb959191a246.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-reports-third-quarter-2025-operating-results/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-won-hall-of-fame-best-south-east-asian-airline/",
+     "file": "text_29fcd7ef2f79.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-reports-third-quarter-2025-operating-results/",
+     "file": "text_bb959191a246.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|div4.p3|aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "text_389d870e7a09.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-reports-operating-results-for-the-first-quarter-of-2026/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-wins-two-honors-at-tdm-travel-trade-excellence-awards-2025-thailand/",
+     "file": "text_58909698421e.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-reports-operating-results-for-the-first-quarter-of-2026/",
+     "file": "text_389d870e7a09.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|div1.h41|aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "text_ec75df0a11a7.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/spend-miles/donation/good-miles-for-a-good-cause/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/",
+     "file": "text_6dad3d8bd80d.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/spend-miles/donation/good-miles-for-a-good-cause/",
+     "file": "text_ec75df0a11a7.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|div1|lst,hd,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "text_03846d66de48.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/about-royal-orchid-plus/Gift-Miles/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/about-royal-orchid-plus/Gift-Miles/",
+     "file": "text_03846d66de48.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/RKTF2026-KTC/",
+     "file": "text_2b3098f17900.jpg"
+    }
+   ],
+   "topLabel": "ข้อกำหนดและเงื่อนไขของไมล์ของขวัญ"
+  },
+  {
+   "base": "text",
+   "key": "text::div|div1|img,aN,iN",
+   "instances": 2,
+   "pagesFound": 1,
+   "repFile": "text_3a2612881f56.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/mid-year-sales-2025/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/mid-year-sales-2025/",
+     "file": "text_682f81e67a98.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/mid-year-sales-2025/",
+     "file": "text_3a2612881f56.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::h4|br1|aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "text_ed18dcc14af0.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/fly-to-asia-australia-and-europe-with-the-1-credit-card/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/fly-to-china-japan-korea-and-europe-with-the-1-credit-card/",
+     "file": "text_ff25567ad625.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/fly-to-asia-australia-and-europe-with-the-1-credit-card/",
+     "file": "text_ed18dcc14af0.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|div1.link1.script1|lst,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "text_dd28961e4ee8.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/msig2/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/msig2/",
+     "file": "text_dd28961e4ee8.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/tg-privileges-2025/",
+     "file": "text_2376d7bf3de9.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::h4|br2|aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "text_19f4610c2159.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/fly-to-taiwan-with-ktc/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/fly-to-taiwan-with-ktc/",
+     "file": "text_19f4610c2159.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/fly-to-singapore-with-ktc/",
+     "file": "text_def6302d2164.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::p|u1|aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "text_e89b4425dee8.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/royal-orchid-plus/AVIS-TG66Aniversay/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/royal-orchid-plus/GDH-Orchestra-Movie-Concert/",
+     "file": "text_d3519f833c7b.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/royal-orchid-plus/AVIS-TG66Aniversay/",
+     "file": "text_e89b4425dee8.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|h11|hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_97256753ff98.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/boarding-pass/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/boarding-pass/",
+     "file": "text_97256753ff98.jpg"
+    }
+   ],
+   "topLabel": "Boarding Pass"
+  },
+  {
+   "base": "text",
+   "key": "text::div|div1.h11.p3|hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_b335c6dbf4d2.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/boarding-pass/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/boarding-pass/",
+     "file": "text_b335c6dbf4d2.jpg"
+    }
+   ],
+   "topLabel": "#{NAME}"
+  },
+  {
+   "base": "text",
+   "key": "text::div|div3|img,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_648e994efdbc.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/boarding-pass/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/boarding-pass/",
+     "file": "text_648e994efdbc.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::table|tbody1|lst,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_5d99e248a944.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/good-corporate-governance/roles-and-responsibilities-of-the-company-secretary/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/good-corporate-governance/roles-and-responsibilities-of-the-company-secretary/",
+     "file": "text_5d99e248a944.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|div1|lst,frm,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_5ccf69bc990d.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/government/airport-information/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/airport-information/",
+     "file": "text_5ccf69bc990d.jpg"
+    }
+   ],
+   "topLabel": "Select Location"
+  },
+  {
+   "base": "text",
+   "key": "text::div|div1.link1|hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_c4cd73346778.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/historical-changed-of-privacy-notice/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/historical-changed-of-privacy-notice/",
+     "file": "text_c4cd73346778.jpg"
+    }
+   ],
+   "topLabel": "ประวัติการเปลี่ยนแปลง PRIVACY NOTICE (ข้อมูลเมื่อวันที่ 18 ม"
+  },
+  {
+   "base": "text",
+   "key": "text::div|p4.ul1|lst,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_52c93618b679.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-airways-resumes-trading-on-the-stock-exchange-on-4-august/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-airways-resumes-trading-on-the-stock-exchange-on-4-august/",
+     "file": "text_52c93618b679.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|p8|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_cd9f0945c949.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/news-and-announcements/tg-boeing-joint/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/tg-boeing-joint/",
+     "file": "text_cd9f0945c949.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|p16|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_bfcadb982b2a.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/news-and-announcements/new-bc-a320-event/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/new-bc-a320-event/",
+     "file": "text_bfcadb982b2a.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|p28|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_b53ae8df052a.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/news-and-announcements/extraordinary-general-meeting-shareholder-Apr2025/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/extraordinary-general-meeting-shareholder-Apr2025/",
+     "file": "text_b53ae8df052a.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|p32|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_31b21c88e23a.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-unveils-the-new-worlds-of-tomorrow/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-unveils-the-new-worlds-of-tomorrow/",
+     "file": "text_31b21c88e23a.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|div2.p1|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_7b383291e56e.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-won-business-product-of-the-year-2025/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-won-business-product-of-the-year-2025/",
+     "file": "text_7b383291e56e.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|div5.p6.ul2|lst,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_1bd8223fc5a3.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/news-and-announcements/jim-thompson-x-thai-airways-launch-2026-in-flight-collection/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/jim-thompson-x-thai-airways-launch-2026-in-flight-collection/",
+     "file": "text_1bd8223fc5a3.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::h2|div1|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_f6cb2944ece8.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-welcomes-its-first-airbus-a321neo/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-welcomes-its-first-airbus-a321neo/",
+     "file": "text_f6cb2944ece8.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|div6.p5|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_301036e0573e.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-welcomes-its-first-airbus-a321neo/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-welcomes-its-first-airbus-a321neo/",
+     "file": "text_301036e0573e.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|p9.ul1|lst,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_5eb187f10c4c.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-airways-unveils-airbus-A321neo/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-airways-unveils-airbus-A321neo/",
+     "file": "text_5eb187f10c4c.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|div8.p7|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_4a2f47e9d9be.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-airways-celebrates-the-33rd-anniversary-of-royal-orchid-plus/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-airways-celebrates-the-33rd-anniversary-of-royal-orchid-plus/",
+     "file": "text_4a2f47e9d9be.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|p10.ul1|lst,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_1bab7f50e665.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-launches-direct-flights-to-amsterdam/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-launches-direct-flights-to-amsterdam/",
+     "file": "text_1bab7f50e665.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|p22.ul1|lst,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_4b092d2e6a0a.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-airways-unveils-rop-the-new-chapter-begins/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-airways-unveils-rop-the-new-chapter-begins/",
+     "file": "text_4b092d2e6a0a.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|p15|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_90856459d6ac.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-reports-operational-performance-results-q2-2026/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-reports-operational-performance-results-q2-2026/",
+     "file": "text_90856459d6ac.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|p13|img,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_e57730d8a426.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-vitallife-bumrungrad-healthy-destinations-inflight-wellness/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-vitallife-bumrungrad-healthy-destinations-inflight-wellness/",
+     "file": "text_e57730d8a426.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|p10|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_e1fcb0fe6930.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-wins-2-demark-2026-awards-waste-to-wealth/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-wins-2-demark-2026-awards-waste-to-wealth/",
+     "file": "text_e1fcb0fe6930.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|p21|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_7e05480f10b4.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-hosts-thai-talk/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-hosts-thai-talk/",
+     "file": "text_7e05480f10b4.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::p|span1|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_d053abfffd9e.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/introduce-new-royal-silk-class/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/introduce-new-royal-silk-class/",
+     "file": "text_d053abfffd9e.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::table|tbody1|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_2d0a46cefd6f.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/royal-orchid-plus/award-ams-50pct-back/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/royal-orchid-plus/award-ams-50pct-back/",
+     "file": "text_2d0a46cefd6f.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::p|span1.strong1|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_88a6c6cce3d8.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/privacy-notice/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/privacy-notice/",
+     "file": "text_88a6c6cce3d8.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|div2|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_b19be9baab8b.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/royal-orchid-plus/royal-orchid-plus-news/DestinAsian-RCA-2025/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/royal-orchid-plus/royal-orchid-plus-news/DestinAsian-RCA-2025/",
+     "file": "text_b19be9baab8b.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::h3||aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_0b8052e58dd5.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/spend-miles/air-awards/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/spend-miles/air-awards/",
+     "file": "text_0b8052e58dd5.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::ul|liN2|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_f59674c65bdb.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/board-of-directors/mr-vachara-tuntariyanond/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/board-of-directors/mr-vachara-tuntariyanond/",
+     "file": "text_f59674c65bdb.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|div1.link1|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_f13b2e9ac993.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/government/contact/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/contact/",
+     "file": "text_f13b2e9ac993.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|div1.link1.script1|lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_c90c3206595d.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/thaiairwaysxsentosa/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/thaiairwaysxsentosa/",
+     "file": "text_c90c3206595d.jpg"
+    }
+   ],
+   "topLabel": "สิทธิพิเศษบัตรเข้าชมสถานที่ท่องเที่ยวเซนโตซา"
+  },
+  {
+   "base": "text",
+   "key": "text::p|iN|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_47f405a9e37b.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/royal-orchid-plus/GDH-Orchestra-Movie-Concert/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/royal-orchid-plus/GDH-Orchestra-Movie-Concert/",
+     "file": "text_47f405a9e37b.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::ul|liN|aN,iN",
+   "instances": 82,
+   "pagesFound": 44,
+   "repFile": "unknown_b2af21ebbe9d.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/RKTF2025-AMEX/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/about-royal-orchid-plus/award-nominees/",
+     "file": "unknown_5baa63c00714.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/credit-card-partners/aeon/",
+     "file": "unknown_066fd7440b5b.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/credit-card-partners/ktc/",
+     "file": "unknown_b6fadb48f5f0.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/credit-card-partners/ktc/",
+     "file": "unknown_d7980cfd0764.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/credit-card-partners/non-co-brand-aeon/",
+     "file": "unknown_69de12ee99e7.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/more-services/standby-upgrade/",
+     "file": "unknown_a9f4c79a4a94.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::p|br1.strong2|aN,iN",
+   "instances": 25,
+   "pagesFound": 13,
+   "repFile": "unknown_1f713176eb95.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/privacy_policy_27MAY22/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/privacy_policy_25OCT24/",
+     "file": "unknown_2803ebd19dc5.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/privacy_policy_25OCT24/",
+     "file": "unknown_e6eec7e7a261.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/privacy_policy_25OCT24/",
+     "file": "unknown_ad4895410dda.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/privacy_policy_25OCT24/",
+     "file": "unknown_5012cccad543.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/privacy_policy_27MAY22/",
+     "file": "unknown_20a4436b42dc.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/privacy_policy_27MAY22/",
+     "file": "unknown_8c0b2f922f2f.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::ol|liN|aN,iN",
+   "instances": 16,
+   "pagesFound": 10,
+   "repFile": "unknown_489ee506b3fe.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/special-assistance/travel-with-pets/pets-in-cabin/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/credit-card-partners/thai-american-express-platinum-credit-card/",
+     "file": "unknown_7e228370e102.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/credit-card-partners/ktc-royal-orchid-plus/",
+     "file": "unknown_08d0bb5922f4.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/passenger-rights/",
+     "file": "unknown_15760969127a.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/passenger-rights/",
+     "file": "unknown_7916e32c30ea.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/passenger-rights/",
+     "file": "unknown_054a30ef0498.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/special-assistance/travel-with-pets/pets-in-cabin/",
+     "file": "unknown_489ee506b3fe.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|img1.span1|img,aN,iN",
+   "instances": 14,
+   "pagesFound": 14,
+   "repFile": "unknown_bc53bc338144.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/good-corporate-governance/communication-to-enhance-good-corporate-governance-compliance/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/good-corporate-governance/communication-to-enhance-good-corporate-governance-compliance/",
+     "file": "unknown_bc53bc338144.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/faqs/",
+     "file": "unknown_a5f39b5420ed.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/ground-services/",
+     "file": "unknown_dfe54bf90d80.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/ground-services/",
+     "file": "unknown_e6ea8054e03f.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/help/thai-worldwide-offices/",
+     "file": "unknown_bb6a01f3539a.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/thai-announces-prohibition-of-power-bank-use-onboard2/",
+     "file": "unknown_2ebea3c97a6b.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div1.link1.script1|hd,aN,iN",
+   "instances": 14,
+   "pagesFound": 14,
+   "repFile": "unknown_3065ca11fb1b.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/good-corporate-governance/communication-to-enhance-good-corporate-governance-compliance/complaints-and-whistleblowing-on-fraud-and-non-compliance/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/credit-card-partners/aeon-royal-orchid-plus/",
+     "file": "unknown_6847f79c8225.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/credit-card-partners/sumitomo-mitsui/",
+     "file": "unknown_eac89809d751.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/credit-card-partners/uob-royal-orchid-plus-credit-card/",
+     "file": "unknown_d025daf52e63.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/good-corporate-governance/communication-to-enhance-good-corporate-governance-compliance/good-corporate-governance-section/",
+     "file": "unknown_e712b39ff67d.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/good-corporate-governance/communication-to-enhance-good-corporate-governance-compliance/complaints-and-whistleblowing-on-fraud-and-non-compliance/",
+     "file": "unknown_3065ca11fb1b.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/ticket-issuance-refunds/",
+     "file": "unknown_e2aaafaa2375.jpg"
+    }
+   ],
+   "topLabel": "เปิดประตูสู่การผจญภัยครั้งใหม่… พบกับทีม “JUNIOR SKY EXPLORE"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div1.link1|hd,aN,iN",
+   "instances": 13,
+   "pagesFound": 13,
+   "repFile": "unknown_7e064262322e.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/procurement-supplier/tg-pride-doc-guide-access/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/baggage/",
+     "file": "unknown_a6758e98aa1c.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/good-corporate-governance/communication-to-enhance-good-corporate-governance-compliance/personal-data-protection-section/",
+     "file": "unknown_fa6840760ebc.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/good-corporate-governance/communication-to-enhance-good-corporate-governance-compliance/good-corporate-governance-section/",
+     "file": "unknown_baa99efc7b45.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/good-corporate-governance/communication-to-enhance-good-corporate-governance-compliance/complaints-and-whistleblowing-on-fraud-and-non-compliance/",
+     "file": "unknown_24a4addd5ceb.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/help/",
+     "file": "unknown_2a18a7394c88.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/help/contact/",
+     "file": "unknown_a863b524b1eb.jpg"
+    }
+   ],
+   "topLabel": "สัมภาระ"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::a|div1.img1|img,aN,iN",
+   "instances": 6,
+   "pagesFound": 1,
+   "repFile": "unknown_80be32315b10.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/government/offers-Promotions/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/offers-Promotions/",
+     "file": "unknown_f73ef23662c5.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/offers-Promotions/",
+     "file": "unknown_f48aa0b090ff.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/offers-Promotions/",
+     "file": "unknown_1bd7aa5926a4.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/offers-Promotions/",
+     "file": "unknown_80be32315b10.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/offers-Promotions/",
+     "file": "unknown_96793080c66c.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/offers-Promotions/",
+     "file": "unknown_76fd142897e6.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div1|img,hd,aN,iN",
+   "instances": 6,
+   "pagesFound": 6,
+   "repFile": "unknown_28afa1cfd3c0.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/earn-miles/credit-card-partners/aeon-royal-orchid-plus/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/credit-card-partners/aeon-royal-orchid-plus/",
+     "file": "unknown_28afa1cfd3c0.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/credit-card-partners/sumitomo-mitsui/",
+     "file": "unknown_e4e5c29ffd42.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/credit-card-partners/uob-royal-orchid-plus-credit-card/",
+     "file": "unknown_4494697d5b93.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/fly-to-korea-with-ktc/",
+     "file": "unknown_43b7efe63039.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/fly-to-asia-and-europe-with-ktc-mc/",
+     "file": "unknown_a7976ee5de32.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/fly-to-hong-kong-with-ktc/",
+     "file": "unknown_7db2e111b3bd.jpg"
+    }
+   ],
+   "topLabel": "บัตรเครดิตร่วม รอยัล ออร์คิด พลัส กับธนาคารคู่สัญญา"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::p|aN.br1.strong2|aN,iN",
+   "instances": 5,
+   "pagesFound": 5,
+   "repFile": "unknown_c32b5fe541f3.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/privacy_policy_25OCT24/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/privacy_policy_25OCT24/",
+     "file": "unknown_c32b5fe541f3.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/privacy_policy_27MAY22/",
+     "file": "unknown_8f1fddeac952.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/privacy-policy-25oct24/",
+     "file": "unknown_37400a23a4cb.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/privacy-policy-27may22/",
+     "file": "unknown_92bc85d1882d.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/RKTF2026-ROH/",
+     "file": "unknown_0e77359feb36.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::ol|liN|lst,aN,iN",
+   "instances": 5,
+   "pagesFound": 5,
+   "repFile": "unknown_16a00d205d5e.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/more-services/standby-upgrade/business-to-first-class/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/more-services/standby-upgrade/premium-economy-to-business-class/",
+     "file": "unknown_e8dc2d147587.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/more-services/standby-upgrade/business-to-first-class/",
+     "file": "unknown_16a00d205d5e.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/more-services/standby-upgrade/economy-to-premium-economy-class/",
+     "file": "unknown_d22edb0544c3.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/more-services/standby-upgrade/economy-to-business-class/",
+     "file": "unknown_e03a5f707380.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/more-services/standby-upgrade/premium-economy-to-premium-economy-plus/",
+     "file": "unknown_246738c5546f.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::p|strong3|aN,iN",
+   "instances": 4,
+   "pagesFound": 3,
+   "repFile": "unknown_e26eafcc1c37.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/mandai/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/special-one-way-fares-to-europe/",
+     "file": "unknown_0af0616f25ba.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/mandai/",
+     "file": "unknown_e26eafcc1c37.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/co-promotion-with-bangkok-bank-sep-nov26/",
+     "file": "unknown_cebdca471a25.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/co-promotion-with-bangkok-bank-sep-nov26/",
+     "file": "unknown_a76542a4103f.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::a|div2|img,aN,iN",
+   "instances": 3,
+   "pagesFound": 1,
+   "repFile": "unknown_e06cc77866d2.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/board-of-directors/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/board-of-directors/",
+     "file": "unknown_026b6a915b24.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/board-of-directors/",
+     "file": "unknown_d6052d674e9b.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/board-of-directors/",
+     "file": "unknown_e06cc77866d2.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::p|br2.strong1|aN,iN",
+   "instances": 3,
+   "pagesFound": 2,
+   "repFile": "unknown_a830b835c3bd.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/royal-orchid-plus/boarding-pass-campaign-theBicesterCollection/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/credit-card-partners/hsbc-star-alliance-credit-card/",
+     "file": "unknown_8e9d3b0afe1a.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/credit-card-partners/hsbc-star-alliance-credit-card/",
+     "file": "unknown_df48421cc2ff.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/royal-orchid-plus/boarding-pass-campaign-theBicesterCollection/",
+     "file": "unknown_a830b835c3bd.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::p|br6|aN,iN",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "unknown_42e479ac605f.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/save-with-mastercard-ikea/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/credit-card-partners/bangkok-bank-credit-card/",
+     "file": "unknown_d65c9c227796.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/save-with-mastercard-ikea/",
+     "file": "unknown_42e479ac605f.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/save-with-mastercard-to-europe-and-australia/",
+     "file": "unknown_77e574ae52d1.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div1.h41.span1|aN,iN",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "unknown_7e726daec5b9.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/royal-orchid-plus/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/",
+     "file": "unknown_e0d6700cfe3a.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/uob-installments-and-cashback-jan-mar2026/",
+     "file": "unknown_f094019e3cac.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/royal-orchid-plus/",
+     "file": "unknown_7e726daec5b9.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::ol|liN3|aN,iN",
+   "instances": 3,
+   "pagesFound": 2,
+   "repFile": "unknown_4c476050a05e.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/royal-orchid-plus-terms-and-conditions/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/royal-orchid-plus-terms-and-conditions/",
+     "file": "unknown_4c476050a05e.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/tgxsamsung/",
+     "file": "unknown_06a24d36b27f.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/tgxsamsung/",
+     "file": "unknown_ac7f4eac361d.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::p|br1.strong1|aN,iN",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "unknown_a1d42b5fb6c7.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/rise-to-gold/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/rise-to-gold/",
+     "file": "unknown_a1d42b5fb6c7.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/royal-orchid-plus/Fly-Europe-Earn-Extra-Miles/",
+     "file": "unknown_cc5d1847396f.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/royal-orchid-plus/royal-orchid-plus-news/Platinum-and-Gold-Status-Extension/",
+     "file": "unknown_642b13f11265.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::ol|liN1|aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "unknown_297a7f536401.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/about-royal-orchid-plus/royal-orchid-plus-program-conditions/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/about-royal-orchid-plus/royal-orchid-plus-program-conditions/",
+     "file": "unknown_297a7f536401.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/RKTF2026-AMEX/",
+     "file": "unknown_7668db220778.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|aN|img,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "unknown_e453f02e27dc.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/news-and-announcements/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/news-and-announcements/",
+     "file": "unknown_c4daf8461eab.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/",
+     "file": "unknown_e453f02e27dc.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|ul1|lst,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "unknown_c72f8026881e.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/news-and-announcements/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/news-and-announcements/",
+     "file": "unknown_40a5db7e69d6.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/news-and-announcements/",
+     "file": "unknown_c72f8026881e.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::p|br5|aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "unknown_9f105b610e76.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/save-with-mastercard-ikea/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/save-with-mastercard-ikea/",
+     "file": "unknown_9f105b610e76.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/save-with-mastercard-premium-economy-class-to-india/",
+     "file": "unknown_41197597eaee.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::p|br8|aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "unknown_4a1a67fe1544.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/save-with-mastercard-premium-economy-class-to-india/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/save-with-mastercard-premium-economy-class/",
+     "file": "unknown_d3795a66a757.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/save-with-mastercard-premium-economy-class-to-india/",
+     "file": "unknown_4a1a67fe1544.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::p|br3|aN,iN",
+   "instances": 2,
+   "pagesFound": 1,
+   "repFile": "unknown_593b07271855.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/save-with-mastercard-ikea1/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/save-with-mastercard-ikea1/",
+     "file": "unknown_e520198b95a0.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/save-with-mastercard-ikea1/",
+     "file": "unknown_593b07271855.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::p|br4|aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "unknown_59f210bc16fc.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/msig/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/sixt/",
+     "file": "unknown_cb35884f34c6.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/msig/",
+     "file": "unknown_59f210bc16fc.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::p|br3.strong1|aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "unknown_fd9a4aea69e3.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/passenger-rights/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/royal-orchid-plus/boarding-pass-campaign-theBicesterCollection/",
+     "file": "unknown_5405ac5571a2.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/passenger-rights/",
+     "file": "unknown_fd9a4aea69e3.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::ul|liN0|aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "unknown_0615c0592f1e.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/privacy_policy_2DEC20/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/privacy_policy_2DEC20/",
+     "file": "unknown_0615c0592f1e.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/privacy-policy-2dec20/",
+     "file": "unknown_2812b56a6b8d.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::p|br1.strong3|aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "unknown_81dbd5af3fd4.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/baggage/checked-baggage/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/baggage/checked-baggage/",
+     "file": "unknown_81dbd5af3fd4.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/fly-smooth-as-silk/",
+     "file": "unknown_d848b5d5245b.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::ul|liN6|aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "unknown_7902dd3cfa30.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/RKTF2025-KBANK/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/board-of-directors/mr-chansin-treenuchagron/",
+     "file": "unknown_c1beedea3459.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/RKTF2025-KBANK/",
+     "file": "unknown_7902dd3cfa30.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::ol|liN0|aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "unknown_ac9494bc7f67.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/more-services/standby-upgrade/economy-to-business-class/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/more-services/standby-upgrade/economy-to-business-class/",
+     "file": "unknown_ac9494bc7f67.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/hertz/",
+     "file": "unknown_2b03f24fabe5.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::p|br2.strong3|aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "unknown_94c90cf931ed.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/explore-comfort-in-a320-royal-silk-class-to-northeast-thailand/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/explore-comfort-in-a320-royal-silk-class-to-northeast-thailand/",
+     "file": "unknown_94c90cf931ed.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/smooth-as-silk-to-china/",
+     "file": "unknown_8cb59cae81c7.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::p|aN.br1.strong1|aN,iN",
+   "instances": 2,
+   "pagesFound": 1,
+   "repFile": "unknown_7fe4502edfa9.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/RKTF2026-ROH/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/RKTF2026-ROH/",
+     "file": "unknown_7fe4502edfa9.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/RKTF2026-ROH/",
+     "file": "unknown_26ae3cf13c5f.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::p|br12|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_c5abd4f1e18b.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/about-royal-orchid-plus/award-conditions/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/about-royal-orchid-plus/award-conditions/",
+     "file": "unknown_c5abd4f1e18b.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div1.link1.script1|img,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_ec9844f79daa.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/baggage/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/baggage/",
+     "file": "unknown_ec9844f79daa.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div1|img,lst,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_9b6094747990.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/check-in/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/check-in/",
+     "file": "unknown_9b6094747990.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div1|img,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_788e38654573.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/company-profile/thais-journey/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/company-profile/thais-journey/",
+     "file": "unknown_788e38654573.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::p|aN.br6|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_cdf39949ec4a.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/earn-miles/credit-card-partners/diners-club-international/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/earn-miles/credit-card-partners/diners-club-international/",
+     "file": "unknown_cdf39949ec4a.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::p|aN.br16|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_45b79077fbff.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/good-corporate-governance/complaints-and-whistleblowing/whistleblowing-and-complaint-channels/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/good-corporate-governance/complaints-and-whistleblowing/whistleblowing-and-complaint-channels/",
+     "file": "unknown_45b79077fbff.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::tr|td2|lst,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_a3f160ef854a.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/good-corporate-governance/complaints-and-whistleblowing/contact-the-disciplinary-oversight-and-investigation-department/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/good-corporate-governance/complaints-and-whistleblowing/contact-the-disciplinary-oversight-and-investigation-department/",
+     "file": "unknown_a3f160ef854a.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div1.h21|hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_3f71852c31d6.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/government/baggage/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/government/baggage/",
+     "file": "unknown_3f71852c31d6.jpg"
+    }
+   ],
+   "topLabel": "สัมภาระ"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::p|b2.br2|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_e75295b63628.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/in-flight-experience/in-flight-cuisine/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/in-flight-experience/in-flight-cuisine/",
+     "file": "unknown_e75295b63628.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::p|br10|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_e855368bd546.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/save-with-mastercard-ikea/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/save-with-mastercard-ikea/",
+     "file": "unknown_e855368bd546.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::p|br19|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_e34d9d9974a8.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/save-with-mastercard-premium-economy-class/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/save-with-mastercard-premium-economy-class/",
+     "file": "unknown_e34d9d9974a8.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::p|br7|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_8aac22dae3e1.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/save-with-mastercard-ikea1/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/save-with-mastercard-ikea1/",
+     "file": "unknown_8aac22dae3e1.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::p|br3.strong2|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_b7eeda8242f3.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/krungsri-airline-synergy-may-aug-2025/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/krungsri-airline-synergy-may-aug-2025/",
+     "file": "unknown_b7eeda8242f3.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::p|aN.br4|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_4cfcee6f4bce.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/sixt/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/sixt/",
+     "file": "unknown_4cfcee6f4bce.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::p|aN.br8|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_ea53b90acf96.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/msig/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/msig/",
+     "file": "unknown_ea53b90acf96.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::p|aN.br2.strong1|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_2d8161ec67ae.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/royal-orchid-plus/boarding-pass-campaign-theBicesterCollection/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/royal-orchid-plus/boarding-pass-campaign-theBicesterCollection/",
+     "file": "unknown_2d8161ec67ae.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::p|aN.br7.u1|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_82f9d6e79bb6.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/royal-orchid-plus/AVIS-TG66Anni-airport-transfer/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/royal-orchid-plus/AVIS-TG66Anni-airport-transfer/",
+     "file": "unknown_82f9d6e79bb6.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::p|br13|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_d53387750221.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/terms-and-conditions/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/terms-and-conditions/",
+     "file": "unknown_d53387750221.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::ul|liN3|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_5565e80c470d.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/board-of-directors/dr-kulaya-tantitemit/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/board-of-directors/dr-kulaya-tantitemit/",
+     "file": "unknown_5565e80c470d.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::p|aN|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_53ae4c691d90.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/rise-to-gold/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/rise-to-gold/",
+     "file": "unknown_53ae4c691d90.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::ul|liN2|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_c1bdc16453e6.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/mandai/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/mandai/",
+     "file": "unknown_c1bdc16453e6.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div1.link1.metaN.script11.style1|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_7b5be8483238.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/krungsri-airline-synergy-jan-apr-20251/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/krungsri-airline-synergy-jan-apr-20251/",
+     "file": "unknown_7b5be8483238.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::h2|br1.strong1|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_3fe8429c9677.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/RKTF2025-KBANK/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/RKTF2025-KBANK/",
+     "file": "unknown_3fe8429c9677.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::p|aN.br3.strong1|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_fab20a375859.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/RKTF2025-ROH/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/RKTF2025-ROH/",
+     "file": "unknown_fab20a375859.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::p|aN.strong2|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_66172da173c6.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/scb-oct-dec2025/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/partnerPrivileges/scb-oct-dec2025/",
+     "file": "unknown_66172da173c6.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::ol|liN1|lst,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_ce7fe1722e9a.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/royal-orchid-plus/Centara-ROPx2/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/royal-orchid-plus/Centara-ROPx2/",
+     "file": "unknown_ce7fe1722e9a.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::p|strong4|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_054e1a448e60.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/royal-orchid-plus/FC-BC-Bonus-Miles/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/royal-orchid-plus/FC-BC-Bonus-Miles/",
+     "file": "unknown_054e1a448e60.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::p|aN.br3|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_aa500ffb2913.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/offers-Promotions/royal-orchid-plus/GDH-Orchestra-Movie-Concert/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/royal-orchid-plus/GDH-Orchestra-Movie-Concert/",
+     "file": "unknown_aa500ffb2913.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "video",
+   "key": "video::div|div1.link1.script1|img,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "video_b1308d79bf7c.jpg",
+   "repUrl": "https://www.thaiairways.com/th-th/content/junior-sky-explorer/",
+   "samples": [
+    {
+     "url": "https://www.thaiairways.com/th-th/content/junior-sky-explorer/",
+     "file": "video_b1308d79bf7c.jpg"
+    },
+    {
+     "url": "https://www.thaiairways.com/th-th/content/offers-Promotions/special-offers/junior-sky-explorer/",
+     "file": "video_418a549c67b9.jpg"
+    }
+   ],
+   "topLabel": ""
+  }
+ ]
+}
