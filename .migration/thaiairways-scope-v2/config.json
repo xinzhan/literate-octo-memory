@@ -5,7 +5,7 @@
   "scope": "Supplied sitemap (tg-sitemap.xml) — th-th locale, 559 URLs",
   "eyebrow": "Thai Airways · Site Analysis",
   "heroTitle": "Structural analysis of thaiairways.com (th-th)",
-  "heroSub": "Scope: the 543 /th-th/content/ pages from the supplied sitemap, rendered one at a time with a settle wait for the client-rendered AEM app. Live-site issues found: broken Special Offers redirect, search page never loads, 3 app pages under maintenance, expired offers redirecting to the homepage.",
+  "heroSub": "Scope: the 543 /th-th/content/ pages from the supplied sitemap, rendered one at a time with a settle wait for the client-rendered AEM app. Live-site issues found: broken Special Offers redirect, search page never loads, 3 app pages under maintenance, a soft 404 (sample-in-flight-cuisine), and 20 expired offers/stubs redirecting to the homepage.",
   "brandLine": "thaiairways.com<br>Migration Console",
   "accountName": "Thai Airways International",
   "locale": "th-th (single locale in sitemap)",
