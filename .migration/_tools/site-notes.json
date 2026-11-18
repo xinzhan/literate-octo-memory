@@ -1,0 +1,68 @@
+{
+  "_title": "NHB museum & heritage sites",
+  "acm": {
+    "locales": "en",
+    "findings": [
+      "No sitemap.xml (404) and robots.txt returns a Next.js error page instead of a robots file — search engines get no crawl guidance; discovery here relied on the crawl alone.",
+      "AddThis sharing script still loads on every page although the service was shut down in 2023 — dead third-party code to drop in the migration. ACM is also the only site with Quantcast and Twitter/X pixels, and embeds both VThere and Matterport 3D tours.",
+      "Event and lecture detail pages (whats-on/*) are the bulk of the site: rich-text bodies beside a lead image map to EDS default content + a Columns block; a few pages embed VThere 3D virtual tours and data tables.",
+      "Largest document library of the six (60 PDFs, e.g. social stories, gallery guides) served via the shared /api/media endpoint."
+    ]
+  },
+  "ihc": {
+    "locales": "en:115 · ta:36",
+    "findings": [
+      "Bilingual English / Tamil (/en, /ta — 36 Tamil pages); the sitemap omits the language prefix, so all 115 sitemap URLs redirect — and 79 pages (70 of them programme pages) were found only via the sitemap, not through links.",
+      "Programme pages (en/whats-on/programmes, 76 pages) dominate and share one detail layout — one import parser covers half the site.",
+      "Collection highlights are captured as individual card tiles; site search uses Google Programmable Search."
+    ]
+  },
+  "mhc": {
+    "locales": "en",
+    "findings": [
+      "Section landing URLs listed in the sitemap (/whats-on, /plan-your-visit, /resources) redirect to /%23 (an encoded '#') and return 404 — broken top-level navigation targets.",
+      "11 URLs return 404, including 6 archived programme pages still in the sitemap and an e-mail address published as a relative link (/plan-your-visit/NHB_MHC@nhb.gov.sg).",
+      "Header and footer sit inside the <main> element (treated as page chrome by the analysis); the smallest site of the six by page count — a quick win for a pilot."
+    ]
+  },
+  "nms": {
+    "locales": "en (+1 zh page)",
+    "findings": [
+      "A hidden UserWay accessibility overlay injects a zero-height '.content' element ahead of <main>; the analysis selects the visible main container instead.",
+      "What's On listings are filterable, paginated card grids with an 'Add to itinerary' feature (visitor itinerary planner) — custom functionality to rebuild as an EDS block plus a small client-side store.",
+      "Only site with a TikTok pixel and the UserWay overlay; no documents served from its own host (assets are referenced from cms.nhb.gov.sg).",
+      "A '/chinese-hidden-page' is listed in the sitemap — confirm whether it should be published or retired."
+    ]
+  },
+  "pm": {
+    "locales": "en",
+    "findings": [
+      "All 59 sitemap.xml entries point at cms.nhb.gov.sg (the CMS host), which returns 403 — the published sitemap is unusable for search engines; it also lists a /404 page.",
+      "Digital resources (learn/digital-resources, 25 pages) pair an embedded video/viewer with a 'Related resources' list — map to Embed/Video + Cards (list) blocks.",
+      "Gallery pages (galleries/*) and in-gallery content form a second, consistent layout family."
+    ]
+  },
+  "sysnmh": {
+    "locales": "en:302 · ch:18",
+    "findings": [
+      "Largest site (320 pages): 203 event pages and 76 exhibition pages under en/whats-on, going back to 2011 — a content-pruning / archive decision will materially reduce migration volume.",
+      "The sitemap omits the /en prefix, so all 304 entries redirect; the crawler found only 37 HTML pages by following links — 284 pages came only from the sitemap.",
+      "Event detail pages share an article + 'Information' sidebar layout (dates, venue, admission) — model as default content + an Event Info block.",
+      "Bilingual English / Chinese (/en, /ch) — only 18 Chinese pages, so the two locales are not in parity."
+    ]
+  },
+  "_recommendations": [
+    "Treat the six sites as one programme: all run the same stack (Next.js with incremental static regeneration on AWS CloudFront, a shared /api/media asset API and the cms.nhb.gov.sg headless CMS). Build one shared EDS block library and one set of import parsers, then theme per museum.",
+    "Start with a pilot on the Malay Heritage Centre (smallest, 78 live pages) or the Peranakan Museum (few custom blocks, 3% Unknown), then scale the same parsers to National Museum, IHC, ACM and SYSNMH.",
+    "Core shared blocks: Columns (text|image), Cards (grid + list variants, incl. filterable listings with pagination), Embed/Video, Table, Accordion, Breadcrumbs, Event Info (sidebar facts) and a Form block for FormSG/Campaign Monitor sign-ups.",
+    "Fix discovery before cut-over: publish correct sitemaps (IHC/SYSNMH missing /en, Peranakan pointing at the CMS host, MHC listing 404s and redirect-to-/%23 sections, ACM without sitemap or robots.txt). EDS can generate sitemaps from the query index.",
+    "Decide archive scope for past events/programmes (SYSNMH back to 2011, ACM lectures, IHC programmes) — migrate, archive as PDFs/static, or redirect.",
+    "Rationalise third-party tags during migration: keep WOGAA (mandatory for SG Government sites), GA4/GTM and required pixels; drop AddThis (discontinued) and review Quantcast, Dotomi, Twitter/X and TikTok pixels; load all via delayed.js to protect Core Web Vitals.",
+    "Plan locale structure for IHC (en/ta) and SYSNMH (en/ch) as EDS language folders, and decide whether the partial Chinese/Tamil content should reach parity.",
+    "Rebuild custom features as EDS blocks: NMS itinerary planner, filterable What's On listings, VThere 3D tour embeds, and site search (Google Programmable Search today)."
+  ],
+  "_caveats": [
+    "CMS-side access (cms.nhb.gov.sg) is restricted (HTTP 403), so the CMS product and content model could not be inspected — integration findings come from rendered pages and network traffic only.",
+    "Sites were analysed on 2026-11-06; event listings change frequently, so page counts for What's On sections will drift."
+  ]
+}
