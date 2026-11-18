@@ -52,27 +52,27 @@ You asked me to go slowly, so I'll run one step at a time and stop at these chec
 
 ## Checklist
 
-- [ ] Switch to Execute mode (you do this; it's needed before anything can run)
-- [ ] Initialize migration plan and progress tracking
-- [ ] Project setup: confirm project type (`da`) and block library
-- [ ] Classify the Fibre URL into a page template and name it
-- [ ] Run page analysis (screenshot, cleaned HTML, metadata, sections, blocks, variants)
-- [ ] Handle bot protection if the live page blocks access
-- [ ] Mark the interactive or dynamic parts that can't be migrated as working features
-- [ ] ⏸ Review the analysed sections and blocks with you
-- [ ] Get each block's status (reuse, extend or create) and write the block generation list
-- [ ] ⏸ Review the block generation list with you
-- [ ] Generate or extend the blocks the page needs
-- [ ] Validate the generated block files
-- [ ] Map block selectors into the page template list
-- [ ] Generate parsers and cleanup and section transformers
-- [ ] Check the image URLs for Dynamic Media and add that handling if needed
-- [ ] Generate the import script for the template
-- [ ] Import the Fibre page into the local workspace
-- [ ] Check the imported page renders correctly in the preview (structure, blocks, images, metadata)
-- [ ] ⏸ Review the imported page with you
-- [ ] Summarise the results and offer block refinement
-- [ ] Suggest "Start Design Migration" as the next step
+- [x] Switch to Execute mode (you do this; it's needed before anything can run)
+- [x] Initialize migration plan and progress tracking
+- [x] Project setup: confirm project type (`da`) and block library
+- [x] Classify the Fibre URL into a page template and name it
+- [x] Run page analysis (screenshot, cleaned HTML, metadata, sections, blocks, variants)
+- [x] Handle bot protection if the live page blocks access
+- [x] Mark the interactive or dynamic parts that can't be migrated as working features
+- [x] ⏸ Review the analysed sections and blocks with you
+- [x] Get each block's status (reuse, extend or create) and write the block generation list
+- [x] ⏸ Review the block generation list with you
+- [x] Generate or extend the blocks the page needs
+- [x] Validate the generated block files
+- [x] Map block selectors into the page template list
+- [x] Generate parsers and cleanup and section transformers
+- [x] Check the image URLs for Dynamic Media and add that handling if needed
+- [x] Generate the import script for the template
+- [x] Import the Fibre page into the local workspace
+- [x] Check the imported page renders correctly in the preview (structure, blocks, images, metadata)
+- [x] ⏸ Review the imported page with you
+- [x] Summarise the results and offer block refinement
+- [x] Suggest "Start Design Migration" as the next step
 
 ## Risks and notes
 
