@@ -1,0 +1,22 @@
+{
+  "variantName": "widget-countdown",
+  "baseBlock": "widget",
+  "canonicalModel": "configuration",
+  "visualCharacteristics": "Light grey band (#f5f5f8), centered. Bold lead-in line then three dark rounded tiles (hours / minutes / seconds) ticking down.",
+  "contentPattern": "Interactive time-based component that cannot be authored statically. Represented with the existing project 'widget' block whose single cell links to a countdown widget (e.g. /widgets/countdown.html?end=<ISO end datetime>); the digits are rendered by the widget, never authored as headings. The deal end time is not exposed in page data and must be supplied by the author.\n\nCountdown widget: three dark rounded digit tiles with hours/minutes/seconds labels.\n\nUser decision: the deal end date is not available on the source page; use a placeholder end date that authors can edit (e.g. a widget URL like /widgets/countdown.html?end=<ISO datetime>).",
+  "options": [],
+  "memberVariantIds": [
+    "widget-countdown"
+  ],
+  "usage": "Live hours/minutes/seconds countdown to an authored end date (e.g. deal ends in).",
+  "reuseGuidance": "Author the end date as plain text in ISO 8601 with a timezone, e.g. 2026-12-31T23:59:59+08:00 (placeholder; edit per campaign). Optional key/value rows: \"End | <datetime>\", \"Labels | hours, minutes, seconds\". Do NOT author a /widgets/... link: scripts.js auto-blocks /widgets/ links into the generic widget block. Put the lead-in text as default content above the block. Shows 00 tiles and adds class \"expired\" after the end date, \"no-end-date\" if none parses.",
+  "tableStructure": [
+    [
+      "Widget Countdown"
+    ],
+    [
+      "2026-12-31T23:59:59+08:00"
+    ]
+  ],
+  "sourceUrl": "https://www.singtel.com/personal/products-services/fibre"
+}

@@ -1,0 +1,135 @@
+.cards-plan {
+  position: relative;
+}
+
+.cards-plan > ul {
+  list-style: none;
+  margin: 0;
+  padding: 0 0 8px;
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: minmax(260px, 80%);
+  gap: 16px;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;
+}
+
+.cards-plan > ul::-webkit-scrollbar {
+  display: none;
+}
+
+.cards-plan > ul > li {
+  display: flex;
+  flex-direction: column;
+  scroll-snap-align: start;
+  min-width: 0;
+}
+
+.cards-plan .cards-plan-badge {
+  align-self: flex-start;
+  margin: 0;
+}
+
+.cards-plan .cards-plan-card-image {
+  line-height: 0;
+}
+
+.cards-plan .cards-plan-card-image img {
+  width: 100%;
+  height: auto;
+}
+
+.cards-plan .cards-plan-card-body,
+.cards-plan .cards-plan-card-list,
+.cards-plan .cards-plan-card-exclusive {
+  padding: 0 16px;
+}
+
+.cards-plan .cards-plan-promo {
+  align-self: flex-start;
+}
+
+.cards-plan .cards-plan-strike {
+  text-decoration: line-through;
+}
+
+.cards-plan .cards-plan-card-body .button-wrapper .button {
+  display: block;
+  text-align: center;
+}
+
+/* exclusives panel sits at the bottom of each card */
+.cards-plan .cards-plan-card-exclusive {
+  margin-top: auto;
+  padding-top: 8px;
+  padding-bottom: 16px;
+}
+
+.cards-plan .cards-plan-logos {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+}
+
+.cards-plan .cards-plan-logos img {
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+}
+
+.cards-plan .cards-plan-nav {
+  display: none;
+}
+
+.cards-plan.scrollable .cards-plan-nav {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.cards-plan .cards-plan-nav button {
+  width: 40px;
+  height: 40px;
+  margin: 0;
+  padding: 0;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.cards-plan .cards-plan-nav button::before {
+  content: '';
+  display: block;
+  width: 10px;
+  height: 10px;
+  margin: auto;
+  border-top: 2px solid currentcolor;
+  border-right: 2px solid currentcolor;
+}
+
+.cards-plan .cards-plan-nav .cards-plan-prev::before {
+  transform: translateX(2px) rotate(-135deg);
+}
+
+.cards-plan .cards-plan-nav .cards-plan-next::before {
+  transform: translateX(-2px) rotate(45deg);
+}
+
+.cards-plan .cards-plan-nav button:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+
+@media (width >= 600px) {
+  .cards-plan > ul {
+    grid-auto-columns: calc((100% - 16px) / 2);
+  }
+}
+
+@media (width >= 900px) {
+  .cards-plan > ul {
+    grid-auto-columns: calc((100% - 48px) / 3.3);
+  }
+}

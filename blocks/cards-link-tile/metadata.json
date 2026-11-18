@@ -1,0 +1,23 @@
+{
+  "variantName": "cards-link-tile",
+  "baseBlock": "cards",
+  "canonicalModel": "collection",
+  "visualCharacteristics": "Light grey band; centered heading; two white shadowed tiles with a small thumbnail left, title and small 'Learn more' link.",
+  "contentPattern": "Look-alike linked tiles pointing to detail pages: Cards.\n\n2-up white shadowed tiles, small thumbnail left, large title and small Learn more link.",
+  "options": [],
+  "memberVariantIds": [
+    "cards-link-tile"
+  ],
+  "usage": "Two-up tiles linking to detail pages, each with a small thumbnail, title and Learn more link.",
+  "reuseGuidance": "One row per tile. Cell 1: thumbnail image. Cell 2: title text and a Learn more link; the first link makes the whole tile clickable.",
+  "tableStructure": [
+    [
+      "Cards Link Tile"
+    ],
+    [
+      "thumbnail image",
+      "title, Learn more link"
+    ]
+  ],
+  "sourceUrl": "https://www.singtel.com/personal/products-services/fibre"
+}

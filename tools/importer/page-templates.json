@@ -1,0 +1,194 @@
+{
+  "templates": [
+    {
+      "name": "products-services",
+      "urls": [
+        "https://www.singtel.com/personal/products-services/fibre"
+      ],
+      "representativeUrl": "https://www.singtel.com/personal/products-services/fibre",
+      "description": "Singtel personal product/service landing pages (e.g. Fibre broadband): promo hero, deal countdown, plan and bundle card rows, feature grid, link tiles and FAQs.",
+      "blocks": [
+        {
+          "name": "hero-promo-banner",
+          "instances": [
+            "div.sc-94066a71-1",
+            "body > div:nth-of-type(4) > div.sc-ed0da946-0.kazAet > div > div.sc-44916527-20.hbORfv > div:nth-of-type(1) > div"
+          ]
+        },
+        {
+          "name": "widget-countdown",
+          "instances": [
+            "div.sc-d670ebe-0"
+          ]
+        },
+        {
+          "name": "cards-plan",
+          "instances": [
+            "div.sc-44916527-20.hbORfv > div:has(div.sc-44916527-72.kzkMhk) div.sc-44916527-68",
+            "body > div:nth-of-type(4) > div.sc-ed0da946-0.kazAet > div > div.sc-44916527-20.hbORfv > div:nth-of-type(3) div.sc-44916527-68"
+          ]
+        },
+        {
+          "name": "cards-bundle",
+          "instances": [
+            "div.sc-44916527-20.hbORfv > div:has(div.sc-44916527-72.bDXNer) div.sc-44916527-68",
+            "body > div:nth-of-type(4) > div.sc-ed0da946-0.kazAet > div > div.sc-44916527-20.hbORfv > div:nth-of-type(4) div.sc-44916527-68"
+          ]
+        },
+        {
+          "name": "cards-feature",
+          "instances": [
+            "body > div:nth-of-type(4) > div.sc-ed0da946-0.kazAet > div > div.sc-44916527-20.hbORfv > div:nth-of-type(9) div.sc-44916527-20.hbORfv"
+          ]
+        },
+        {
+          "name": "cards-link-tile",
+          "instances": [
+            "div.sc-44916527-8"
+          ]
+        },
+        {
+          "name": "accordion-faq",
+          "instances": [
+            "div.sc-9bb60893-0.edCgpH"
+          ]
+        }
+      ],
+      "urlPattern": "/personal/products-services/*",
+      "sections": [
+        {
+          "id": "rc2",
+          "name": "Hero banner",
+          "selector": [
+            "div.sc-44916527-20.hbORfv > div:has(div.sc-94066a71-1)",
+            "body > div:nth-of-type(4) > div.sc-ed0da946-0.kazAet > div > div.sc-44916527-20.hbORfv > div:nth-of-type(1)"
+          ],
+          "style": null,
+          "blocks": [
+            "hero-promo-banner"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "rc3",
+          "name": "Deal countdown",
+          "selector": [
+            "div.sc-44916527-20.hbORfv > div:has(div.sc-d670ebe-0)",
+            "body > div:nth-of-type(4) > div.sc-ed0da946-0.kazAet > div > div.sc-44916527-20.hbORfv > div:nth-of-type(2)"
+          ],
+          "style": "light-grey, centered",
+          "blocks": [
+            "widget-countdown"
+          ],
+          "defaultContent": [
+            "body > div:nth-of-type(4) > div.sc-ed0da946-0.kazAet > div > div.sc-44916527-20.hbORfv > div:nth-of-type(2) div.sc-44916527-10 p"
+          ]
+        },
+        {
+          "id": "rc4",
+          "name": "Fibre plan cards",
+          "selector": [
+            "div.sc-44916527-20.hbORfv > div:has(div.sc-44916527-72.kzkMhk)",
+            "body > div:nth-of-type(4) > div.sc-ed0da946-0.kazAet > div > div.sc-44916527-20.hbORfv > div:nth-of-type(3)"
+          ],
+          "style": "centered",
+          "blocks": [
+            "cards-plan"
+          ],
+          "defaultContent": [
+            "body > div:nth-of-type(4) > div.sc-ed0da946-0.kazAet > div > div.sc-44916527-20.hbORfv > div:nth-of-type(3) div.sc-31d9b5d6-1 h6",
+            "body > div:nth-of-type(4) > div.sc-ed0da946-0.kazAet > div > div.sc-44916527-20.hbORfv > div:nth-of-type(3) div.sc-9bb60893-0.eDDcdr > div > div.sc-ed0da946-0 div.sc-44916527-10 > p"
+          ]
+        },
+        {
+          "id": "rc5",
+          "name": "Broadband bundles",
+          "selector": [
+            "div.sc-44916527-20.hbORfv > div:has(div.sc-44916527-72.bDXNer)",
+            "body > div:nth-of-type(4) > div.sc-ed0da946-0.kazAet > div > div.sc-44916527-20.hbORfv > div:nth-of-type(4)"
+          ],
+          "style": "dark, centered",
+          "blocks": [
+            "cards-bundle"
+          ],
+          "defaultContent": [
+            "body > div:nth-of-type(4) > div.sc-ed0da946-0.kazAet > div > div.sc-44916527-20.hbORfv > div:nth-of-type(4) div.sc-31d9b5d6-1 h6"
+          ]
+        },
+        {
+          "id": "rc6",
+          "name": "Shop smarter with AI",
+          "selector": [
+            "body > div:nth-of-type(4) > div.sc-ed0da946-0.kazAet > div > div.sc-44916527-20.hbORfv > div:nth-of-type(5)"
+          ],
+          "style": "centered",
+          "blocks": [],
+          "defaultContent": [
+            "body > div:nth-of-type(4) > div.sc-ed0da946-0.kazAet > div > div.sc-44916527-20.hbORfv > div:nth-of-type(5) h3",
+            "body > div:nth-of-type(4) > div.sc-ed0da946-0.kazAet > div > div.sc-44916527-20.hbORfv > div:nth-of-type(5) h4",
+            "body > div:nth-of-type(4) > div.sc-ed0da946-0.kazAet > div > div.sc-44916527-20.hbORfv > div:nth-of-type(5) button"
+          ]
+        },
+        {
+          "id": "rc8",
+          "name": "Why Singtel Broadband heading",
+          "selector": [
+            "body > div:nth-of-type(4) > div.sc-ed0da946-0.kazAet > div > div.sc-44916527-20.hbORfv > div:nth-of-type(7)"
+          ],
+          "style": "centered",
+          "blocks": [],
+          "defaultContent": [
+            "body > div:nth-of-type(4) > div.sc-ed0da946-0.kazAet > div > div.sc-44916527-20.hbORfv > div:nth-of-type(7) h3"
+          ]
+        },
+        {
+          "id": "rc10",
+          "name": "Why Singtel Broadband features",
+          "selector": [
+            "body > div:nth-of-type(4) > div.sc-ed0da946-0.kazAet > div > div.sc-44916527-20.hbORfv > div:nth-of-type(9)"
+          ],
+          "style": null,
+          "blocks": [
+            "cards-feature"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "rc11",
+          "name": "Explore custom plans",
+          "selector": [
+            "div.sc-44916527-20.hbORfv > div:has(div.sc-44916527-8)",
+            "body > div:nth-of-type(4) > div.sc-ed0da946-0.kazAet > div > div.sc-44916527-20.hbORfv > div:nth-of-type(10)"
+          ],
+          "style": "light-grey, centered",
+          "blocks": [
+            "cards-link-tile"
+          ],
+          "defaultContent": [
+            "body > div:nth-of-type(4) > div.sc-ed0da946-0.kazAet > div > div.sc-44916527-20.hbORfv > div:nth-of-type(10) h3"
+          ]
+        },
+        {
+          "id": "rc12",
+          "name": "FAQs and help links",
+          "selector": [
+            "div.sc-44916527-20.hbORfv > div:has(div.sc-9bb60893-0.edCgpH)",
+            "body > div:nth-of-type(4) > div.sc-ed0da946-0.kazAet > div > div.sc-44916527-20.hbORfv > div:nth-of-type(11)"
+          ],
+          "style": null,
+          "blocks": [
+            "accordion-faq"
+          ],
+          "defaultContent": [
+            "div.sc-9bb60893-0.edCgpH > div:nth-child(2) h3",
+            "div.sc-9bb60893-0.edCgpH > div:nth-child(30)",
+            "div.sc-9bb60893-0.edCgpH > div:nth-child(32)"
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "projectType": "da"
+  }
+}

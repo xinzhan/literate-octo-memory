@@ -1,0 +1,23 @@
+{
+  "variantName": "accordion-faq",
+  "baseBlock": "accordion",
+  "canonicalModel": "collection",
+  "visualCharacteristics": "Narrow (~800px) column: centered 'FAQs' heading, 12-item accordion with chevrons and grey dividers, a small white 'Chat with us / Need help?' WhatsApp card, then three left-aligned blue underlined links.",
+  "contentPattern": "Interactive expand/collapse Q&A. All answers are in the server HTML and are imported statically into the accordion rows.\n\nNarrow FAQ list, bold questions, thin grey dividers, chevron toggle on the right.",
+  "options": [],
+  "memberVariantIds": [
+    "accordion-faq"
+  ],
+  "usage": "Narrow FAQ list of collapsible question/answer items with chevrons and dividers.",
+  "reuseGuidance": "One row per question. Cell 1: question. Cell 2: answer (any rich text). Uses native details/summary, so it works without JS styling and is keyboard accessible. Put the FAQs heading and follow-up links as default content around the block.",
+  "tableStructure": [
+    [
+      "Accordion Faq"
+    ],
+    [
+      "question",
+      "answer"
+    ]
+  ],
+  "sourceUrl": "https://www.singtel.com/personal/products-services/fibre"
+}
