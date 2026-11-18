@@ -1,0 +1,11 @@
+{
+  "type": "da",
+  "sites": {
+    "literate-octo-memory": {
+      "previewOrg": "xinzhan",
+      "previewSite": "literate-octo-memory",
+      "contentHostUrl": "https://content.da.live/xinzhan/literate-octo-memory/",
+      "libraryUrl": "https://main--sta-boilerplate--aemdemos.aem.page/tools/sidekick/library.json"
+    }
+  }
+}

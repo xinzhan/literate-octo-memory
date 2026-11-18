@@ -1,0 +1,23 @@
+{
+  "variantName": "cards-bundle",
+  "baseBlock": "cards",
+  "canonicalModel": "collection",
+  "visualCharacteristics": "Black band painted with a solid black-bg.png (not a photo), so the section is colored. Centered white H2, three white bundle cards (image, title with price, description, outlined Select button, recontract link).",
+  "contentPattern": "Repeating look-alike product cards linking to detail pages.\n\nStatic 3-up grid of simple product cards: wide image, title with price, short text, outlined Select CTA, text link.",
+  "options": [],
+  "memberVariantIds": [
+    "cards-bundle"
+  ],
+  "usage": "Static 1/2/3-column grid of bundle product cards.",
+  "reuseGuidance": "One row per bundle. Cell 1: image. Cell 2: title with price, short description, bold Select link (button), recontract text link. CTAs align to the card bottom.",
+  "tableStructure": [
+    [
+      "Cards Bundle"
+    ],
+    [
+      "image",
+      "title with price, description, **Select** link, recontract link"
+    ]
+  ],
+  "sourceUrl": "https://www.singtel.com/personal/products-services/fibre"
+}

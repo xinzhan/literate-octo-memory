@@ -1,0 +1,23 @@
+{
+  "variantName": "cards-feature",
+  "baseBlock": "cards",
+  "canonicalModel": "collection",
+  "visualCharacteristics": "2-column grid of 6 features; each has a large circular light-grey icon disc on the left and bold title + paragraph on the right.",
+  "contentPattern": "Repeating look-alike icon + text items that wrap in a grid: Cards.\n\n2-column grid, large circular icon disc left, bold title and paragraph right, no card chrome.",
+  "options": [],
+  "memberVariantIds": [
+    "cards-feature"
+  ],
+  "usage": "Two-column grid of feature items with a circular icon disc beside a bold title and paragraph.",
+  "reuseGuidance": "One row per feature. Cell 1: icon/illustration image (optional). Cell 2: bold title (heading or bold paragraph) and description. No card chrome.",
+  "tableStructure": [
+    [
+      "Cards Feature"
+    ],
+    [
+      "icon image",
+      "title, description"
+    ]
+  ],
+  "sourceUrl": "https://www.singtel.com/personal/products-services/fibre"
+}

@@ -1,0 +1,24 @@
+{
+  "variantName": "cards-plan",
+  "baseBlock": "cards",
+  "canonicalModel": "collection",
+  "visualCharacteristics": "White band. Centered H2 + intro with inline 'recontract plans' link. Horizontally scrolling row of 4 plan cards (about 3.3 visible) with prev/next arrow buttons; each card has a blue tab badge (CHRISTMAS SPECIAL / NEW HOME EXCLUSIVE), plan image, title, red promo pill, contract term, price, struck-through original price, outlined 'Select' button, 'Recontracting? View plans' link, 'Comes with' list and a pale-blue 'EXCLUSIVE for new sign ups' panel with add-on logo chips and '+2' overflow. Centered text link below.",
+  "contentPattern": "Repeating look-alike items, each linking to a detail page (plan-details?offerid=...) and campaign-dependent in count: a dynamic list, so Cards, not Carousel. Scroller/arrows are block JS behaviour; prices are server-rendered in the HTML and imported as static text.\n\nHorizontal scroller with arrows; tall plan cards with tab badge, promo pill, price/strike price, outlined CTA, feature lists and tinted exclusives panel with logo chips.",
+  "options": [],
+  "memberVariantIds": [
+    "cards-plan"
+  ],
+  "usage": "Horizontally scrolling row of plan cards with prev/next arrows (fibre/broadband plan pickers).",
+  "reuseGuidance": "One row per plan. Cell 1: plan image. Cell 2: optional badge paragraph (before the title), H3 title, optional promo paragraph fully bold/italic, contract line, price, struck-through price (strikethrough formatting), bold Select link, recontract link, then label paragraph + list groups (e.g. \"Comes with\"). Optional cell 3: exclusives panel (label, list, logo images, overflow text); without cell 3 the last list group containing images becomes the exclusives panel. Arrows show only when cards overflow.",
+  "tableStructure": [
+    [
+      "Cards Plan"
+    ],
+    [
+      "plan image",
+      "badge, H3 title, promo, contract, price, ~~old price~~, **Select**, recontract link, \"Comes with\" + list",
+      "(optional) \"EXCLUSIVE for new sign ups\" + list + logo images"
+    ]
+  ],
+  "sourceUrl": "https://www.singtel.com/personal/products-services/fibre"
+}
