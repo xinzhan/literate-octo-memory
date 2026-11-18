@@ -1,0 +1,20 @@
+03:04:10 start mhc
+03:09:51 end mhc exit=0
+03:09:51 start nms
+03:16:10 end nms exit=0
+03:16:10 start pm
+03:21:35 end pm exit=0
+03:21:35 start sysnmh
+03:41:49 end sysnmh exit=0
+03:41:55 start acm-rerun
+03:47:38 end acm-rerun exit=0
+ALL DONE
+03:47:59 start nms-recapture
+03:52:56 end nms-recapture exit=0
+03:53:01 start ihc-recapture
+03:57:36 end ihc-recapture exit=0
+03:57:36 start mhc-recapture
+03:59:21 end mhc-recapture exit=0
+03:59:23 start pm-recapture
+04:01:17 end pm-recapture exit=0
+RECAPTURE DONE
