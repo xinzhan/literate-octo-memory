@@ -1,0 +1,46 @@
+{
+  "variantName": "quote-portrait",
+  "baseBlock": "quote",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": "Quote mark, left text, portrait cut-out at right",
+  "contentPattern": "'quote' is not in the sta-boilerplate library; it follows the standard block-collection quote content model, extended with a portrait row. The highlighted part ('At first I was afraid ... overcame this') is strong (rendered red). Not a heading. No visible attribution.",
+  "options": [],
+  "memberVariantIds": [],
+  "blockContent": {
+    "baseBlock": "quote",
+    "source": "Standard AEM block-collection quote model (not in the sta-boilerplate library), plus a portrait row",
+    "columns": 1,
+    "rows": [
+      {
+        "row": 1,
+        "cells": [
+          "Quote (portrait)"
+        ]
+      },
+      {
+        "row": 2,
+        "cells": [
+          "Quotation paragraph(s); highlighted part in strong"
+        ]
+      },
+      {
+        "row": 3,
+        "cells": [
+          "Portrait image"
+        ]
+      },
+      {
+        "row": "4 (optional)",
+        "cells": [
+          "Attribution (none visible in source)"
+        ]
+      }
+    ]
+  },
+  "sectionMetadata": {
+    "style": "blue-grey"
+  },
+  "sourceUrl": "https://www.foundersmemorial.gov.sg/shapeourmemorial/en",
+  "usage": "Testimonial quote with a decorative quote mark, highlighted (bold) passage and a cut-out portrait on the right.",
+  "reuseGuidance": "Use for a single first-person quote with a portrait. Bold text renders in the accent colour."
+}

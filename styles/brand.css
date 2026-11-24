@@ -1,0 +1,97 @@
+/*
+ * Brand tokens extracted from https://www.foundersmemorial.gov.sg/shapeourmemorial/en
+ * Source: migration-work/brand.json + migration-work/source-global-states.json
+ */
+
+:root {
+  /* colors */
+  --background-color: #fff;
+  --light-color: #fbf5ef;
+  --dark-color: #333;
+  --text-color: #212529;
+  --body-text-color: #4a4a4a;
+  --heading-color: #2d2d2d;
+  --link-color: #186775;
+  --link-hover-color: #186775;
+
+  /* highlight colors (source [data-color] spans) */
+  --highlight-purple: #52096b;
+  --highlight-teal: #15677b;
+  --highlight-red: #99031d;
+  --highlight-blue: #1c7081;
+
+  /* section backgrounds */
+  --section-cream: #fbf5ef;
+  --section-blue-grey: #c5d0d4;
+  --section-light-grey: #d8d8d8;
+
+  /* buttons (source a.btn.btn--default) */
+  --button-background: #333;
+  --button-background-hover: #7e8085;
+  --button-text-color: #fff;
+  --button-radius: 10px;
+  --button-letter-spacing: 2.5px;
+  --button-padding: 15px 25px;
+  --button-transition: 0.3s ease-in;
+
+  /* fonts */
+  --body-font-family: lato, lato-fallback, sans-serif;
+  --heading-font-family: lato, lato-fallback, sans-serif;
+
+  /* body sizes (mobile) */
+  --body-font-size-m: 18px;
+  --body-font-size-s: 16px;
+  --body-font-size-xs: 12px;
+
+  /* heading sizes (mobile) */
+  --heading-font-size-xxl: 36px;
+  --heading-font-size-xl: 36px;
+  --heading-font-size-l: 24px;
+  --heading-font-size-m: 20px;
+  --heading-font-size-s: 18px;
+  --heading-font-size-xs: 16px;
+
+  /* section title / subtitle (mobile) */
+  --section-title-line-height: 41px;
+  --section-subtitle-font-size: 24px;
+  --section-subtitle-line-height: 32px;
+
+  /* spacing */
+  --section-padding: 65px;
+  --section-gutter: 25px;
+  --content-max-width: 1110px;
+
+  /* nav height: source masthead (34px) + header bar (70px) on mobile */
+  --nav-height: 104px;
+}
+
+/* desktop: source masthead (28px) + header bar (98px) */
+@media (width >= 1200px) {
+  :root {
+    --nav-height: 126px;
+  }
+}
+
+@media (width >= 768px) {
+  :root {
+    /* heading sizes (desktop) */
+    --heading-font-size-xxl: 55px;
+    --heading-font-size-xl: 52px;
+    --heading-font-size-l: 32px;
+    --heading-font-size-m: 25px;
+    --heading-font-size-s: 18px;
+    --heading-font-size-xs: 16px;
+
+    /* section title / subtitle (desktop) */
+    --section-title-line-height: 62px;
+    --section-subtitle-font-size: 32px;
+    --section-subtitle-line-height: 38.4px;
+
+    /* buttons */
+    --button-padding: 15px 65px;
+
+    /* spacing */
+    --section-padding: 100px;
+    --section-gutter: 15px;
+  }
+}

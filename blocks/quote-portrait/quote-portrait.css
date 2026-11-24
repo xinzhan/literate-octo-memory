@@ -1,0 +1,123 @@
+/*
+ * quote-portrait: source .quote.quote--with-image
+ * desktop: 1110px container, text column (670px) centred vertically, 440x570 portrait right
+ * mobile: full-bleed, portrait first (100% width), text below
+ */
+
+/* full-bleed band on mobile; source container has no gutter */
+main > .section > .quote-portrait-wrapper {
+  max-width: none;
+  padding: 0;
+}
+
+.quote-portrait {
+  --quote-portrait-text: var(--body-text-color);
+  --quote-portrait-accent: var(--highlight-red);
+  --quote-portrait-mark: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 25 19'%3E%3Cpath d='M5.5 19A5.5 5.5 0 0 1 0 13.5C0 7.2 3.6 2.4 10 0l1 1.8C7.6 3.4 6 5.6 5.7 8A5.5 5.5 0 0 1 5.5 19ZM19 19a5.5 5.5 0 0 1-5.5-5.5c0-6.3 3.6-11.1 10-13.5l1 1.8c-3.4 1.6-5 3.8-5.3 6.2A5.5 5.5 0 0 1 19 19Z'/%3E%3C/svg%3E");
+}
+
+.quote-portrait .quote-portrait-figure {
+  display: flex;
+  flex-direction: column-reverse;
+  margin: 0;
+}
+
+.quote-portrait .quote-portrait-content {
+  position: relative;
+  z-index: 1;
+  padding: 25px 50px;
+}
+
+/* quote mark: source icomoon glyph, 20px / 30px line, #99031d */
+.quote-portrait .quote-portrait-content::before {
+  content: '';
+  display: block;
+  width: 25px;
+  height: 30px;
+  background-color: var(--quote-portrait-accent);
+  mask: var(--quote-portrait-mark) left center / 25px 19px no-repeat;
+}
+
+.quote-portrait .quote-portrait-quotation {
+  margin: 5px 0 0;
+  padding: 0;
+  color: var(--quote-portrait-text);
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 33px;
+}
+
+.quote-portrait .quote-portrait-quotation p {
+  margin: 0;
+  color: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  line-height: inherit;
+}
+
+.quote-portrait .quote-portrait-quotation strong,
+.quote-portrait .quote-portrait-quotation b {
+  color: var(--quote-portrait-accent);
+  font-weight: 700;
+}
+
+.quote-portrait .quote-portrait-attribution {
+  margin-top: 5px;
+  color: var(--quote-portrait-text);
+  font-size: var(--body-font-size-s);
+  font-style: normal;
+}
+
+/* stylelint-disable-next-line no-descending-specificity */
+.quote-portrait .quote-portrait-attribution p {
+  margin: 0;
+}
+
+.quote-portrait .quote-portrait-image picture,
+.quote-portrait .quote-portrait-image img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+@media (width >= 900px) {
+  main > .section > .quote-portrait-wrapper {
+    max-width: var(--content-max-width);
+  }
+
+  .quote-portrait .quote-portrait-figure {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .quote-portrait .quote-portrait-content {
+    flex: 1 1 auto;
+    padding: 50px 0;
+  }
+
+  .quote-portrait .quote-portrait-content::before {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+  }
+
+  .quote-portrait .quote-portrait-quotation,
+  .quote-portrait .quote-portrait-attribution {
+    padding: 0 50px;
+  }
+
+  .quote-portrait .quote-portrait-image {
+    flex: 0 0 auto;
+  }
+
+  .quote-portrait .quote-portrait-image picture,
+  .quote-portrait .quote-portrait-image img {
+    width: 440px;
+    max-width: 100%;
+  }
+
+  .quote-portrait.no-portrait .quote-portrait-content {
+    flex-basis: 100%;
+  }
+}

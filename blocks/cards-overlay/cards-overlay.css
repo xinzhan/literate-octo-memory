@@ -1,0 +1,122 @@
+/*
+ * cards-overlay (source .card__wrap--2col > a.card.card--textin2)
+ * mobile/tablet (< 1202px): one column, image bleeds to the viewport edge,
+ *   40px between tiles (< 768px), 20px (768-1201px)
+ * desktop (>= 1202px): 2 columns of calc(50% - 3px), 6px gap, 537x402.75 tiles at 1080px
+ */
+
+/* source .card__wrap margin, as padding so it does not collapse into the h2 margin-bottom */
+.cards-overlay {
+  padding: 10px 0 25px;
+}
+
+.cards-overlay > ul {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 40px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.cards-overlay .cards-overlay-card {
+  position: relative;
+}
+
+.cards-overlay .cards-overlay-card-link {
+  display: block;
+  position: relative;
+  color: #fff;
+  text-decoration: none;
+}
+
+/* source .card__image: height from padding-top 75% of the tile width; wider than the tile below 1202px */
+.cards-overlay .cards-overlay-card-image {
+  position: relative;
+  height: 0;
+  margin: 0 calc(-1 * var(--section-gutter));
+  padding-top: 75%;
+  overflow: hidden;
+}
+
+/* source .card--textin2 .card__image::after */
+.cards-overlay .cards-overlay-card-image::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 50%;
+  background-image: linear-gradient(rgb(74 74 74 / 0%) 0, rgb(45 45 45) 85%);
+  background-blend-mode: multiply;
+}
+
+.cards-overlay .cards-overlay-card-image picture,
+.cards-overlay .cards-overlay-card-image img {
+  display: block;
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* source .card--textin2 .card__title */
+.cards-overlay .cards-overlay-card-body {
+  position: absolute;
+  z-index: 5;
+  left: calc(-1 * var(--section-gutter));
+  right: calc(-1 * var(--section-gutter));
+  bottom: 10px;
+  padding: 0 15px 10px;
+  color: #fff;
+  font-family: var(--body-font-family);
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 32px;
+  text-align: center;
+}
+
+.cards-overlay .no-image .cards-overlay-card-body {
+  position: static;
+  color: var(--heading-color);
+}
+
+.cards-overlay .cards-overlay-card-body :is(p, h2, h3, h4, h5, h6) {
+  margin: 0;
+  color: inherit;
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  line-height: inherit;
+}
+
+@media (width >= 768px) {
+  .cards-overlay > ul {
+    gap: 20px;
+  }
+}
+
+@media (width >= 1202px) {
+  /* source .card__wrap margin 35px 0 70px; the last row keeps its 6px margin-bottom */
+  .cards-overlay {
+    padding: 35px 0 76px;
+  }
+
+  .cards-overlay > ul {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 6px;
+  }
+
+  .cards-overlay .cards-overlay-card-image {
+    margin: 0;
+  }
+
+  .cards-overlay .cards-overlay-card-body {
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 0 35px 30px;
+    font-size: 24px;
+  }
+}

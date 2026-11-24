@@ -1,0 +1,36 @@
+{
+  "variantName": "carousel-video",
+  "baseBlock": "carousel",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": "Full-width 16:9 YouTube slides, edge arrows, bar dots",
+  "contentPattern": "Slides carry YouTube links (https://www.youtube.com/watch?v=ttLUNi9sqpk, https://www.youtube.com/watch?v=XblaSObutgI) in the media cell instead of an image; the block JS turns them into iframes. Captions are empty in the source.",
+  "options": [],
+  "memberVariantIds": [],
+  "blockContent": {
+    "baseBlock": "carousel",
+    "source": "get_all_blocks_catalog (includeDetails) /block-collection/carousel",
+    "columns": 2,
+    "rows": [
+      {
+        "row": 1,
+        "cells": [
+          "Carousel (video)"
+        ]
+      },
+      {
+        "row": "2..n (one per slide)",
+        "cells": [
+          "YouTube link (in place of the image)",
+          "Optional caption (empty in source)"
+        ]
+      }
+    ],
+    "slides": 2
+  },
+  "sectionMetadata": {
+    "style": "cream, centered"
+  },
+  "sourceUrl": "https://www.foundersmemorial.gov.sg/shapeourmemorial/en",
+  "usage": "Carousel of full-width 16:9 YouTube videos with edge arrows and bar indicators; iframes load lazily.",
+  "reuseGuidance": "Use when several YouTube videos share one slot. For a single video use embed-video."
+}

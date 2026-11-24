@@ -1,0 +1,78 @@
+/* cards-icon: source #section2 .row > .icon__wrap (title, line icon, CTA) */
+.cards-icon > ul {
+  display: grid;
+  grid-template-columns: 1fr;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.cards-icon .cards-icon-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 0 50px;
+}
+
+.cards-icon .cards-icon-card-title {
+  align-self: stretch;
+  color: rgb(50 50 50);
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 33px;
+  text-align: center;
+}
+
+.cards-icon .cards-icon-card-title :is(p, h2, h3, h4, h5, h6) {
+  margin: 0;
+  color: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  line-height: inherit;
+}
+
+.cards-icon .cards-icon-card-image {
+  margin: 20px 0 15px;
+}
+
+.cards-icon .cards-icon-card-image p {
+  margin: 0;
+}
+
+.cards-icon .cards-icon-card-image picture {
+  display: block;
+}
+
+/* source icon renders at 8.854vw (127.5px @1440, 34.5px @390) */
+.cards-icon .cards-icon-card-image img {
+  display: block;
+  width: 8.854vw;
+  max-width: none;
+  height: auto;
+  object-fit: contain;
+}
+
+.cards-icon .cards-icon-card-cta p {
+  margin: 0;
+}
+
+/* global main a.button.primary (source .btn--default); this tile uses 12px 25px */
+main .cards-icon a.button:any-link {
+  display: block;
+  padding: 12px 25px;
+}
+
+@media (width >= 900px) {
+  .cards-icon > ul {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    column-gap: 30px;
+  }
+
+  .cards-icon .cards-icon-card {
+    margin: 0;
+  }
+
+  .cards-icon .cards-icon-card-title {
+    flex: 1 1 auto;
+  }
+}

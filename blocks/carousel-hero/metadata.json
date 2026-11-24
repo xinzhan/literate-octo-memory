@@ -1,0 +1,34 @@
+{
+  "variantName": "carousel-hero",
+  "baseBlock": "carousel",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": "Full-width photo slides, text panel overlaid at right, edge arrows",
+  "contentPattern": "Source title is p.banner__title (the source page has no h1). Author slide 1's title as h1 and later slides' as h2. Use the desktop 1280x640 masthead images (masthead_carousel_0N_desktop_1280x640) rather than the mobile 360x318 crops in cleaned.html. The scroll-down chevron (#next) is decorative and is dropped or added by the block JS.",
+  "options": [],
+  "memberVariantIds": [],
+  "blockContent": {
+    "baseBlock": "carousel",
+    "source": "get_all_blocks_catalog (includeDetails) /block-collection/carousel",
+    "columns": 2,
+    "rows": [
+      {
+        "row": 1,
+        "cells": [
+          "Carousel (hero)"
+        ]
+      },
+      {
+        "row": "2..n (one per slide)",
+        "cells": [
+          "Image (mandatory, nothing else)",
+          "Title (heading), description paragraph(s), optional CTA link"
+        ]
+      }
+    ],
+    "slides": 3
+  },
+  "sectionMetadata": null,
+  "sourceUrl": "https://www.foundersmemorial.gov.sg/shapeourmemorial/en",
+  "usage": "Top-of-page masthead carousel: full-width photo slides with a text panel (title, description, optional CTA) on the right, bar indicators and edge arrows.",
+  "reuseGuidance": "Use for a page-opening carousel of photo stories. For a single static banner use hero; for video slides use carousel-video."
+}

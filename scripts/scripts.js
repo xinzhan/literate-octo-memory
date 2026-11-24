@@ -10,6 +10,9 @@ import {
   loadSections,
   loadCSS,
   buildBlock,
+  readBlockConfig,
+  toClassName,
+  toCamelCase,
 } from './aem.js';
 
 if (window.trustedTypes && window.trustedTypes.createPolicy) {
@@ -104,10 +107,17 @@ function buildAutoBlocks(main) {
 }
 
 /**
- * Decorates formatted links to style them as buttons.
+ * Blocks that build their own markup from authored links; never buttonize inside them.
+ */
+const SELF_LINKING_BLOCKS = ['cards-overlay', 'cards-logo', 'carousel-video', 'embed-video'];
+
+/**
+ * Decorates links to style them as buttons. Links wrapped in strong/em keep the
+ * authored variant; a plain link that is the sole content of its paragraph becomes primary.
  * @param {HTMLElement} main The main container element
  */
 function decorateButtons(main) {
+  const skip = SELF_LINKING_BLOCKS.map((name) => `.${name}`).join(', ');
   main.querySelectorAll('p a[href]').forEach((a) => {
     a.title = a.title || a.textContent;
     const p = a.closest('p');
@@ -121,10 +131,15 @@ function decorateButtons(main) {
       if (new URL(a.href).href === new URL(text, window.location).href) return;
     } catch { /* continue */ }
 
-    // require authored formatting for buttonization
+    if (a.closest(skip)) return;
+
     const strong = a.closest('strong');
     const em = a.closest('em');
-    if (!strong && !em) return;
+    if (!strong && !em) { // standalone call-to-action link
+      p.className = 'button-wrapper';
+      a.className = 'button primary';
+      return;
+    }
 
     p.className = 'button-wrapper';
     a.className = 'button';
@@ -143,6 +158,29 @@ function decorateButtons(main) {
 }
 
 /**
+ * Applies Section Metadata blocks to their sections (style -> classes, other keys -> data-*),
+ * then removes them. The vendored aem.js decorateSections does not do this.
+ * @param {Element} main The main element
+ */
+function decorateSectionMetadata(main) {
+  main.querySelectorAll(':scope > .section div.section-metadata').forEach((meta) => {
+    const section = meta.closest('.section');
+    const config = readBlockConfig(meta);
+    Object.entries(config).forEach(([key, value]) => {
+      if (key === 'style') {
+        String(value).split(',').map((s) => toClassName(s.trim())).filter(Boolean)
+          .forEach((cls) => section.classList.add(cls));
+      } else {
+        section.dataset[toCamelCase(key)] = value;
+      }
+    });
+    const wrapper = meta.parentElement;
+    meta.remove();
+    if (wrapper && wrapper !== section && !wrapper.children.length) wrapper.remove();
+  });
+}
+
+/**
  * Decorates the main element.
  * @param {Element} main The main element
  */
@@ -151,6 +189,7 @@ export function decorateMain(main) {
   decorateIcons(main);
   buildAutoBlocks(main);
   decorateSections(main);
+  decorateSectionMetadata(main);
   decorateBlocks(main);
   decorateButtons(main);
 }

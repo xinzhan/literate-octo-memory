@@ -1,0 +1,34 @@
+{
+  "variantName": "cards-icon",
+  "baseBlock": "cards",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": "Centered title, line icon, pill button",
+  "contentPattern": "Title sits above the icon in the source; the block CSS reorders it. Card text cell: title (p strong or h3), CTA link.",
+  "options": [],
+  "memberVariantIds": [],
+  "blockContent": {
+    "baseBlock": "cards",
+    "source": "get_all_blocks_catalog (includeDetails) /block-collection/cards",
+    "columns": 2,
+    "rows": [
+      {
+        "row": 1,
+        "cells": [
+          "Cards (icon)"
+        ]
+      },
+      {
+        "row": "2..n (one per card)",
+        "cells": [
+          "Icon image",
+          "Title, CTA link"
+        ]
+      }
+    ],
+    "items": 2
+  },
+  "sectionMetadata": null,
+  "sourceUrl": "https://www.foundersmemorial.gov.sg/shapeourmemorial/en",
+  "usage": "Row of call-to-action tiles: centred title, line icon, pill button.",
+  "reuseGuidance": "Use for 2-3 short CTA tiles with an icon each. Use cards-overlay for image tiles and cards-logo for logo grids."
+}

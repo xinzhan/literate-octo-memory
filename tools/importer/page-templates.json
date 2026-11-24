@@ -1,0 +1,178 @@
+{
+  "templates": [
+    {
+      "name": "shapeourmemorial",
+      "urls": [
+        "https://www.foundersmemorial.gov.sg/shapeourmemorial/en"
+      ],
+      "representativeUrl": "https://www.foundersmemorial.gov.sg/shapeourmemorial/en",
+      "description": "Founders' Memorial 'Shape Our Memorial' subsite landing page: hero carousel, entry-point icon cards, video carousel, quote, exhibition tiles, CTA band, about video, partner logos",
+      "blocks": [
+        {
+          "name": "carousel-hero",
+          "instances": [
+            ".banner__wrap--homepage"
+          ]
+        },
+        {
+          "name": "cards-icon",
+          "instances": [
+            "#section2 .row",
+            "section.section__wrap:has(.icon__wrap) .row"
+          ]
+        },
+        {
+          "name": "carousel-video",
+          "instances": [
+            ".slider--basic"
+          ]
+        },
+        {
+          "name": "quote-portrait",
+          "instances": [
+            ".quote.quote--with-image",
+            ".quote"
+          ]
+        },
+        {
+          "name": "cards-overlay",
+          "instances": [
+            ".card__wrap--2col",
+            ".card__wrap"
+          ]
+        },
+        {
+          "name": "embed-video",
+          "instances": [
+            ".about__video"
+          ]
+        },
+        {
+          "name": "cards-logo",
+          "instances": [
+            ".section--partners .section__content"
+          ]
+        }
+      ],
+      "urlPattern": "/shapeourmemorial/*",
+      "sections": [
+        {
+          "id": "rc2",
+          "name": "Hero carousel",
+          "selector": [
+            "main > .main-side-padding:has(.banner__wrap--homepage)"
+          ],
+          "style": null,
+          "blocks": [
+            "carousel-hero"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "rc3",
+          "name": "Explore / Contribute entry points",
+          "selector": [
+            "main > .main-side-padding:has(#section2)",
+            "main > .main-side-padding:has(.icon__wrap)"
+          ],
+          "style": null,
+          "blocks": [
+            "cards-icon"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "rc4",
+          "name": "Ordinary Items, Extraordinary Stories",
+          "selector": [
+            "main > .main-side-padding:has(.slider--basic)"
+          ],
+          "style": "cream, centered",
+          "blocks": [
+            "carousel-video"
+          ],
+          "defaultContent": [
+            ".section__title p.section__title",
+            ".section__title h3.section__subtitle"
+          ]
+        },
+        {
+          "id": "rc5",
+          "name": "Mdm Zainab quote",
+          "selector": [
+            "main > .main-side-padding:has(.quote--with-image)",
+            "main > .main-side-padding:has(.quote)"
+          ],
+          "style": "blue-grey",
+          "blocks": [
+            "quote-portrait"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "rc6",
+          "name": "Explore Our Online Exhibition",
+          "selector": [
+            "main > .main-side-padding:has(.section--artefact)"
+          ],
+          "style": "centered",
+          "blocks": [
+            "cards-overlay"
+          ],
+          "defaultContent": [
+            ".section--artefact p.section__title",
+            ".section--artefact .section__content > a.btn"
+          ]
+        },
+        {
+          "id": "rc7",
+          "name": "Enrich Our Memorial CTA",
+          "selector": [
+            "main > .main-side-padding:has(.section--text)"
+          ],
+          "style": "light-grey, centered",
+          "blocks": [],
+          "defaultContent": [
+            ".section--text p.section__title",
+            ".section--text h3.section__subtitle",
+            ".section--text a.section__button"
+          ]
+        },
+        {
+          "id": "rc8",
+          "name": "About The Founders' Memorial",
+          "selector": [
+            "main > .main-side-padding:has(.section--about)"
+          ],
+          "style": "cream, centered",
+          "blocks": [
+            "embed-video"
+          ],
+          "defaultContent": [
+            ".section--about p.section__title",
+            ".section--about h3.section__subtitle",
+            ".section--about .mx-auto p",
+            ".section--about a.about__button"
+          ]
+        },
+        {
+          "id": "rc9",
+          "name": "Our Partners",
+          "selector": [
+            "main > .main-side-padding:has(.section--partners)"
+          ],
+          "style": "centered",
+          "blocks": [
+            "cards-logo"
+          ],
+          "defaultContent": [
+            ".section--partners p.section__title"
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "projectType": "da"
+  }
+}

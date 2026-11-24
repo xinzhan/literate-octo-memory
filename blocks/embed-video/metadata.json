@@ -1,0 +1,34 @@
+{
+  "variantName": "embed-video",
+  "baseBlock": "embed",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": "Full-width 16:9 YouTube embed",
+  "contentPattern": "https://www.youtube.com/watch?v=oO89ZoVlhhU, full container width, 16:9.",
+  "options": [],
+  "memberVariantIds": [],
+  "blockContent": {
+    "baseBlock": "embed",
+    "source": "get_all_blocks_catalog (includeDetails) /block-collection/embed, Embed (video)",
+    "columns": 1,
+    "rows": [
+      {
+        "row": 1,
+        "cells": [
+          "Embed (video)"
+        ]
+      },
+      {
+        "row": 2,
+        "cells": [
+          "Optional poster image above the YouTube URL"
+        ]
+      }
+    ]
+  },
+  "sectionMetadata": {
+    "style": "cream, centered"
+  },
+  "sourceUrl": "https://www.foundersmemorial.gov.sg/shapeourmemorial/en",
+  "usage": "Single full-width 16:9 YouTube embed, lazily loaded; optional poster image gives click-to-play.",
+  "reuseGuidance": "Use for one YouTube video. For several videos in one slot use carousel-video."
+}

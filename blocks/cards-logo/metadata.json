@@ -1,0 +1,36 @@
+{
+  "variantName": "cards-logo",
+  "baseBlock": "cards",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": "Image-only logo grid, 4 per row",
+  "contentPattern": "Image-only cards: image cell with the logo (alt = partner name), empty text cell. The logos are not linked in the source.",
+  "options": [],
+  "memberVariantIds": [],
+  "blockContent": {
+    "baseBlock": "cards",
+    "source": "get_all_blocks_catalog (includeDetails) /block-collection/cards",
+    "columns": 2,
+    "rows": [
+      {
+        "row": 1,
+        "cells": [
+          "Cards (logo)"
+        ]
+      },
+      {
+        "row": "2..n (one per logo)",
+        "cells": [
+          "Logo image",
+          "(empty)"
+        ]
+      }
+    ],
+    "items": 8
+  },
+  "sectionMetadata": {
+    "style": "centered"
+  },
+  "sourceUrl": "https://www.foundersmemorial.gov.sg/shapeourmemorial/en",
+  "usage": "Image-only partner logo grid, 4 per row on desktop and 3 on mobile.",
+  "reuseGuidance": "Use for sponsor/partner logos. Leave the second cell empty; add a link in it only if the logo should link."
+}

@@ -1,0 +1,36 @@
+{
+  "variantName": "cards-overlay",
+  "baseBlock": "cards",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": "2x2 dark image tiles, white title over the image bottom",
+  "contentPattern": "Image 540x324 plus a linked title overlaid at the bottom of the image. Links: /shapeourmemorial/en/onlineexhibition#Chapter1..4.",
+  "options": [],
+  "memberVariantIds": [],
+  "blockContent": {
+    "baseBlock": "cards",
+    "source": "get_all_blocks_catalog (includeDetails) /block-collection/cards",
+    "columns": 2,
+    "rows": [
+      {
+        "row": 1,
+        "cells": [
+          "Cards (overlay)"
+        ]
+      },
+      {
+        "row": "2..n (one per card)",
+        "cells": [
+          "Image",
+          "Linked title"
+        ]
+      }
+    ],
+    "items": 4
+  },
+  "sectionMetadata": {
+    "style": "centered"
+  },
+  "sourceUrl": "https://www.foundersmemorial.gov.sg/shapeourmemorial/en",
+  "usage": "Grid of dark image tiles (2 per row on desktop) with a white linked title over the bottom of the image; whole tile is clickable.",
+  "reuseGuidance": "Use for chapter/section teasers with imagery. Use cards-icon for icon CTAs."
+}
